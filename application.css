@@ -16,7 +16,7 @@ body{
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
     .main_container{
-        max-width:100%
+        width:100%
     }
 }
 
