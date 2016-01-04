@@ -24,8 +24,11 @@
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
     </head>
-    <body class="main_container">
+    <body>
         <div id="header">
+            <div class="container">
+                
+            </div>
             yo
         </div>
         <div id="main">
