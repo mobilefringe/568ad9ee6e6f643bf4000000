@@ -61,8 +61,11 @@
         </section>
         
         <section id="footer">
-            <p>
+            <p class="pull-left">
                 @2016 Mall Maverick All right reserved.
+            </p>
+            <p class="pull-right">
+                Powered by <a href="http://mallmaverick.com" target="_blank">Mall Maverick</a>
             </p>
         </section>
     </body>
