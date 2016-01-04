@@ -32,11 +32,11 @@
                 </a>
                 <div id="navigation">
                     <ul class="custom_nav">
-                        <li><a href="#">How it works</a></li>
-                        <li><a href="#">Features</a></li>
-                        <li><a href="#">Contact</a></li>
-                        <li><a href="#">Login</a></li>
-                        <li><a href="#" class="sign_up">Sign Up</a></li>
+                        <li><a href="#" class="scroll">How it works</a></li>
+                        <li><a href="#" class="scroll">Features</a></li>
+                        <li><a href="#" class="scroll">Contact</a></li>
+                        <li><a href="#" class="scroll">Login</a></li>
+                        <li><a href="#" class="sign_up scroll">Sign Up</a></li>
                     </ul>
                 </div>
             </div>
