@@ -26,7 +26,7 @@
     </head>
     <body>
         <section id="header">
-            <div class="container">
+            <div class="main_container">
                 <p style="background:#fff;    color: transparent;">yo</p>
             </div>
         </section>
