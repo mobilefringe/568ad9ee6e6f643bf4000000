@@ -27,7 +27,7 @@
     <body>
         <section id="header">
             <div class="main_container">
-                <p style="background:#fff;    color: transparent;">yo</p>
+                <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451593113000/rm_logo.png" class="main_logo" alt="logo">
             </div>
         </section>
         
