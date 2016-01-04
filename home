@@ -27,14 +27,23 @@
             <div class="col-md-4">
                 <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451949209000/feature_promotions.png" class="width_100" alt="promotions">
                 <h3 class="sub_heading">Promotions</h3>
+                <p class="desc">
+                    Create and send your promotions / campaigns to all your retail locations all at once, efficiently.
+                </p>
             </div>
             <div class="col-md-4">
                 <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451949230000/feature_social.png" class="width_100" alt="social">
                 <h3 class="sub_heading">Share Socially</h3>
+                <p class="desc">
+                    Share your content socially on Facebook and Twitter all from one place!
+                </p>
             </div>
             <div class="col-md-4">
                 <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451949244000/feature_locations.png" class="width_100" alt="locations">
                 <h3 class="sub_heading">Retail Locations</h3>
+                <p class="desc">
+                    Communicate to all your retail outlets quickly and easily.
+                </p>
             </div>
         </div>
     </div>
