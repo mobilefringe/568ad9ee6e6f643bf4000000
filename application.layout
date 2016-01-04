@@ -24,7 +24,7 @@
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
     </head>
-    <body>
+    <body id="top" data-spy="scroll" data-target="#navigation">
         <section id="header">
             <div class="main_container">
                 <a href="/">
