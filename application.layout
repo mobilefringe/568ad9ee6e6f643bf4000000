@@ -45,7 +45,9 @@
         </section>
         
         <section id="footer">
+            <div class="main_container">
             
+            </div>
         </section>
     </body>
 </html>
