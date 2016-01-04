@@ -1,5 +1,5 @@
 <section id="how_it_works">
-    <div>
+    <div class="main_container">
         <div class="row">
             <div class="col-md-7">
                 <h2 class="heading">How does it work?</h2>
