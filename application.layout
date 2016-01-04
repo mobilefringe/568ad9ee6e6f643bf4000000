@@ -42,29 +42,5 @@
         <div id="main">
             {{yield}}
         </div>
-        <div class="row footer">
-                <div class="col-md-12">
-                    <div class="footer_div">
-                        <div class="col-md-6 footer_p">
-                            <p>
-                                © 2015 Shop Central. All rights reserved.
-                                <br class="show_phone" />
-                                <!--<a href="#">Privacy Policy</a>-->
-                                <!--|-->
-                                <!--<a href="#">Terms & Conditions</a>-->
-                                <!--|-->
-                                <a href="/contact">Contact Us</a>
-                            </p>
-                        </div>
-                        <div class="col-md-6 powered_by">
-                            <p>
-                                Powered by
-                                <a href="#">Mall Maverick</a>
-                            </p>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-            </div>
     </body>
 </html>
