@@ -53,7 +53,7 @@
                     </div>
                     <div class="col-md-4">
                         <h4 class="header">Subscribe & Get Updates!</h4> 
-                        <input type="text" class="form-control" />
+                        <input type="text" class="form-control" placeholder="Enter Email" />
                     </div>
                 </div>
             </div>
