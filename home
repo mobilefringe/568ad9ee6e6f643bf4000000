@@ -24,9 +24,15 @@
     <div class="main_container text-center">
         <h2 class="heading">All what you need in one place.</h2>
         <div class="row">
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
-            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451949209000/feature_promotions.png" class="" alt="promotions">
+            </div>
+            <div class="col-md-4">
+                <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451949230000/feature_social.png" class="" alt="social">
+            </div>
+            <div class="col-md-4">
+                <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451949244000/feature_locations.png" class="" alt="locations">
+            </div>
         </div>
     </div>
 </section>
