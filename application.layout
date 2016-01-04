@@ -60,6 +60,10 @@
             </div>
         </section>
         
-        <section id="footer"></section>
+        <section id="footer">
+            <p>
+                @2016 Mall Maverick All right reserved.
+            </p>
+        </section>
     </body>
 </html>
