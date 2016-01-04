@@ -30,12 +30,14 @@
                 
             </div>
             yo
-        </div>
-        <div id="main">
+        </section>
+        
+        <section id="main">
             {{yield}}
-        </div>
-        <div id="footer">
+        </section>
+        
+        <section id="footer">
             
-        </div>
+        </section>
     </body>
 </html>
