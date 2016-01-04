@@ -25,8 +25,14 @@
         <![endif]-->
     </head>
     <body class="main_container">
+        <div id="header">
+            
+        </div>
         <div id="main">
             {{yield}}
+        </div>
+        <div id="footer">
+            
         </div>
     </body>
 </html>
