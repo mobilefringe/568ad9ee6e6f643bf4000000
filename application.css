@@ -15,21 +15,21 @@ body{
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-    .container{
+    .main_container{
         max-width:100%
     }
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-    .container{
+    .main_container{
         width:960px;
     }
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-    .container{
+    .main_container{
         width:1140px;
     }
     
