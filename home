@@ -57,8 +57,12 @@
     <div class="row">
         <div class="col-md-8 center_align">
             <div class="row">
-                <div class="col-md-6"></div>
-                <div class="col-md-6"></div>
+                <div class="col-md-6">
+                    
+                </div>
+                <div class="col-md-6">
+                    
+                </div>
             </div>
         </div>
     </div>
