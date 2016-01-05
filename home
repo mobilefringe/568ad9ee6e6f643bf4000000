@@ -17,7 +17,7 @@
       <source src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/video/mp4/1451022020000/citylifestyle.mp4" type="video/mp4">
       <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/jpeg/1451514331000/video_bg_sample.jpg" class="" alt="poster">
     </video>
-    <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/jpeg/1451514331000/video_bg_sample.jpg" class="show_phone" alt="poster">
+    <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/jpeg/1451514331000/video_bg_sample.jpg" class="show_phone width_100" alt="poster">
     <div class="custom_backdrop"></div>
     <div class="headline">
         <div class="main_container text-center">
