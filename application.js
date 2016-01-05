@@ -18,9 +18,9 @@ $(document).ready(function(){
         $('#close_menu').show();
     });
     
-    $('#open_menu').click(function(){
+    $('#close_menu').click(function(){
         $('#menu').slideDown();
         $(this).hide();
-        $('#close_menu').show();
+        $('#open_menu').show();
     });
 });
