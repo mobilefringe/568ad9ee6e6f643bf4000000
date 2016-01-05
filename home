@@ -71,11 +71,11 @@
                     <div class="row">
                         <div class="col-md-6">
                             <label class="custom_label" for="email"></label>
-                            <input type="text" name="email" id="email" class="form-control" />
+                            <input type="text" name="email" id="email" class="form-control" required />
                         </div>
                         <div class="col-md-6">
-                            <label class="custom_label" for=""></label>
-                            <input type="text" name="" id="" class="form-control" />
+                            <label class="custom_label" for="retailer"></label>
+                            <input type="text" name="retailer" id="retailer" class="form-control" />
                         </div>
                     </div>
                 </form>
