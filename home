@@ -57,14 +57,16 @@
         </p>
         <div class="row">
             <div class="col-md-8 center_align">
-                <div class="row">
-                    <div class="col-md-6">
-                        yo
+                <form>
+                    <div class="row">
+                        <div class="col-md-6">
+                            
+                        </div>
+                        <div class="col-md-6">
+                            yo
+                        </div>
                     </div>
-                    <div class="col-md-6">
-                        yo
-                    </div>
-                </div>
+                </form>
             </div>
         </div>
     </div>
