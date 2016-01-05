@@ -61,11 +61,11 @@
                     <div class="row">
                         <div class="col-md-6">
                             <label class="custom_label" for="full_name"></label>
-                            <input type="text" name="full_name" id="full_name" class="form-control" />
+                            <input type="text" name="full_name" id="full_name" class="form-control" required />
                         </div>
                         <div class="col-md-6">
                             <label class="custom_label" for="phone"></label>
-                            <input type="text" name="phone" id="phone" class="form-control" />
+                            <input type="text" name="phone" id="phone" class="form-control" required />
                         </div>
                     </div>
                     <div class="row">
