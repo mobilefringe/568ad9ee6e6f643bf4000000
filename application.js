@@ -14,5 +14,7 @@ $(document).ready(function(){
     
     $('#open_menu').click(function(){
         $('#menu').slideDown();
+        $(this).hide();
+        $(#close_menu).show()
     })
 });
