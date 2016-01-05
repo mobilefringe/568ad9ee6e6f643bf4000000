@@ -60,22 +60,22 @@
                 <form>
                     <div class="row">
                         <div class="col-md-6">
-                            <label class="custom_label" for=""></label>
-                            <input type="text" class="form-control" />
+                            <label class="custom_label" for="full_name"></label>
+                            <input type="text" name="full_name" id="full_name" class="form-control" />
                         </div>
                         <div class="col-md-6">
-                            <label class="custom_label" for=""></label>
-                            <input type="text" class="form-control" />
+                            <label class="custom_label" for="phone"></label>
+                            <input type="text" name="phone" id="phone" class="form-control" />
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-6">
-                            <label class="custom_label" for=""></label>
-                            <input type="text" class="form-control" />
+                            <label class="custom_label" for="email"></label>
+                            <input type="text" name="email" id="email" class="form-control" />
                         </div>
                         <div class="col-md-6">
                             <label class="custom_label" for=""></label>
-                            <input type="text" class="form-control" />
+                            <input type="text" name="" id="" class="form-control" />
                         </div>
                     </div>
                 </form>
