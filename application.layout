@@ -33,7 +33,7 @@
                 <img id="open_menu" src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1452023412000/menu_mobile.png" class="" alt="">
                 <img id="close_menu" src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1452023426000/close_menu.png" class="" alt="">
                 
-                <ul class="custom_nav">
+                <ul class="custom_nav" id="menu">
                     <li><a href="#how_it_works" class="scroll">How it works</a></li>
                     <li><a href="#features" class="scroll">Features</a></li>
                     <li><a href="#" class="scroll">Contact</a></li>
