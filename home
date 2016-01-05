@@ -60,10 +60,18 @@
                 <form>
                     <div class="row">
                         <div class="col-md-6">
-                            
+                            <label class="custom_label" for=""></label>
                         </div>
                         <div class="col-md-6">
-                            yo
+                            <label class="custom_label" for=""></label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label class="custom_label" for=""></label>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="custom_label" for=""></label>
                         </div>
                     </div>
                 </form>
