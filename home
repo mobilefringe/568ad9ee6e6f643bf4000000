@@ -1,7 +1,7 @@
 <section id="video">
     <video loop autoplay id="bgvid" poster="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/jpeg/1451514331000/video_bg_sample.jpg">
       <source src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/video/mp4/1451022020000/citylifestyle.mp4" type="video/mp4">
-      Your browser does not support the video tag.
+      <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/jpeg/1451514331000/video_bg_sample.jpg" class="" alt="poster">
     </video>
 </section>
 
