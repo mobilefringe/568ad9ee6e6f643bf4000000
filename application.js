@@ -2,7 +2,9 @@
 
 
 $(document).ready(function(){
-    $(".modal").modal()
+    $('#read_privacy').click(function(){
+        $(".modal").modal()
+    })
     $(".scroll").click(function(event) {
         event.preventDefault();
         $('html,body').animate( { scrollTop:$(this.hash).offset().top-85 } , 500);
