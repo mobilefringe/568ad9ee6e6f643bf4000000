@@ -5,6 +5,6 @@ function scrollToAnchor(aid){
     $('html,body').animate({scrollTop: aTag.offset().top},'slow');
 }
 
-$("#link").click(function() {
+$("scroll").click(function() {
    scrollToAnchor('id3');
 });
