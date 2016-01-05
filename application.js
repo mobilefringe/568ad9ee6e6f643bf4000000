@@ -12,5 +12,7 @@ $(document).ready(function(){
         $('html,body').animate( { scrollTop:$(this.hash).offset().top-85 } , 500);
     });
     
-    
+    $('#open_menu').click(function(){
+        $('#menu').slideDown()l
+    })
 });
