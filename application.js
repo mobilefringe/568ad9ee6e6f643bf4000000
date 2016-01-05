@@ -13,6 +13,6 @@ $(document).ready(function(){
     });
     
     $('#open_menu').click(function(){
-        $('#menu').slideDown()l
+        $('#menu').slideDown();
     })
 });
