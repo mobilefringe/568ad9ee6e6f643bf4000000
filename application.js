@@ -2,7 +2,8 @@
 
 
 $(document).ready(function(){
-    $('#read_privacy').click(function(){
+    $('#read_privacy').click(function(e){
+        e.preventDefault();
         $(".modal").modal();
     });
     $(".scroll").click(function(event) {
