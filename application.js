@@ -19,7 +19,7 @@ $(document).ready(function(){
     });
     
     $('#close_menu').click(function(){
-        $('#menu').slideDown();
+        $('#menu').slideUp();
         $(this).hide();
         $('#open_menu').show();
     });
