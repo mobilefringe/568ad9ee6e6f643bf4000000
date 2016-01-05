@@ -10,7 +10,7 @@
             <p class="headline_desc">
                 Simply, the only solution to create, manage and send your digital content to all your retailer outlets from one place.
             </p>
-            <a href="#signup" class="main_btn">SIGN UP!</a>
+            <a href="#signup" class="scroll main_btn">SIGN UP!</a>
             <a href="#" class="main_btn">LOGIN</a>
         </div>
     </div>
