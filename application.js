@@ -4,6 +4,6 @@
 $(document).ready(function(){
     $(".scroll").click(function(event) {
         event.preventDefault();
-        $('html,body').animate( { scrollTop:$(this.hash).offset().top-85 } , 2000);
+        $('html,body').animate( { scrollTop:$(this.hash).offset().top-85 } , 500);
     } );
 });
