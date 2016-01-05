@@ -59,6 +59,7 @@
                             <label for="agree_terms" class="confirm_label checkbox-custom-label">
                                 I agree to receive electronic email messaging from Mall Maverick
                             </label>
+                            <input id="agree_terms" type="checkbox" value="true" class="checkbox-custom">
                         </div>
                     </div>
                 </div>
