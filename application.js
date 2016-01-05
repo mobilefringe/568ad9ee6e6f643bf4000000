@@ -5,6 +5,7 @@ function scrollToAnchor(aid){
     $('html,body').animate({scrollTop: aTag.offset().top},'slow');
 }
 
-$("scroll").click(function() {
-   scrollToAnchor('id3');
-});
+$(".scroll").click(function(event) {
+    event.preventDefault();
+    $('html,body').animate( { scrollTop:$(this.hash).offset().top } , 1000);
+    } );
