@@ -11,7 +11,7 @@
                     <input type="password" id="password" class="form-control custom_control login_control" name="password" />
                     <a href="#">Forgot your password?</a>
                     <label class="custom_label">
-                        <input type="checkbox" name="" />
+                        <input type="checkbox" name="" class="form-control" />
                         Keep me logged in
                         </label>
                     <input type="submit" value="Login" class="send_btn" />
