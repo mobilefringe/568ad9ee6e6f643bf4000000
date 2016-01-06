@@ -7,7 +7,7 @@
                     <label class="custom_label" for="email">Email</label>
                     <input type="text" id="email" name="email" class="form-control custom_control" required />
                     <label class="custom_label" for="password">Password</label>
-                    <input type="password" id="retail_name" class="form-control custom_control" name="retail_name" />
+                    <input type="password" id="password" class="form-control custom_control" name="retail_name" />
                     <p>captcha</p>
                     <input type="submit" value="Send" class="send_btn" />
                 </form>
