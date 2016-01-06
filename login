@@ -16,6 +16,7 @@
                         Keep me logged in
                     </label>
                     <br />
+                    <br />
                     <input type="submit" value="Login" class="send_btn" />
                 </form>
             </div>
