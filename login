@@ -20,7 +20,7 @@
                     <input type="submit" value="Login" class="send_btn" />
                 </form>
             </div>
-            <div class="col-md-6 hidden_phone">
+            <div class="col-md-6">
                 <h4 class="create_heading">Create an Account for Retail Maverick</h4>
                 <a href="/#signup" class="send_btn">Sign Up Now!</a>
                 <p class="contact_desc">Register and start managing your stores with the most convenient and efficient retail system.</p>
