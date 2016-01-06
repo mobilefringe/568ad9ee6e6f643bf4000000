@@ -5,6 +5,7 @@
         <a href="/" class="submit_btn">Go Back to Homepage</a>
     </div>
 </div>
+
 <script>
     $(document).ready(function(){
         init();
