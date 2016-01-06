@@ -3,7 +3,7 @@
         <h3 class="heading">Sign in or Create an Account</h3>
         <div class="row contact_row">
             <div class="col-md-6 contact_col">
-                <h4 class="create_heading">I have a Retail Maverick</h4>
+                <h4 class="create_heading">I have a Retail Maverick Account</h4>
                 <form>
                     <label class="custom_label" for="email">Email</label>
                     <input type="text" id="email" name="email" class="form-control custom_control login_control" required />
