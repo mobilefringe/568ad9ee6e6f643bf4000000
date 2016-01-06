@@ -8,7 +8,7 @@
                     <input type="text" id="email" name="email" class="form-control custom_control login_control" required />
                     <label class="custom_label" for="password">Password</label>
                     <input type="password" id="password" class="form-control custom_control login_control" name="retail_name" />
-                    <input type="submit" value="Send" class="send_btn" />
+                    <input type="submit" value="Login" class="send_btn" />
                 </form>
             </div>
             <div class="col-md-6 hidden_phone">
