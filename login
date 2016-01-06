@@ -9,6 +9,7 @@
                     <input type="text" id="email" name="email" class="form-control custom_control login_control" required />
                     <label class="custom_label" for="password">Password</label>
                     <input type="password" id="password" class="form-control custom_control login_control" name="password" />
+                    <a href="#">Forgot your password?</a>
                     <input type="submit" value="Login" class="send_btn" />
                 </form>
             </div>
