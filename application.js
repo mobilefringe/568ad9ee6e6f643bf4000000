@@ -3,7 +3,7 @@
 function init(){
     $(window).scroll( function(){
         /* Check the location of each desired element */
-        $('section').each( function(i){
+        $('.fade_in').each( function(i){
             
             var bottom_of_object = $(this).position().top + $(this).outerHeight();
             var bottom_of_window = $(window).scrollTop() + $(window).height();
