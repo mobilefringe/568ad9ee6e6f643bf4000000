@@ -7,7 +7,7 @@
                     We want to hear from you! Just enter your name, email address, and message into the form below and send away. Please include as much information about your center as possible and we'll be happy to get back to yuo in a flash!
                 </p>
                 <label for="full_name">Full Name</label>
-                <input type="text" id="full_name" name="full_name" required />
+                <input type="text" id="full_name" name="full_name" class="form-control" required />
                 <label for="email">Email</label>
                 <input type="text" id="email" name="email" required />
                 <label for="retail_name">Retail Name</label>
