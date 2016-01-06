@@ -14,7 +14,8 @@
                     <label class="custom_label">
                         <input type="checkbox" name="" />
                         Keep me logged in
-                        </label>
+                    </label>
+                    <br />
                     <input type="submit" value="Login" class="send_btn" />
                 </form>
             </div>
