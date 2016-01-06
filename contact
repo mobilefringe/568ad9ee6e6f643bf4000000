@@ -7,11 +7,11 @@
                     We want to hear from you! Just enter your name, email address, and message into the form below and send away. Please include as much information about your center as possible and we'll be happy to get back to yuo in a flash!
                 </p>
                 <label for="full_name">Full Name</label>
-                <input type="text" id="full_name" name="full_name" class="form-control" required />
+                <input type="text" id="full_name" name="full_name" class="form-control custom_control" required />
                 <label for="email">Email</label>
-                <input type="text" id="email" name="email" class="form-control" required />
+                <input type="text" id="email" name="email" class="form- custom_control" required />
                 <label for="retail_name">Retail Name</label>
-                <input type="text" id="retail_name" class="form-control" name="retail_name" />
+                <input type="text" id="retail_name" class="form-control custom_control" name="retail_name" />
             </div>
             <div class="col-md-6">
                 
