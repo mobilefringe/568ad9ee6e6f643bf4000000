@@ -1,6 +1,6 @@
 <div class="error_div">
     <div class="main_container text-center">
         <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1452111260000/404_error_msg.png" class="" alt="404 ">
-        <a href="/" class="main_btn hidden_phone">LOGIN</a>
+        <a href="/" class="main_btn">Go Back to Homepage</a>
     </div>
 </div>
