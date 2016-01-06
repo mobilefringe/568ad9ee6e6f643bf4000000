@@ -4,6 +4,7 @@ function init(){
     if($(window.location.hash).length >0){
         $("html, body").animate({scrollTop:$(window.location.hash).offset().top-85 }, 500);
     }
+    
     $('#read_privacy').click(function(e){
         e.preventDefault();
         $(".modal").modal();
