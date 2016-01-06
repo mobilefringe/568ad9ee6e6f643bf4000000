@@ -5,7 +5,7 @@
             <div class="col-md-6 contact_col">
                 <form>
                     <label class="custom_label" for="email">Email</label>
-                    <input type="text" id="email" name="email" class="form-control custom_control" required />
+                    <input type="text" id="email" name="email" class="form-control custom_control login_control" required />
                     <label class="custom_label" for="password">Password</label>
                     <input type="password" id="password" class="form-control custom_control" name="retail_name" />
                     <input type="submit" value="Send" class="send_btn" />
