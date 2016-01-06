@@ -46,7 +46,7 @@
         
         {{yield}}
         
-        <section id="newsletter">
+        <section id="newsletter" class="fade_in">
             <div class="main_container">
                 <div class="row">
                     <div class="col-md-7 col-xs-6">
