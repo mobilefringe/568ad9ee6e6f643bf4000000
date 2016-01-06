@@ -52,7 +52,7 @@
     </div>
 </section>
 
-<section id="features" class="ease_in">
+<section id="features" class="fade_in">
     <div class="main_container text-center">
         <h2 class="heading margin_40">All what you need in one place.</h2>
         <div class="row">
@@ -81,7 +81,7 @@
     </div>
 </section>
 
-<section id="signup" class="ease_in">
+<section id="signup" class="fade_in">
     <div class="main_container">
         <h3 class="text-center heading">Sign up!</h3>
         <p class="desc text-center">
