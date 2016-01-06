@@ -19,7 +19,7 @@
                     <input type="submit" value="Login" class="send_btn" />
                 </form>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-5">
                 <h4 class="create_heading">Create an Account for Retail Maverick</h4>
                 <a href="/#signup" class="send_btn">Sign Up Now!</a>
                 <p></p>
