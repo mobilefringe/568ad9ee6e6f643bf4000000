@@ -14,6 +14,7 @@
                 <input type="text" id="retail_name" class="form-control custom_control" name="retail_name" />
                 <label class="custom_label" for="message">Message</label>
                 <textarea id="message" name="message" class="form-control custom_textarea custom_control"></textarea>
+                <p>captcha</p>
             </div>
             <div class="col-md-6">
                 
