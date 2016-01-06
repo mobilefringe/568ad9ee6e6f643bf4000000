@@ -4,14 +4,10 @@
         <div class="row contact_row">
             <div class="col-md-6 contact_col">
                 <form>
-                    <label class="custom_label" for="full_name">Full Name</label>
-                    <input type="text" id="full_name" name="full_name" class="form-control custom_control" required />
                     <label class="custom_label" for="email">Email</label>
                     <input type="text" id="email" name="email" class="form-control custom_control" required />
-                    <label class="custom_label" for="retail_name">Retail Name</label>
+                    <label class="custom_label" for="password">Password</label>
                     <input type="text" id="retail_name" class="form-control custom_control" name="retail_name" />
-                    <label class="custom_label" for="message">Message</label>
-                    <textarea id="message" name="message" class="form-control custom_textarea custom_control"></textarea>
                     <p>captcha</p>
                     <input type="submit" value="Send" class="send_btn" />
                 </form>
