@@ -21,7 +21,7 @@
             </div>
             <div class="col-md-6">
                 <h4 class="create_heading">Create an Account for Retail Maverick</h4>
-                <a href="/" class="submit_btn">Go Back to Homepage</a>
+                <a href="/#singup" class="submit_btn">Sign Up Now!</a>
             </div>
         </div>
     </div>
