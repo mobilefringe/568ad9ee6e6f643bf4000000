@@ -1,6 +1,6 @@
 <section id="contact">
     <div class="main_container">
-        <h3 class="heading">Sign in or Create an Account Us</h3>
+        <h3 class="heading">Sign in or Create an Account</h3>
         <div class="row contact_row">
             <div class="col-md-6 contact_col">
                 <p class="desc">
