@@ -1,7 +1,7 @@
 /*Created 2015-02-28 by CodeCloud Team*/
 
 function init(){
-    var offsetSize = $(".header").innerHeight();
+    var offsetSize = 85px
     $("html, body").animate({scrollTop:$(window.location.hash).offset().top-offsetSize }, 500);
     
     $('#read_privacy').click(function(e){
