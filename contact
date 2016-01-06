@@ -20,7 +20,7 @@
                 </form>
             </div>
             <div class="col-md-6">
-                <h4>Create an Account for Retail Maverick</h4>
+                <h4 class="create_heading">Create an Account for Retail Maverick</h4>
             </div>
         </div>
     </div>
