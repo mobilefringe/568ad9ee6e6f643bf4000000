@@ -2,7 +2,7 @@
     <div class="main_container">
         <h3 class="heading">Contact Us</h3>
         <div class="row contact_row">
-            <div class="col-md-6">
+            <div class="col-md-6 contact_col">
                 <p class="desc">
                     We want to hear from you! Just enter your name, email address, and message into the form below and send away. Please include as much information about your center as possible and we'll be happy to get back to you in a flash!
                 </p>
