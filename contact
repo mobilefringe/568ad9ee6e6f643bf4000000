@@ -22,7 +22,10 @@
             <div class="col-md-6">
                 <h4 class="create_heading">Create an Account for Retail Maverick</h4>
                 <a href="/#signup" class="send_btn">Sign Up Now!</a>
-                <p class="desc contact_desc">Register and start managing your stores with the most convenient and efficient retail system.</p>
+                <p class="contact_desc">Register and start managing your stores with the most convenient and efficient retail system.</p>
+                <p class="contact_desc">Create and send your promotions / campaigns to all your retail locations all at once, efficently.</p>
+                <p class="contact_desc">Share your content socially on Facebook and Twiiter all from one place!</p>
+                <p class="contact_desc">Communicate to all your retail outlets quickly and easily.</p>
             </div>
         </div>
     </div>
