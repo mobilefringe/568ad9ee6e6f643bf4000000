@@ -37,7 +37,7 @@
                 <ul class="custom_nav" id="menu">
                     <li><a href="#how_it_works" class="scroll">How it works</a></li>
                     <li><a href="#features" class="scroll">Features</a></li>
-                    <li><a href="/contact" class="scroll">Contact</a></li>
+                    <li><a href="/contact" class="">Contact</a></li>
                     <li><a href="#" class="scroll">Login</a></li>
                     <li><a href="#signup" class="sign_up scroll">Sign Up!</a></li>
                 </ul>
