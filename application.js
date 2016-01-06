@@ -1,6 +1,6 @@
 /*Created 2015-02-28 by CodeCloud Team*/
 
-function inti(){
+function init(){
     $('#read_privacy').click(function(e){
         e.preventDefault();
         $(".modal").modal();
