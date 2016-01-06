@@ -1,16 +1,19 @@
 /*Created 2015-02-28 by CodeCloud Team*/
 
-
+$(".scroll").click(function(e) {
+        e.preventDefault();
+        $('html,body').animate( { scrollTop:$(this.hash).offset().top-85 } , 500);
+    });
 $(document).ready(function(){
+    init();
+});
+
+function inti(){
     $('#read_privacy').click(function(e){
         e.preventDefault();
         $(".modal").modal();
     });
     
-    $(".scroll").click(function(e) {
-        e.preventDefault();
-        $('html,body').animate( { scrollTop:$(this.hash).offset().top-85 } , 500);
-    });
     
     $('#open_menu').click(function(){
         $('#menu').slideDown();
@@ -23,4 +26,4 @@ $(document).ready(function(){
         $(this).hide();
         $('#open_menu').show();
     });
-});
+}
