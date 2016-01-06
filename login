@@ -1,4 +1,4 @@
-<section id="contact">
+<section id="contact" class="ease_in">
     <div class="main_container">
         <h3 class="heading">Sign in or Create an Account</h3>
         <div class="row contact_row">
