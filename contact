@@ -6,16 +6,18 @@
                 <p class="desc">
                     We want to hear from you! Just enter your name, email address, and message into the form below and send away. Please include as much information about your center as possible and we'll be happy to get back to you in a flash!
                 </p>
-                <label class="custom_label" for="full_name">Full Name</label>
-                <input type="text" id="full_name" name="full_name" class="form-control custom_control" required />
-                <label class="custom_label" for="email">Email</label>
-                <input type="text" id="email" name="email" class="form-control custom_control" required />
-                <label class="custom_label" for="retail_name">Retail Name</label>
-                <input type="text" id="retail_name" class="form-control custom_control" name="retail_name" />
-                <label class="custom_label" for="message">Message</label>
-                <textarea id="message" name="message" class="form-control custom_textarea custom_control"></textarea>
-                <p>captcha</p>
-                <input type="submit" value="Login" class="send_btn />
+                <form>
+                    <label class="custom_label" for="full_name">Full Name</label>
+                    <input type="text" id="full_name" name="full_name" class="form-control custom_control" required />
+                    <label class="custom_label" for="email">Email</label>
+                    <input type="text" id="email" name="email" class="form-control custom_control" required />
+                    <label class="custom_label" for="retail_name">Retail Name</label>
+                    <input type="text" id="retail_name" class="form-control custom_control" name="retail_name" />
+                    <label class="custom_label" for="message">Message</label>
+                    <textarea id="message" name="message" class="form-control custom_textarea custom_control"></textarea>
+                    <p>captcha</p>
+                    <input type="submit" value="Login" class="send_btn />
+                </form>
             </div>
             <div class="col-md-6">
                 
