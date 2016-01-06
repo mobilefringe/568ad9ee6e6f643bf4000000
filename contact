@@ -13,7 +13,7 @@
                 <label class="custom_label" for="retail_name">Retail Name</label>
                 <input type="text" id="retail_name" class="form-control custom_control" name="retail_name" />
                 <label class="custom_label" for="message">Message</label>
-                <textarea class="form-control custom_textarea custom_control"></textarea>
+                <textarea id="message" class="form-control custom_textarea custom_control"></textarea>
             </div>
             <div class="col-md-6">
                 
