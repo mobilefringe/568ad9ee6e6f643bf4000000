@@ -3,9 +3,6 @@
         <h3 class="heading">Sign in or Create an Account</h3>
         <div class="row contact_row">
             <div class="col-md-6 contact_col">
-                <p class="desc">
-                    We want to hear from you! Just enter your name, email address, and message into the form below and send away. Please include as much information about your center as possible and we'll be happy to get back to you in a flash!
-                </p>
                 <form>
                     <label class="custom_label" for="full_name">Full Name</label>
                     <input type="text" id="full_name" name="full_name" class="form-control custom_control" required />
