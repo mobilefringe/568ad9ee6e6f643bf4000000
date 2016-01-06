@@ -16,7 +16,7 @@
                     <label class="custom_label" for="message">Message</label>
                     <textarea id="message" name="message" class="form-control custom_textarea custom_control"></textarea>
                     <p>captcha</p>
-                    <input type="submit" value="Login" class="send_btn />
+                    <input type="submit" value="Login" class="send_btn" />
                 </form>
             </div>
             <div class="col-md-6">
