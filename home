@@ -113,7 +113,7 @@
                             <input type="text" name="retailer" id="retailer" class="form-control custom_control" />
                         </div>
                         <div class="col-md-12 text-center">
-                            <input type="submit" value="SEND" class="send_btn" />
+                            <input type="submit" value="Start" class="send_btn" />
                         </div>
                     </div>
                 </form>
