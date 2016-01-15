@@ -128,7 +128,6 @@
         init();
         scroll();
         $('#signup_form').submit(function(e){
-            alert("here")
             $('.send_btn').prop('disabled', true);
             e.preventDefault();
             $.getJSON(
