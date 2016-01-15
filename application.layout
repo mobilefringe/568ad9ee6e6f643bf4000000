@@ -38,7 +38,7 @@
                     <li><a href="/#how_it_works" class="scroll">How it works</a></li>
                     <li><a href="/#features" class="scroll">Features</a></li>
                     <li><a href="/contact" class="">Contact</a></li>
-                    <li><a href="#" class="scroll">Login</a></li>
+                    <li><a href="/login" class="scroll">Login</a></li>
                     <li><a href="/#signup" class="sign_up scroll">Learn How</a></li>
                 </ul>
             </div>
