@@ -5,9 +5,10 @@
             <div class="col-md-6 contact_col">
                 <h4 class="create_heading">I have a Retail Maverick Account</h4>
                 <form accept-charset="UTF-8" action="http://www.mallmaverick.com/retail_users/sign_in" id="new_retail_user" method="post">
-                <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="P0nmxlvg3RBtq+qiqAgZYaaqRfNOitZS51zIKuNELyM=" /></div>
+                    <input name="utf8" type="hidden" value="&#x2713;" />
+                    <input name="authenticity_token" type="hidden" value="P0nmxlvg3RBtq+qiqAgZYaaqRfNOitZS51zIKuNELyM=" /></div>
                     <label class="custom_label" for="email">Email</label>
-                    <input type="text" id="email" name="email" class="form-control custom_control login_control" required />
+                    <input type="text" id="email" name="retail_user[email]" class="form-control custom_control login_control" required />
                     <label class="custom_label" for="password">Password</label>
                     <input type="password" id="password" class="form-control custom_control login_control" name="password" />
                     <a href="#">Forgot your password?</a>
