@@ -25,7 +25,7 @@
                 Promotions, Campaigns, Jobs and Social Posts to all your retailer outlets from one place!
             </p>
             <a href="#signup" class="scroll main_btn">Learn How</a>
-            <a href="#" class="main_btn hidden_phone">LOGIN</a>
+            <a href="/login" class="main_btn hidden_phone">LOGIN</a>
         </div>
     </div>
 </section>
