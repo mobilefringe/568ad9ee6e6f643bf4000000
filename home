@@ -139,7 +139,7 @@
                     } else { // 200
                         $("#subscription_confirmed").fadeIn();
                         $('#subscription_confirmed').delay(2000).fadeOut();
-                        $('#subForm').trigger('reset');
+                        $('#signup_form').trigger('reset');
                         $('.send_btn').prop('disabled', true);
                     }
                 }
