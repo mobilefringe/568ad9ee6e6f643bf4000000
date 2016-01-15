@@ -14,7 +14,7 @@
                     <a href="http://www.mallmaverick.com/retail_users/password/new" target="_blank">Forgot your password?</a>
                     <br /><br />
                     <label class="custom_label">
-                        <input type="checkbox" name="retail_user[remember_me]" />
+                        <input type="checkbox" name="" />
                         Keep me logged in
                     </label>
                     <br />
