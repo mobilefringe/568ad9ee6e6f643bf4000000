@@ -92,7 +92,7 @@
         </p>
         <div class="row">
             <div class="col-md-8 center_align">
-                <form>
+                <form action="http://mobilefringe.createsend.com/t/d/s/huftr/" method="post" id="signup_form">
                     <div class="row">
                         <div class="col-md-6">
                             <label class="custom_label" for="full_name">Full Name</label>
