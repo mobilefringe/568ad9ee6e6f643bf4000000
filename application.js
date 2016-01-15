@@ -15,7 +15,7 @@ function init(){
                         $('#confirm_label').fadeOut();
                         $("#subscription_confirmed").fadeIn();
                         $('#subscription_confirmed').delay(2000).fadeOut();
-                        $('#subscription_confirmed').delay(2000).fadeIn();
+                        $('#confirm_label').delay(2000).fadeIn();
                         $('#subForm').trigger('reset');
                     }
             });
