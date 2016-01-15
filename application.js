@@ -4,7 +4,7 @@ function init(){
     
     $('#subForm').submit(function(e){
         e.preventDefault();
-        if($("#agree_newsletter").is(':checked')){
+        if($("#agree_terms").is(':checked')){
             $.getJSON(
                 this.action + "?callback=?",
                 $(this).serialize(),
@@ -19,7 +19,7 @@ function init(){
             });
         }
         else{
-            $("#agree_newsletter").focus();
+            $("#agree_terms").focus();
             alert("Please agree to receive newsletter before continuing.")
         }
     });
