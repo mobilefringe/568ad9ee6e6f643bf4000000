@@ -56,13 +56,15 @@
                     <div class="col-md-5 col-xs-6">
                         <div class="newsletter_div">
                             <h4 class="header">Subscribe & Get Updates!</h4> 
-                            <input type="text" class="form-control custom_form_control" placeholder="Enter Email" />
-                            <input type="submit" value="SUBMIT" class="submit_btn hidden_phone" />
-                            <input id="agree_terms" type="checkbox" value="true" class="checkbox-custom">
-                            <label for="agree_terms" class="confirm_label checkbox-custom-label">
-                                I agree to receive electronic email messaging from Mall Maverick
-                            </label>
-                            <input type="submit" value="SUBMIT" class="submit_btn show_phone" />
+                            <form action="http://mobilefringe.createsend.com/t/d/s/huftl/" method="post" id="subForm">
+                                <input type="text" class="form-control custom_form_control" placeholder="Enter Email" />
+                                <input type="submit" value="SUBMIT" class="submit_btn hidden_phone" />
+                                <input id="agree_terms" type="checkbox" value="true" class="checkbox-custom">
+                                <label for="agree_terms" class="confirm_label checkbox-custom-label">
+                                    I agree to receive electronic email messaging from Mall Maverick
+                                </label>
+                                <input type="submit" value="SUBMIT" class="submit_btn show_phone" />
+                            </form>
                         </div>
                     </div>
                 </div>
