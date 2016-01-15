@@ -12,10 +12,10 @@ function init(){
                     if (data.Status === 400) {
                         alert("An error occured while processing your request. Please try again later.");
                     } else { // 200
-                        $('#confirm_label').fadeOut();
+                        $('.confirm_label').fadeOut();
                         $("#subscription_confirmed").fadeIn();
                         $('#subscription_confirmed').delay(2000).fadeOut();
-                        $('#confirm_label').delay(2000).fadeIn();
+                        $('.confirm_label').delay(2000).fadeIn();
                         $('#subForm').trigger('reset');
                     }
             });
