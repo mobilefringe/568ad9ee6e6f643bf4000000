@@ -114,7 +114,7 @@
                         </div>
                         <div class="col-md-12 text-center">
                             <input type="submit" value="Start" class="send_btn" />
-                            <h2 id="subscription_confirmed">Thank you for signing up for Retail Maverick</h2>
+                            <h2 id="signup_confirmed">Thank you for signing up for Retail Maverick</h2>
                         </div>
                     </div>
                 </form>
