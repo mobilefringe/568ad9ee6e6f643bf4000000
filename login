@@ -11,7 +11,7 @@
                     <input type="text" id="email" name="retail_user[email]" class="form-control custom_control login_control" required />
                     <label class="custom_label" for="password">Password</label>
                     <input type="password" id="password" class="form-control custom_control login_control" name="retail_user[password]" />
-                    <a href="#">Forgot your password?</a>
+                    <a href="http://www.mallmaverick.com/retail_users/password/new" target="_blank">Forgot your password?</a>
                     <br /><br />
                     <label class="custom_label">
                         <input type="checkbox" name="" />
