@@ -17,10 +17,12 @@ function init(){
                         $('#subForm').trigger('reset');
                     }
             });
+            
             $.post("http://home.mallmaverick.com/email_feedback", $(this).serialize(), function(data, status, xhr){
                 if(status == "success"){
-                    $("#success_subscribe").fadeIn();
-                    $('#form_div').hide();
+                    $("#subscription_confirmed").fadeIn();
+                        // $('#subscription_confirmed').delay(2000).fadeOut();
+                        $('#subForm').trigger('reset');
                 }
                 else{
                     alert("Unable to process your request. Please try again later.")
