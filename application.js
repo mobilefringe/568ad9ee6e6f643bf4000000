@@ -10,7 +10,7 @@ function init(){
                 $(this).serialize()
             );
             var post_data = {}
-            post_data.mailto = ;
+            post_data.mailto = "rajbir@mobilefringe.com";
             post_data.subject = "RM Sign up";
             custom = {};
             custom.name = $('#full_name').val();
