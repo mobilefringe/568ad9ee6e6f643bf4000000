@@ -18,6 +18,7 @@ function init(){
             custom.phone = $('#phone').val();
             custom.retailer = $('#retailer').val();
             post_data.custom = custom;
+            console.log(post_data)
             $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 if(status == "success"){
                     $("#subscription_confirmed").fadeIn();
