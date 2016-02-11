@@ -7,16 +7,8 @@ function init(){
         if($("#agree_terms").is(':checked')){
             $.getJSON(
                 this.action + "?callback=?",
-                $(this).serialize(),
-                function (data) {
-                    if (data.Status === 400) {
-                        alert("An error occured while processing your request. Please try again later.");
-                    } else { // 200
-                        $("#subscription_confirmed").fadeIn();
-                        // $('#subscription_confirmed').delay(2000).fadeOut();
-                        $('#subForm').trigger('reset');
-                    }
-            });
+                $(this).serialize()
+            );
             
             $.post("http://home.mallmaverick.com/email_feedback", $(this).serialize(), function(data, status, xhr){
                 if(status == "success"){
