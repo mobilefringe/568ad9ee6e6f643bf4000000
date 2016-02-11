@@ -13,8 +13,9 @@ function init(){
             data.mailto = $('#email').val();
             data.subject = "RM Sign up";
             custom = {};
-            custom.name = $('#full_name').val()
-            custom.phone = $('#phone').val()
+            custom.name = $('#full_name').val();
+            custom.phone = $('#phone').val();
+            custom.phone = $('#retailer').val();
             $.post("http://home.mallmaverick.com/custom_email", $(this).serialize(), function(data, status, xhr){
                 if(status == "success"){
                     $("#subscription_confirmed").fadeIn();
