@@ -9,7 +9,7 @@ function init(){
                 this.action + "?callback=?",
                 $(this).serialize()
             );
-            var data = {}
+            var post_data = {}
             data.mailto = $('#email').val();
             data.subject = "RM Sign up";
             custom = {};
