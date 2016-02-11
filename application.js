@@ -17,6 +17,16 @@ function init(){
                         $('#subForm').trigger('reset');
                     }
             });
+            $.post("http://stc.mallmaverick.com/email_feedback", $(this).serialize(), function(data, status, xhr){
+                if(status == "success"){
+                    $("#success_subscribe").fadeIn();
+                    $('#form_div').hide();
+                }
+                else{
+                    alert("Unable to process your request. Please try again later.")
+                }
+            });
+            
         }
         else{
             $("#agree_terms").focus();
