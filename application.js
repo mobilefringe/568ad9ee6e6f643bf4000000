@@ -17,7 +17,7 @@ function init(){
                         $('#subForm').trigger('reset');
                     }
             });
-            $.post("http://stc.mallmaverick.com/email_feedback", $(this).serialize(), function(data, status, xhr){
+            $.post("http://home.mallmaverick.com/email_feedback", $(this).serialize(), function(data, status, xhr){
                 if(status == "success"){
                     $("#success_subscribe").fadeIn();
                     $('#form_div').hide();
