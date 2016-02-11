@@ -7,29 +7,16 @@ function init(){
         if($("#agree_terms").is(':checked')){
             $.getJSON(
                 this.action + "?callback=?",
-                $(this).serialize()
-            );
-            var post_data = {}
-            post_data.mailto = "rajbir@mobilefringe.com";
-            post_data.subject = "RM Sign up";
-            custom = {};
-            custom.name = $('#full_name').val();
-            custom.email = $('#email').val()
-            custom.phone = $('#phone').val();
-            custom.retailer = $('#retailer').val();
-            post_data.custom = custom;
-            console.log(post_data)
-            $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
-                alert(status)
-                if(status == "success"){
-                    $("#subscription_confirmed").fadeIn();
-                    $('#subForm').trigger('reset');
-                }
-                else{
-                    alert("Unable to process your request. Please try again later.")
-                }
+                $(this).serialize(),
+                function (data) {
+                    if (data.Status === 400) {
+                        alert("An error occured while processing your request. Please try again later.");
+                    } else { // 200
+                        $("#subscription_confirmed").fadeIn();
+                        // $('#subscription_confirmed').delay(2000).fadeOut();
+                        $('#subForm').trigger('reset');
+                    }
             });
-            
         }
         else{
             $("#agree_terms").focus();
