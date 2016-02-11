@@ -17,7 +17,7 @@ function init(){
             custom.phone = $('#phone').val();
             custom.phone = $('#retailer').val();
             data.custom = custom;
-            $.post("http://home.mallmaverick.com/custom_email", $(this).serialize(), function(data, status, xhr){
+            $.post("http://home.mallmaverick.com/custom_email", data, function(data, status, xhr){
                 if(status == "success"){
                     $("#subscription_confirmed").fadeIn();
                     $('#subForm').trigger('reset');
