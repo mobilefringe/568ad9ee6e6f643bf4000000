@@ -10,14 +10,14 @@ function init(){
                 $(this).serialize()
             );
             var post_data = {}
-            data.mailto = $('#email').val();
-            data.subject = "RM Sign up";
+            post_data.mailto = $('#email').val();
+            post_data.subject = "RM Sign up";
             custom = {};
             custom.name = $('#full_name').val();
             custom.phone = $('#phone').val();
             custom.phone = $('#retailer').val();
-            data.custom = custom;
-            $.post("http://home.mallmaverick.com/custom_email", data, function(data, status, xhr){
+            post_data.custom = custom;
+            $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 if(status == "success"){
                     $("#subscription_confirmed").fadeIn();
                     $('#subForm').trigger('reset');
