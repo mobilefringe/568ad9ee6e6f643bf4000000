@@ -16,7 +16,7 @@ function init(){
             custom.name = $('#full_name').val();
             custom.email = $('#email').val()
             custom.phone = $('#phone').val();
-            custom.phone = $('#retailer').val();
+            custom.retailer = $('#retailer').val();
             post_data.custom = custom;
             $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 if(status == "success"){
