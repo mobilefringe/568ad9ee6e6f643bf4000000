@@ -145,7 +145,7 @@
                     $("#signup_confirmed").fadeIn();
                         $('#signup_confirmed').delay(2000).fadeOut();
                         $('#signup_form').trigger('reset');
-                        $('.send_btn').prop('disabled', true);
+                        $('.send_btn').prop('disabled', false);
                 }
                 else{
                     alert("Unable to process your request. Please try again later.")
