@@ -20,6 +20,7 @@ function init(){
             post_data.custom = custom;
             console.log(post_data)
             $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
+                alert(status)
                 if(status == "success"){
                     $("#subscription_confirmed").fadeIn();
                     $('#subForm').trigger('reset');
