@@ -10,10 +10,11 @@ function init(){
                 $(this).serialize()
             );
             var post_data = {}
-            post_data.mailto = $('#email').val();
+            post_data.mailto = ;
             post_data.subject = "RM Sign up";
             custom = {};
             custom.name = $('#full_name').val();
+            custom.email = $('#email').val()
             custom.phone = $('#phone').val();
             custom.phone = $('#retailer').val();
             post_data.custom = custom;
