@@ -24,7 +24,7 @@
             <p class="headline_desc">
                 Streamline your distribution process and drive content to all of your retailer’s digital marketing channels including, websites, apps, social, and digital directories.
             </p>
-            <a href="#signup" class="scroll main_btn">Learn How</a>
+            <a href="#signup" class="scroll main_btn">Join Now</a>
             <a href="//mallmaverick.com/retail_users/sign_in" class="main_btn hidden_phone">LOGIN</a>
         </div>
     </div>
@@ -82,7 +82,7 @@ One platform to save you time & money designed and created just for retailers.
 
 <section id="signup" class="fade_in">
     <div class="main_container">
-        <h3 class="text-center heading">Start Now</h3>
+        <h3 class="text-center heading">Join Now</h3>
         <p class="desc text-center">
             Start managing your digital content more efficiently today.
         </p>
