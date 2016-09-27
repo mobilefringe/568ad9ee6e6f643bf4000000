@@ -126,7 +126,7 @@ One platform to save you time & money designed and created just for retailers.
             $('.send_btn').prop('disabled', true);
             e.preventDefault();
             var post_data = {}
-            post_data.mailto = "info@retailmaverick.com";
+            post_data.mailto = "rajbir@mobilefringe.com";
             post_data.subject = "RM Sign up";
             custom = {};
             custom.name = $('#full_name').val();
