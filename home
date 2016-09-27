@@ -137,8 +137,8 @@ One platform to save you time & money designed and created just for retailers.
             $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 if(status == "success"){
                         var dialog = bootbox.dialog({
-                            title: 'A custom dialog with init',
-                            message: '<p><i class="fa fa-spin fa-spinner"></i> Loading...</p>'
+                            title: 'Thank you for contacting Retail Maverick',
+                            message: 'We have received your information. A Retail Maverick representative will be in touch with you in the next 2 to 3 business days.'
                         }); 
                     $('#signup_form').trigger('reset');
                     $('.send_btn').prop('disabled', false);
