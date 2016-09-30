@@ -120,7 +120,7 @@ One platform to save you time & money designed and created just for retailers.
             custom.phone = $('#phone').val();
             custom.retailer = $('#retailer').val();
             post_data.custom = custom;
-            $.post("http://home.mallmaverick.com/custom_email", post_data, 'headers' : {'Content-Type' : 'application/x-www-form-urlencoded; charset=UTF-8'}, function(data, status, xhr){
+            $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 if(status == "success"){
                         var dialog = bootbox.dialog({
                             title: 'Thank you for contacting Retail Maverick',
