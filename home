@@ -131,7 +131,7 @@ One platform to save you time & money designed and created just for retailers.
                     $('.send_btn').prop('disabled', false);
                 }
                 else{
-                    alert("Unable to process your request. Please try again later.")
+                    alert("Unable to process your request. Please try again later.");
                 }
             });
             $.getJSON(
