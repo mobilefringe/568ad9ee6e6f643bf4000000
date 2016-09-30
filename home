@@ -126,7 +126,7 @@ One platform to save you time & money designed and created just for retailers.
                             title: 'Thank you for contacting Retail Maverick',
                             message: 'We have received your information. A Retail Maverick representative will be in touch with you in the next 2 to 3 business days.'
                         }); 
-                    $.getJSON("http://home.mallmaverick.com/retailer_maverick_sign_up?mailto=" + $('#email').val() + "&text_body=We have received your information. A Retail Maverick representative will be in touch with you in the next 2 to 3 business days.&subject=RM Sign Up&text_header=Thank you for contacting Retail Maverick")
+                    $.getJSON("http://home.mallmaverick.com/retailer_maverick_sign_up?mailto=" + $('#email').val() + "&text_body=Thank you for joining Retail Maverick. One of our representatives will be in contact with you in the next 2 to 3 business days to book a demo appointment.")
                     $('#signup_form').trigger('reset');
                     $('.send_btn').prop('disabled', false);
                 }
