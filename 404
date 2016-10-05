@@ -1,0 +1,13 @@
+<div class="error_div">
+    <div class="main_container text-center">
+        <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1452111260000/404_error_msg.png" class="" alt="404 ">
+        <br /><br /><br />
+        <a href="/" class="submit_btn">Go Back to Homepage</a>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function(){
+        init();
+    });
+</script>
