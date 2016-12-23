@@ -39,9 +39,7 @@
     <body>
         <section id="header">
             <div class="main_container">
-                <a href="/">
-                    <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451593113000/rm_logo.png" class="main_logo" alt="logo">
-                </a>
+                <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451593113000/rm_logo.png" class="main_logo" alt="logo">
             </div>
         </section>
     </body>
