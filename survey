@@ -116,15 +116,17 @@
         </section>
         
         <section class="fixed_footer">
-            <div class="row">
-                <div class="col-md-6">
-                    <p>
-                        Any questions contact us at info@retailmaverick.com
-                        <br />
-                        or say hello at 1.888.854.5797 ext 108
-                    </p>
+            <div class="main_container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p>
+                            Any questions contact us at info@retailmaverick.com
+                            <br />
+                            or say hello at 1.888.854.5797 ext 108
+                        </p>
+                    </div>
+                    <div class="col-md-6"></div>
                 </div>
-                <div class="col-md-6"></div>
             </div>
         </section>
     </body>
