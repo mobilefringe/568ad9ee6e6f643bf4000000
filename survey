@@ -114,6 +114,10 @@
                 </div>
             </form>
         </section>
+        
+        <section class="fixed_footer">
+            
+        </section>
     </body>
 </html>
 
