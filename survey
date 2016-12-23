@@ -53,27 +53,29 @@
             </div>
         </section>
         <section>
-            <div class="hero_banner">
-                <div class="main_container">
-                    <h2>By taking a few minutes to complete this form you will save yourself hours of work every week!</h2>
-                    <h3>Instead of spending hours searching for promotions, cutting, and pasting them, <strong>we can publish every promotion directly to your website automatically.</strong></h3>
+            <form name="survey_form" data-toggle="validator" novalidate>
+                <div class="hero_banner">
+                    <div class="main_container">
+                        <h2>By taking a few minutes to complete this form you will save yourself hours of work every week!</h2>
+                        <h3>Instead of spending hours searching for promotions, cutting, and pasting them, <strong>we can publish every promotion directly to your website automatically.</strong></h3>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <label for="shopping_center_name">* Shopping Center</label>
+                            <input class="form-control" type="text" name='shopping_center_name' />
+                        </div>
+                        <div class="col-md-3">
+                            
+                        </div>
+                        <div class="col-md-3">
+                            
+                        </div>
+                        <div class="col-md-3">
+                            
+                        </div>
+                    </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-3">
-                        <label for="shopping_center_name">* Shopping Center</label>
-                        <input class="form-control" type="text" name='shopping_center_name' />
-                    </div>
-                    <div class="col-md-3">
-                        
-                    </div>
-                    <div class="col-md-3">
-                        
-                    </div>
-                    <div class="col-md-3">
-                        
-                    </div>
-                </div>
-            </div>
+            </form>
         </section>
     </body>
 </html>
