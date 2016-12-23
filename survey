@@ -81,7 +81,7 @@
                 </div>
                 <div class="main_container">
                     <div class="show_all">
-                        <span>SHOW ALL &nbsp;<i class="fa fa-chevron-right"></i></span>
+                        <span>SHOW ALL &nbsp;&nbsp;<i class="fa fa-chevron-right"></i></span>
                     </div>
                 </div>
             </form>
