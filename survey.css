@@ -50,6 +50,7 @@ body{
     }
     label{
         color:#fff;
+        display: block;
         font-weight:100;
     }
 }
