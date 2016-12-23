@@ -80,6 +80,14 @@ body{
 
 .num_stores_p{
     margin:15px 0;
+    position:relative
+}
+
+#number_stores{
+    margin-left: 15px;
+    font-size: 25px;
+    position: absolute;
+    top: -7px;
 }
 
 
