@@ -132,6 +132,7 @@
                                 
                             </div>
                             <div class="col-md-6">
+                                <button class="green_btn">SUBMIT MY STORES</button> 
                             </div>
                         </div>
                     </div>
