@@ -43,7 +43,12 @@
                 <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451593113000/rm_logo.png" class="main_logo" alt="logo">
                 <div class="pull-right">
                     <p>Follow us on social media</p>
-                    <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525623000/twitter.png" class="" alt=""><img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525644000/insta.png" class="" alt=""><img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525700000/fb.png" class="" alt=""><img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525709000/linkedin.png" class="" alt="">
+                    <div class="social_links">
+                        <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525623000/twitter.png" class="" alt="">
+                        <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525644000/insta.png" class="" alt="">
+                        <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525700000/fb.png" class="" alt="">
+                        <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525709000/linkedin.png" class="" alt="">
+                    </div>
                 </div>
             </div>
         </section>
