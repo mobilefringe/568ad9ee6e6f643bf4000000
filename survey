@@ -61,7 +61,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <label for="shopping_center_name">* Shopping Center</label>
-                        <input class="form-control" type="text" name='main_reason_for_visit_other' />
+                        <input class="form-control" type="text" name='shopping_center_name' />
                     </div>
                     <div class="col-md-3">
                         
