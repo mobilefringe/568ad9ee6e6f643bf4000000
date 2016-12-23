@@ -80,7 +80,9 @@
                     </div>
                 </div>
                 <div class="main_container">
-                    <div class="show_all"></div>
+                    <div class="show_all">
+                        <span>SHOW ALL <i class="fa fa-chvron-right"></i></span>
+                    </div>
                 </div>
             </form>
         </section>
