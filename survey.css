@@ -58,6 +58,9 @@ body{
 .form-control{
     border-radius:20px;
 }
+.alpha_list{
+    display:none;
+}
 
 .show_all{
     color:#fff;
@@ -70,7 +73,6 @@ body{
     cursor:pointer;
     a{
         margin:0 5px;
-        display:none;
     }
 }
 
