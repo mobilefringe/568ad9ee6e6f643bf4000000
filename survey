@@ -125,7 +125,15 @@
                             or say hello at 1.888.854.5797 ext 108
                         </p>
                     </div>
-                    <div class="col-md-6"></div>
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p>Number of stores selected</p>
+                            </div>
+                            <div class="col-md-6">
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
