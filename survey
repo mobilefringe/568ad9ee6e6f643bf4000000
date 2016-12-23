@@ -70,7 +70,7 @@
                         </div>
                         <div class="col-md-3">
                             <label for="email">* Email</label>
-                            <input class="form-control" type="text" name='shopping_center_name' required />
+                            <input class="form-control" type="text" name='email' required />
                         </div>
                         <div class="col-md-3">
                             <label for="shopping_center_name">* Shopping Center</label>
