@@ -10,5 +10,6 @@ body{
 .social_links{
     img{
         width:22px;
+        margin-left: 10px;
     }
 }
