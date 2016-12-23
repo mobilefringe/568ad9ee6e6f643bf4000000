@@ -6,6 +6,11 @@ body{
     background:#000;
 }
 
+.share_nav{
+    float:right;
+    margin-top:18px;
+}
+
 .follow_us{
     float: left;
     color: #fff;
