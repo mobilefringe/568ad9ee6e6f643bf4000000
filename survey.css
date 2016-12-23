@@ -28,5 +28,6 @@ body{
 
 .hero_banner{
     background: url('http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482526137000/bg_header.png');
+    background-size: cover;
     padding: 30px 0;
 }
