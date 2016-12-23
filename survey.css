@@ -48,6 +48,9 @@ body{
             font-weight: 600;
         }
     }
+    label{
+        color:#fff;
+    }
 }
 
 .form-control{
