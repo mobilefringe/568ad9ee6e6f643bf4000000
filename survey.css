@@ -95,6 +95,8 @@ body{
     border-radius: 100px;
     font-size: 18px;
     color: #FFFFFF;
+    border: 0;
+    padding: 12px 35px;
 }
 
 
