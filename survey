@@ -41,7 +41,7 @@
         <section id="header">
             <div class="main_container">
                 <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451593113000/rm_logo.png" class="main_logo" alt="logo">
-                <div class="pull-right share_nav">
+                <div class="share_nav">
                     <p class="follow_us">Follow us on social media:</p>
                     <div class="social_links pull-left">
                         <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525623000/twitter.png" class="" alt="twitter ">
