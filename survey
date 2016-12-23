@@ -65,13 +65,16 @@
                             <input class="form-control" type="text" name='shopping_center_name' required />
                         </div>
                         <div class="col-md-3">
-                            
+                            <label for="shopping_center_name">* Shopping Center</label>
+                            <input class="form-control" type="text" name='shopping_center_name' required />
                         </div>
                         <div class="col-md-3">
-                            
+                            <label for="shopping_center_name">* Shopping Center</label>
+                            <input class="form-control" type="text" name='shopping_center_name' required />
                         </div>
                         <div class="col-md-3">
-                            
+                            <label for="shopping_center_name">* Shopping Center</label>
+                            <input class="form-control" type="text" name='shopping_center_name' required />
                         </div>
                     </div>
                 </div>
