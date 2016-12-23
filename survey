@@ -41,6 +41,9 @@
         <section id="header">
             <div class="main_container">
                 <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451593113000/rm_logo.png" class="main_logo" alt="logo">
+                <div class="pull-right">
+                    <p>Follo us on social media</p>
+                </div>
             </div>
         </section>
     </body>
