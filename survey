@@ -54,7 +54,11 @@
         </section>
         <section>
             <div class="hero_banner">
-                
+                <div class="main_container">
+                    <h2>
+                        By taking a few minutes to complete this form you will save yourself hours of work every week!
+                    </h2>
+                </div>
             </div>
         </section>
     </body>
