@@ -114,8 +114,10 @@
                     </div>
                     <div id="store_list_container">
                         <script id="store_list_template" type="x-tmpl-mustache/text">
+                        {%raw%}
                             <span style="{{show}}" class="store_initial">{{initial}}</span>
                             <p>{{name}}</p>
+                        {%endraw%}
                         </script>
                     </div>
                 </div>
