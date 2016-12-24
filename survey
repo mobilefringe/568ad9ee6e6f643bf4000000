@@ -122,7 +122,10 @@
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <label><input type="checkbox" name="stores[]" value="{{name}}">{{name}}</label>
+                                    <label>
+                                        <img src="{{alt_store_front_url}}" class="store_logo hidden_phone" alt="{{name}}" />
+                                        <input type="checkbox" name="stores[]" value="{{name}}">
+                                    </label>
                                 </div>
                             {%endraw%}
                             </script>
