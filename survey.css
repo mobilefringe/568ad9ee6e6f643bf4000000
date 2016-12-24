@@ -135,6 +135,12 @@ body{
 }
 
 
+.stores_label{
+    input{
+        display:none;
+    }
+}
+
 
 
 
