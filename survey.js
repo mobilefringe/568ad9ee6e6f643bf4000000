@@ -46,3 +46,30 @@ function updateCounter(){
     var len = $('.custom_checkbox:checked').length;
     if(len>0){$("#number_stores").text(len);}else{$("#number_stores").text('0');}
 }
+
+function submitContest(data) {
+        var propertyDetails = getPropertyDetails();
+    
+        var host = propertyDetails.mm_host
+        var contest = "merivale-survey";
+
+        $.ajax({
+            url: [host, "contests", contest, "json_entry"].join("/"),
+            type: "POST",
+            dataType: "json",
+            data: data,
+            success: function(data) {
+                window.location.href="/survey_thank_you";
+            },
+            error: function(data){
+                alert("There was an issue with submitting the contest entry. Please try again at a later time.")
+            }
+        });
+    }
+
+
+
+
+
+
+
