@@ -95,7 +95,6 @@ function loadStores(callback){
         });
     }
     else{
-        
         console.log('stores already loaded');
         callback();
     }
