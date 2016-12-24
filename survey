@@ -173,6 +173,9 @@
                     $(".custom_checkbox").change(function() {
                         updateCounter();
                     });
+                    $('.show_all').click(function(){
+                        $('.alpha_list').fadeIn()
+                    });
                 }
                 $(window).scroll( function(){
     
