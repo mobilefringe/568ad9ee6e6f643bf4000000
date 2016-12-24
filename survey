@@ -44,14 +44,14 @@
     <body>
         <section id="header">
             <div class="main_container">
-                <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1451593113000/rm_logo.png" class="main_logo" alt="logo">
+                <img src="//codecloud.cdn.speedyrails.net/sites/568ad9ee6e6f643bf4000000/image/png/1451593113000/rm_logo.png" class="main_logo" alt="logo">
                 <div class="share_nav hidden_phone">
                     <p class="follow_us">Follow us on social media:</p>
                     <div class="social_links pull-left">
-                        <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525623000/twitter.png" class="" alt="twitter ">
-                        <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525644000/insta.png" class="" alt="instagram">
-                        <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525700000/fb.png" class="" alt="fb">
-                        <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482525709000/linkedin.png" class="" alt="linked in">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/568ad9ee6e6f643bf4000000/image/png/1482525623000/twitter.png" class="" alt="twitter ">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/568ad9ee6e6f643bf4000000/image/png/1482525644000/insta.png" class="" alt="instagram">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/568ad9ee6e6f643bf4000000/image/png/1482525700000/fb.png" class="" alt="fb">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/568ad9ee6e6f643bf4000000/image/png/1482525709000/linkedin.png" class="" alt="linked in">
                     </div>
                 </div>
             </div>
@@ -166,7 +166,7 @@
             </section>
         </form>
         <div class="thankyou_popup">
-            <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482608996000/rm_logo_white.png" class="" alt="RM logo">
+            <img src="//codecloud.cdn.speedyrails.net/sites/568ad9ee6e6f643bf4000000/image/png/1482608996000/rm_logo_white.png" class="" alt="RM logo">
             <h2>GREAT JOB!</h2>
             <p>Thank you for taking the time to fill out this form!</p>
             <p>A Retail Maverick Specialist will be in<br class="hidden_phone" /> touch shortly to setup your stores.</p>
