@@ -91,7 +91,7 @@ function loadStores(callback){
     }
     else{
         callback();
-        log('stores Already loaded');
+        log('stores already loaded');
     }
 }
 
