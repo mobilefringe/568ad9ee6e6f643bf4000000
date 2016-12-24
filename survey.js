@@ -55,6 +55,8 @@ function submitContest(data) {
             data: data,
             success: function(data) {
                 $('form[name="survey_form"]').trigger('reset');
+                $('<div class="modal-backdrop"></div>').appendTo(document.body);
+                $('.thankyou_popup').dhow()
             },
             error: function(data){
                 alert("There was an issue with submitting the contest entry. Please try again at a later time.");
