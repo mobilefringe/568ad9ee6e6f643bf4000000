@@ -170,12 +170,15 @@
                     renderStoreList('#store_list_container','#store_list_template', stores);
                     $(".custom_checkbox").change(function() {
                         updateCounter();
-                        var len = $('.custom_checkbox:checked').length;
-                        if(len>0){$("#number_stores").text(len);}else{$("#number_stores").text('0');}
                     });
                 }
                loadStores(renderStores);
             });
+            
+            function updateCounter(){
+                var len = $('.custom_checkbox:checked').length;
+                if(len>0){$("#number_stores").text(len);}else{$("#number_stores").text('0');}
+            }
         </script>
     </body>
 </html>
