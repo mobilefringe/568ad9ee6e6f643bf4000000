@@ -166,7 +166,8 @@
             </section>
         </form>
         <div class="thankyou_popup">
-            
+            <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482608996000/rm_logo_white.png" class="" alt="">
+            <h2></h2>
         </div>
         <script src="/survey.js" type="text/javascript"></script>
     </body>
