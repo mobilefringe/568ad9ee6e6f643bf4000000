@@ -132,6 +132,7 @@ body{
 .store_logo{
     width:100%;
     border:1px solid #ccc;
+    filter: grayscale(100%);
 }
 
 
