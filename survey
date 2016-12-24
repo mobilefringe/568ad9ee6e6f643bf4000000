@@ -119,7 +119,6 @@
                                 <span style="{{show}}" class="store_initial">{{initial}}</span>
                             </div>
                             <label><input type="checkbox" name="stores[]" value="{{name}}">{{name}}</label>
-                            <p>{{name}}</p>
                         {%endraw%}
                         </script>
                     </div>
