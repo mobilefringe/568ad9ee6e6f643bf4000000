@@ -50,8 +50,8 @@ body{
         border-top:1px solid #ccc;
         width: calc(100% - 90px);
         position: absolute;
-        left: 90px;
-        top: 25px;
+        left: 99px;
+        top: 18px;
     }
 }
 
