@@ -122,10 +122,11 @@
                                     </div>
                                 </div>
                                 <div class="col-md-3">
+                                    <input type="checkbox" name="stores[]" value="{{name}}" id="store_{{id}}">
                                     <label class="stores_label">
                                         <img src="//mallmaverick.cdn.speedyrails.net/{{store_front_url}}" class="store_logo" alt="{{name}}" />
                                         <p class="store_name">{{name}}</p>
-                                        <input type="checkbox" name="stores[]" value="{{name}}">
+                                        
                                     </label>
                                 </div>
                             {%endraw%}
