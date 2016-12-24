@@ -45,6 +45,9 @@ body{
     font-weight:600;
     padding: 8px 37px;
     border-radius: 50px;
+    display: inline-block;
+    width: 90px;
+    text-align: center;
     &:after{
         content:" ";
         border-top:1px solid #ccc;
