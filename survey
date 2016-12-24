@@ -116,12 +116,12 @@
                         <div class="row">
                             <script id="store_list_template" type="x-tmpl-mustache/text">
                             {%raw%}
-                                <div class="col-md-12" style="{{show}}">
+                                <div class="col-md-12 hideme" style="{{show}}">
                                     <div class="store_initial_container">
                                         <span class="store_initial">{{initial}}</span>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 hideme">
                                     <input type="checkbox" name="stores[]" value="{{name}}" id="store_{{id}}" class="custom_checkbox">
                                     <label class="stores_label" for="store_{{id}}">
                                         <img src="//mallmaverick.cdn.speedyrails.net/{{store_front_url}}" class="store_logo" alt="{{name}}" />
@@ -172,6 +172,8 @@
                         updateCounter();
                     });
                 }
+                
+                
                loadStores(renderStores);
             });
             
