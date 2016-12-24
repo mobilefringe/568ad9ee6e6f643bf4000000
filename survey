@@ -143,7 +143,7 @@
             <section class="fixed_footer">
                 <div class="main_container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6 hidden_phone">
                             <p>
                                 Any questions contact us at <a href="mailto:info@retailmaverick.com">info@retailmaverick.com</a>
                                 <br />
