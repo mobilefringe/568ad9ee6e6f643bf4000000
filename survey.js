@@ -49,7 +49,7 @@ function updateCounter(){
 
 function submitContest(data) {
         $.ajax({
-            url: "http://retailmaverick.mallmaverick.com/contests/retailmaverick-rm-store-list-survey/json_entry",
+            url: "//retailmaverick.mallmaverick.com/contests/retailmaverick-rm-store-list-survey/json_entry",
             type: "POST",
             dataType: "json",
             data: data,
