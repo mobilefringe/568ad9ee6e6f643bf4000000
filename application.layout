@@ -24,7 +24,6 @@
         
         <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.5/validator.js"></script>
         <script src="//s3.amazonaws.com/kodekloud/sites/568ad9ee6e6f643bf4000000/application/x-javascript/1474999721000/bootbox.min.js"></script>
         <script src="../application.js"></script>
         <script>
