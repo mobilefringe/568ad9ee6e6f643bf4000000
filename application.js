@@ -100,7 +100,6 @@ function loadStores(callback){
 }
 
 function getStoresList(){
-    initData();
     var mallDataJSON = JSON.parse(sessionStorage.mallData);
     return mallDataJSON.stores;
 }
