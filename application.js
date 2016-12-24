@@ -90,7 +90,7 @@ function loadStores(callback){
     if(typeof(sessionStorage.mallData) == 'undefined'){
         $.getJSON(sessionStorage.MM_URL).done(function(data) {
             sessionStorage.setItem('mallData', JSON.stringify(data));
-            log('done fetching stores');
+            console.log('done fetching stores');
             callback();
         });
     }
