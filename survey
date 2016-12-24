@@ -141,7 +141,7 @@
         </section>
         <script>
             $(document).ready(function(){
-               loadStores(renderStores)
+               loadStores(renderStores);
             });
         </script>
     </body>
