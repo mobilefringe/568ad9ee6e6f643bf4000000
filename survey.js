@@ -48,8 +48,9 @@ function updateCounter(){
 }
 
 function submitContest(data) {
+
         // $.ajax({
-        //     url: [host, "contests", contest, "json_entry"].join("/"),
+        //     url: "http://merivale.mallmaverick.com/contests/retailmaverick-rm-store-list-survey y/json_entry",
         //     type: "POST",
         //     dataType: "json",
         //     data: data,
