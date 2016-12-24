@@ -94,8 +94,6 @@ function renderStoreList(container, template, collection, type){
     var store_initial="";
     $.each( collection , function( key, val ) {
         var current_initial = val.name[0];
-        
-        
         if(store_initial.toLowerCase() == current_initial.toLowerCase()){
             val.initial = "";
             val.show = "display:none;";
