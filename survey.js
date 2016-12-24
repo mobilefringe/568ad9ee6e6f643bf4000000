@@ -48,7 +48,6 @@ function updateCounter(){
 }
 
 function submitContest(data) {
-
         $.ajax({
             url: "http://retailmaverick.mallmaverick.com/contests/retailmaverick-rm-store-list-survey y/json_entry",
             type: "POST",
