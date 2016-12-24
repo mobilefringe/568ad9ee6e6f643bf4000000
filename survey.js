@@ -48,11 +48,8 @@ function updateCounter(){
 }
 
 function submitContest(data) {
-        var propertyDetails = getPropertyDetails();
-    
-        var host = propertyDetails.mm_host
-        var contest = "merivale-survey";
-
+        
+        alert("here")
         // $.ajax({
         //     url: [host, "contests", contest, "json_entry"].join("/"),
         //     type: "POST",
