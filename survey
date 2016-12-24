@@ -118,6 +118,7 @@
                             <div class="store_initial_container">
                                 <span style="{{show}}" class="store_initial">{{initial}}</span>
                             </div>
+                            <label><input type="checkbox" name="{{name}}" value="Unisex Fashion">Unisex Fashion</label>
                             <p>{{name}}</p>
                         {%endraw%}
                         </script>
