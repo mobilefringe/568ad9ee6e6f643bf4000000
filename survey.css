@@ -47,7 +47,7 @@ body{
     border-radius: 50px;
     &:after{
         content:" ";
-        border-top:1px solid #000;
+        border-top:1px solid #ccc;
         width: calc(100% - 90px);
         position: absolute;
         left: 90px;
