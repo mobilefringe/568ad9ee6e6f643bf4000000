@@ -83,3 +83,35 @@ function scroll(){
         }
     });
 }
+
+
+
+function renderStoreList(container, template, collection, type){
+    var item_list = [];
+    var item_rendered = [];
+    var template_html = $(template).html();
+    Mustache.parse(template_html);   // optional, speeds up future uses
+    var store_initial="";
+    $.each( collection , function( key, val ) {
+        var current_initial = val.name[0];
+        
+        
+        if(store_initial.toLowerCase() == current_initial.toLowerCase()){
+            val.initial = "";
+            val.show = "display:none;";
+        }
+        else{
+            val.initial = current_initial;
+            store_initial = current_initial;
+            val.show = "display:block;";
+        }
+        val.block = current_initial + '-block';
+        var rendered = Mustache.render(template_html,val);
+        var upper_current_initial = current_initial.toUpperCase();
+        item_rendered.push(rendered);
+
+    });
+    
+    $(container).show();
+    $(container).html(item_rendered.join(''));
+}
