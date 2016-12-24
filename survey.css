@@ -141,12 +141,14 @@ body{
     width:100%;
     border:1px solid #ccc;
     filter: grayscale(100%);
+    transition: 200ms;
 }
 
 
 .custom_checkbox:checked+.stores_label img{
     filter: grayscale(0%);
-    border:1px solid #E79A00;
+    border:10px solid #E79A00;
+    transition: 200ms;
 }
 
 .stores_label{
