@@ -199,10 +199,6 @@
                 if(len>0){$("#number_stores").text(len);}else{$("#number_stores").text('0');}
             }
         </script>
-        <script>
-          // use rotation in reveal configuration
-          sr.reveal('.fooReveal', { container: '#store_list_container'});
-        </script>
     </body>
 </html>
 
