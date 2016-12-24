@@ -57,7 +57,7 @@ function submitContest(data) {
                 $('form[name="survey_form"]').trigger('reset');
             },
             error: function(data){
-                alert("There was an issue with submitting the contest entry. Please try again at a later time.")
+                alert("There was an issue with submitting the contest entry. Please try again at a later time.");
             }
         });
     }
