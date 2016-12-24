@@ -139,6 +139,13 @@
                 </div>
             </div>
         </section>
+        <script>
+            $(document).ready(function(){
+               $.getJSON("https://retailmaverick.mallmaverick.com/api/v3/retailmaverick/stores.json").done(function(data){
+                   log(data)
+               });
+            });
+        </script>
     </body>
 </html>
 
