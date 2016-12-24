@@ -171,7 +171,7 @@
                     $(".custom_checkbox").change(function() {
                         var len = $('.custom_checkbox:checked').length;
                         $('number_stores').text()
-                        if(len>0){$("#number_stores").text(len);}else{$("#number_stores").text(' ');}
+                        if(len>0){$("#number_stores").text(len);}else{$("#number_stores").text('0');}
                     });
                 }
                loadStores(renderStores);
