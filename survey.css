@@ -143,6 +143,7 @@ body{
 
 .custom_checkbox:checked+.stores_label img{
     filter: grayscale(0%);
+    border:1px solid #3AA517;
 }
 
 .stores_label{
