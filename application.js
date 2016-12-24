@@ -90,7 +90,7 @@ function loadStores(callback){
         sessionStorage.setItem('mallData', JSON.stringify(data));
         $.getJSON(sessionStorage.MM_URL).done(function(data) {
             sessionStorage.setItem('mallData', JSON.stringify(data));
-            log('done fetching stores from: '+sessionStorage.MM_URL);
+            log('done fetching stores');
             callback();
         });
     }
