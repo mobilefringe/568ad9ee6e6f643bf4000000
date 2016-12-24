@@ -141,10 +141,7 @@
         </section>
         <script>
             $(document).ready(function(){
-                console.log("here")
-               $.getJSON("https://retailmaverick.mallmaverick.com/api/v3/retailmaverick/stores.json").done(function(data){
-                   console.log(data)
-               });
+               loadStores(renderStores)
             });
         </script>
     </body>
