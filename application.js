@@ -86,8 +86,13 @@ function scroll(){
 
 
 function loadStores(callback){
-    
-    sessionStorage.setItem('mallData', JSON.stringify(data));
+    if(typeof(sessionStorage.mallData) == 'undefined'){
+        sessionStorage.setItem('mallData', JSON.stringify(data));
+    }
+    else{
+        callback();
+        log('stores Already loaded');
+    }
 }
 
 
