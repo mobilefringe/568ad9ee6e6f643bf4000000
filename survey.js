@@ -13,6 +13,7 @@ $(document).ready(function(e){
                 alert("Please ensure that all marked fields are properly completed.");
             } else {
                 e.preventDefault();
+                $('button').prop('disabled', true);
                 var data = {};
                 data['json'] = JSON.stringify($('form[name="survey_form"]').serializeArray());
                 submitContest(data);
