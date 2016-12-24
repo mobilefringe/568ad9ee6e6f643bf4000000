@@ -165,6 +165,9 @@
                 </div>
             </section>
         </form>
+        <div class="thankyou_popup">
+            
+        </div>
         <script src="/survey.js" type="text/javascript"></script>
     </body>
 </html>
