@@ -113,7 +113,7 @@ function renderStoreList(container, template, collection, type){
     Mustache.parse(template_html);   // optional, speeds up future uses
     var store_initial="";
     $.each( collection , function( key, val ) {
-        if(key > 4){
+        if(key >= 4){
             val.hide_class="hideme";
         }
         var current_initial = val.name[0];
