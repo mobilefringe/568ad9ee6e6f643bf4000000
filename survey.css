@@ -140,12 +140,14 @@ body{
 .store_logo{
     width:100%;
     border:1px solid #ccc;
+    -webkit-filter: grayscale(100%)
     filter: grayscale(100%);
     transition: 200ms;
 }
 
 
 .custom_checkbox:checked+.stores_label img{
+    -webkit-filter: grayscale(0%)
     filter: grayscale(0%);
     border:5px solid #E79A00;
     transition: 200ms;
