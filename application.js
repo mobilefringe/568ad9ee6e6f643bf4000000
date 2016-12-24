@@ -85,7 +85,8 @@ function scroll(){
 }
 
 
-function loadStores(){
+function loadStores(callback){
+    
     sessionStorage.setItem('mallData', JSON.stringify(data));
 }
 
