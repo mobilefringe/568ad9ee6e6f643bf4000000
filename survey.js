@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function(e){
     function renderStores(){
         var stores = getStoresList();
         renderStoreList('#store_list_container','#store_list_template', stores);
