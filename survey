@@ -168,7 +168,7 @@
                 function renderStores(){
                     var stores = getStoresList();
                     renderStoreList('#store_list_container','#store_list_template', stores);
-                    $(".checkbox").change(function() {
+                    $(".custom_checkbox").change(function() {
                         if(this.checked) {
                             //Do stuff
                         }
