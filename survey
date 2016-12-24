@@ -111,6 +111,11 @@
                             <a href="#f">Z</a>
                         </span>
                     </div>
+                    <div id="store_list_container">
+                        <script id="store_list_template" type="x-tmpl-mustache/text">
+                            <span style="{{show}}" class="store_initial">{{initial}}</span>
+                        </script>
+                    </div>
                 </div>
             </form>
         </section>
