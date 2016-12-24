@@ -85,6 +85,10 @@ function scroll(){
 }
 
 
+function loadStores(){
+    sessionStorage.setItem('mallData', JSON.stringify(data));
+}
+
 
 function renderStoreList(container, template, collection, type){
     var item_list = [];
