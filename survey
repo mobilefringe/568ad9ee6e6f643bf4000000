@@ -17,6 +17,7 @@
         <link href="../modal.css" rel="stylesheet">
         
         <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://unpkg.com/scrollreveal@3.3.2/dist/scrollreveal.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
         <script src="//s3.amazonaws.com/kodekloud/sites/568ad9ee6e6f643bf4000000/application/x-javascript/1474999721000/bootbox.min.js"></script>
@@ -29,6 +30,15 @@
             
             ga('create', 'UA-69974835-3', 'auto');
             ga('send', 'pageview');
+            
+        </script>
+        <script>
+            window.sr = ScrollReveal();
+            
+            // Add class to <html> if ScrollReveal is supported
+            if (sr.isSupported()) {
+            document.documentElement.classList.add('sr');
+            }
             
         </script>
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
