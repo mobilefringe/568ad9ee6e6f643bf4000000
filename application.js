@@ -100,6 +100,12 @@ function loadStores(callback){
     }
 }
 
+function getStoresList(){
+    initData();
+    var mallDataJSON = JSON.parse(sessionStorage.mallData);
+    return mallDataJSON.stores;
+}
+
 
 function renderStoreList(container, template, collection, type){
     var item_list = [];
