@@ -169,7 +169,6 @@
                     var stores = getStoresList();
                     renderStoreList('#store_list_container','#store_list_template', stores);
                     $(".custom_checkbox").change(function() {
-                        alert("here");
                         $('number_stores').text($('.custom_checkbox:checked').length)
                     });
                 }
