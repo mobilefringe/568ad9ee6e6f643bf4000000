@@ -147,7 +147,7 @@ body{
 
 .custom_checkbox:checked+.stores_label img{
     filter: grayscale(0%);
-    border:10px solid #E79A00;
+    border:5px solid #E79A00;
     transition: 200ms;
 }
 
