@@ -190,6 +190,7 @@
                     $(".custom_checkbox").change(function() {
                         updateCounter();
                     });
+                    sr.reveal('.fooReveal', { container: '#store_list_container'});
                 }
                loadStores(renderStores);
             });
