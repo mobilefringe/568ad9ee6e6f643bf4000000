@@ -167,7 +167,9 @@
         </form>
         <div class="thankyou_popup">
             <img src="http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482608996000/rm_logo_white.png" class="" alt="RM logo">
-            <h2></h2>
+            <h2>GREAT JOB</h2>
+            <p>Thank you for taking the time to fill out this form!</p>
+            <p>A Retail Maverick Specialist will be in<br /> touch shortly to setup your stores.</p>
         </div>
         <script src="/survey.js" type="text/javascript"></script>
     </body>
