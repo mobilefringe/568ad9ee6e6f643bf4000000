@@ -141,6 +141,7 @@
         </section>
         <script>
             $(document).ready(function(){
+                log("here")
                $.getJSON("https://retailmaverick.mallmaverick.com/api/v3/retailmaverick/stores.json").done(function(data){
                    log(data)
                });
