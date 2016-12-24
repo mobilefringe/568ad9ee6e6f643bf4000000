@@ -48,8 +48,6 @@ function updateCounter(){
 }
 
 function submitContest(data) {
-        
-        alert("here")
         // $.ajax({
         //     url: [host, "contests", contest, "json_entry"].join("/"),
         //     type: "POST",
