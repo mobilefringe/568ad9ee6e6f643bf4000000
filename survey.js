@@ -49,18 +49,18 @@ function updateCounter(){
 
 function submitContest(data) {
 
-        // $.ajax({
-        //     url: "http://retailmaverick.mallmaverick.com/contests/retailmaverick-rm-store-list-survey y/json_entry",
-        //     type: "POST",
-        //     dataType: "json",
-        //     data: data,
-        //     success: function(data) {
-        //         console.log(data);
-        //     },
-        //     error: function(data){
-        //         alert("There was an issue with submitting the contest entry. Please try again at a later time.")
-        //     }
-        // });
+        $.ajax({
+            url: "http://retailmaverick.mallmaverick.com/contests/retailmaverick-rm-store-list-survey y/json_entry",
+            type: "POST",
+            dataType: "json",
+            data: data,
+            success: function(data) {
+                console.log(data);
+            },
+            error: function(data){
+                alert("There was an issue with submitting the contest entry. Please try again at a later time.")
+            }
+        });
     }
 
 
