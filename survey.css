@@ -136,6 +136,10 @@ body{
 }
 
 
+.checkbox-custom:checked+.stores_label img{
+    filter: grayscale(0%);
+}
+
 .stores_label{
     margin-bottom:30px;
     input{
