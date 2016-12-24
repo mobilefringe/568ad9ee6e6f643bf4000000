@@ -120,7 +120,7 @@
                                     <div class="store_initial_container">
                                         <span style="{{show}}" class="store_initial">{{initial}}</span>
                                     </div>
-                                <?div>
+                                </div>
                                 <div class="col-md-3">
                                     <label><input type="checkbox" name="stores[]" value="{{name}}">{{name}}</label>
                                 </div>
