@@ -126,6 +126,7 @@
                                 </div>
                             {%endraw%}
                             </script>
+                            <div class="clearfix"></div>
                         </div>
                     </div>
                 </div>
