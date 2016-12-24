@@ -141,6 +141,9 @@
         </section>
         <script>
             $(document).ready(function(){
+                function renderStores(){
+                    var stores = getStoresList();
+                }
                loadStores(renderStores);
             });
         </script>
