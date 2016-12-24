@@ -84,7 +84,7 @@
                 </div>
                 <div class="main_container">
                     <div class="show_all">
-                        <span>SHOW ALL &nbsp;&nbsp;<i class="fa fa-chevron-right hidden_phone"></i><i class="fa fa-chevron-down show_phone"></i></span>
+                        <span>SHOW ALL &nbsp;&nbsp;<i class="fa fa-chevron-right hidden_phone"></i><i class="fa fa-chevron-down show_phone pull-right"></i></span>
                         <span class="alpha_list">
                             <a href="#A">A</a>
                             <a href="#B">B</a>
