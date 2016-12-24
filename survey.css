@@ -25,6 +25,36 @@ body{
     }
 }
 
+.fixed_footer{
+    background:#FAFAFA;
+    // position:fixed;
+    bottom:0;
+    padding:15px 0;
+    width:100%;
+}
+
+.store_initial_container{
+    position:relative;
+    
+    margin-bottom:30px;
+}
+.store_initial{
+    background:#E79A00;
+    color:#fff;
+    font-size:24px;
+    font-weight:600;
+    padding: 8px 37px;
+    border-radius: 50px;
+    &:after{
+        content:" ";
+        border-top:1px solid #000;
+        width: calc(100% - 90px);
+        position: absolute;
+        left: 90px;
+        top: 25px;
+    }
+}
+
 
 .hero_banner{
     background: url('http://assets.codecloudapp.com/sites/568ad9ee6e6f643bf4000000/image/png/1482526137000/bg_header.png');
