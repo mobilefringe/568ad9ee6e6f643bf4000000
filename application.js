@@ -88,7 +88,7 @@ function scroll(){
 function loadStores(callback){
     console.log('fetching stores...');
     if(typeof(sessionStorage.mallData) == 'undefined'){
-        $.getJSON(sessionStorage.MM_URL).done(function(data) {
+        $.getJSON('https://retailmaverick.mallmaverick.com/api/v3/retailmaverick/stores.json').done(function(data) {
             sessionStorage.setItem('mallData', JSON.stringify(data));
             console.log('done fetching stores');
             callback();
