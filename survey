@@ -152,7 +152,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="row">
-                                <div class="col-md-6">
+                                <div class="col-md-6 hidden_phone">
                                     <p class="num_stores_p">Number of stores selected <span id="number_stores">0</span></p>
                                     
                                 </div>
