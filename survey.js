@@ -54,7 +54,7 @@ function submitContest(data) {
             dataType: "json",
             data: data,
             success: function(data) {
-                console.log(data);
+                $('form[name="survey_form"]').trigger('reset');
             },
             error: function(data){
                 alert("There was an issue with submitting the contest entry. Please try again at a later time.")
