@@ -170,7 +170,6 @@
                     renderStoreList('#store_list_container','#store_list_template', stores);
                     $(".custom_checkbox").change(function() {
                         var len = $('.custom_checkbox:checked').length;
-                        $('number_stores').text()
                         if(len>0){$("#number_stores").text(len);}else{$("#number_stores").text('0');}
                     });
                 }
