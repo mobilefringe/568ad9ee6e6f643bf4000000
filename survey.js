@@ -55,7 +55,7 @@ function submitContest(data) {
         //     dataType: "json",
         //     data: data,
         //     success: function(data) {
-        //         window.location.href="/survey_thank_you";
+        //         console.log(data);
         //     },
         //     error: function(data){
         //         alert("There was an issue with submitting the contest entry. Please try again at a later time.")
