@@ -86,6 +86,7 @@ function scroll(){
 
 
 function loadStores(callback){
+    log('fetching stores...');
     if(typeof(sessionStorage.mallData) == 'undefined'){
         $.getJSON(sessionStorage.MM_URL).done(function(data) {
             sessionStorage.setItem('mallData', JSON.stringify(data));
