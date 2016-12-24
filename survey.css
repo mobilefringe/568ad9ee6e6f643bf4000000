@@ -136,7 +136,7 @@ body{
 }
 
 
-.checkbox-custom:checked+.stores_label img{
+.custom_checkbox:checked+.stores_label img{
     filter: grayscale(0%);
 }
 
