@@ -115,7 +115,9 @@
                     <div id="store_list_container">
                         <script id="store_list_template" type="x-tmpl-mustache/text">
                         {%raw%}
-                            <span style="{{show}}" class="store_initial">{{initial}}</span>
+                            <div class="store_initial_container">
+                                <span style="{{show}}" class="store_initial">{{initial}}</span>
+                            </div>
                             <p>{{name}}</p>
                         {%endraw%}
                         </script>
