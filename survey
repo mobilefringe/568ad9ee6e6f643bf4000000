@@ -123,7 +123,7 @@
                                 </div>
                                 <div class="col-md-3">
                                     <label>
-                                        <img src="//mallmaverick.cdn.speedyrails.net{{store_front_url}}" class="store_logo hidden_phone" alt="{{name}}" />
+                                        <img src="//mallmaverick.cdn.speedyrails.net/{{store_front_url}}" class="store_logo" alt="{{name}}" />
                                         <input type="checkbox" name="stores[]" value="{{name}}">
                                     </label>
                                 </div>
