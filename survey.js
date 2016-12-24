@@ -8,6 +8,17 @@ $(document).ready(function(){
         $('.show_all').click(function(){
             $('.alpha_list').fadeIn()
         });
+        $('form[name="survey_form"]').validator().on('submit', function(e){
+            if (e.isDefaultPrevented()) {
+                alert("Please ensure that all marked fields are properly completed.");
+            } else {
+                e.preventDefault();
+                var data = {};
+                data['json'] = JSON.stringify($('form[name="survey_form"]').serializeArray());
+                submitContest(data);
+                return false;
+            }
+        });
     }
     $(window).scroll( function(){
 
