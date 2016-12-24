@@ -121,7 +121,7 @@
                                         <span class="store_initial">{{initial}}</span>
                                     </div>
                                 </div>
-                                <div class="col-md-3 hideme">
+                                <div class="col-md-3 {{hide_class}}">
                                     <input type="checkbox" name="stores[]" value="{{name}}" id="store_{{id}}" class="custom_checkbox">
                                     <label class="stores_label" for="store_{{id}}">
                                         <img src="//mallmaverick.cdn.speedyrails.net/{{store_front_url}}" class="store_logo" alt="{{name}}" />
