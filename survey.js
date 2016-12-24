@@ -53,18 +53,18 @@ function submitContest(data) {
         var host = propertyDetails.mm_host
         var contest = "merivale-survey";
 
-        $.ajax({
-            url: [host, "contests", contest, "json_entry"].join("/"),
-            type: "POST",
-            dataType: "json",
-            data: data,
-            success: function(data) {
-                window.location.href="/survey_thank_you";
-            },
-            error: function(data){
-                alert("There was an issue with submitting the contest entry. Please try again at a later time.")
-            }
-        });
+        // $.ajax({
+        //     url: [host, "contests", contest, "json_entry"].join("/"),
+        //     type: "POST",
+        //     dataType: "json",
+        //     data: data,
+        //     success: function(data) {
+        //         window.location.href="/survey_thank_you";
+        //     },
+        //     error: function(data){
+        //         alert("There was an issue with submitting the contest entry. Please try again at a later time.")
+        //     }
+        // });
     }
 
 
