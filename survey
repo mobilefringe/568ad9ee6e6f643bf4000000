@@ -201,7 +201,7 @@
         </script>
         <script>
           // use rotation in reveal configuration
-          sr.reveal('.fooReveal', { container: '#store_list_container', rotate: {x: 65} });
+          sr.reveal('.fooReveal', { container: '#store_list_container'});
         </script>
     </body>
 </html>
