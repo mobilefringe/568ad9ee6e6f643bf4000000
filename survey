@@ -173,6 +173,7 @@
             <h3>for more information visit</h3>
             <a href="/" class="green_btn">www.retailmaverick.com</a>
         </div>
+        <a href="#top" class="scrollToTop"><i class="fa fa-arrow-up"></i></a>
         <script src="/survey.js" type="text/javascript"></script>
     </body>
 </html>
