@@ -124,7 +124,7 @@ function renderStoreList(container, template, collection, type){
         else{
             val.initial = current_initial;
             store_initial = current_initial;
-            val.show = "display:inline-block;";
+            val.show = "display:block;";
         }
         val.block = current_initial + '-block';
         var rendered = Mustache.render(template_html,val);
