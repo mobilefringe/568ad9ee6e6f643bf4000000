@@ -10,7 +10,7 @@ $(document).ready(function(e){
         });
         $('form[name="survey_form"]').validator().on('submit', function(e){
             if (e.isDefaultPrevented()) {
-                alert("Please ensure that all marked fields are properly completed.");
+                alert("Please complete the mandatory fields, Shopping Centers, Name, Email and Phone.");
             } else {
                 e.preventDefault();
                 $('button.green_btn').prop('disabled', true);
