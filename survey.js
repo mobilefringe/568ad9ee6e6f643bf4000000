@@ -17,6 +17,12 @@ $(document).ready(function(e){
                 else if($('#name') == ""){
                     $('#name').focus();
                 }
+                else if($('#email') == ""){
+                    $('#name').focus();
+                }
+                else if($('#name') == ""){
+                    $('#name').focus();
+                }
             } else {
                 e.preventDefault();
                 $('button.green_btn').prop('disabled', true);
