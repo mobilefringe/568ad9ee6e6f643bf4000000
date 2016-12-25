@@ -22,7 +22,13 @@ $(document).ready(function(e){
         });
     }
     $(window).scroll( function(){
-
+        if ($(this).scrollTop() > 100) {
+			$('.scrollToTop').fadeIn();
+		} else {
+			$('.scrollToTop').fadeOut();
+		}
+		
+		
         /* Check the location of each desired element */
         $('.hideme').each( function(i){
             
