@@ -18,10 +18,10 @@ $(document).ready(function(e){
                     $('#name').focus();
                 }
                 else if($('#email') == ""){
-                    $('#name').focus();
+                    $('#email').focus();
                 }
-                else if($('#name') == ""){
-                    $('#name').focus();
+                else if($('#phone') == ""){
+                    $('#phone').focus();
                 }
             } else {
                 e.preventDefault();
