@@ -160,11 +160,11 @@
                         </div>
                         <div class="col-md-6">
                             <div class="row">
-                                <div class="col-md-6 hidden_phone">
+                                <div class="col-md-6 col-xs-6">
                                     <p class="num_stores_p">Number of stores selected <span id="number_stores">0</span></p>
                                     
                                 </div>
-                                <div class="col-md-6 text_center_phone">
+                                <div class="col-md-6 col-xs-6 text_center_phone">
                                     <button class="green_btn">SUBMIT MY STORES</button> 
                                 </div>
                             </div>
