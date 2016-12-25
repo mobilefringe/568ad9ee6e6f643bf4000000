@@ -56,7 +56,7 @@
                 </div>
             </div>
         </section>
-        <form name="survey_form" data-toggle="validator">
+        <form name="survey_form" >
             <section>
                 <div class="hero_banner">
                     <div class="main_container">
