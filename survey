@@ -161,7 +161,7 @@
                         <div class="col-md-6">
                             <div class="row">
                                 <div class="col-md-6 col-xs-6">
-                                    <p class="num_stores_p"><span class="hidden_phone">Number of stores selected</span> <span id="number_stores">0</span></p>
+                                    <p class="num_stores_p"><span class="hidden_phone">Number of stores selected</span><span class="show_phone">Stores</span> <span id="number_stores">0</span></p>
                                     
                                 </div>
                                 <div class="col-md-6 col-xs-6 text_center_phone">
