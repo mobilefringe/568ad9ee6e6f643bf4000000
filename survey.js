@@ -15,7 +15,7 @@ $(document).ready(function(e){
                     $('#shopping_center_name').focus();
                 }
                 else if($('#name') == ""){
-                    $('#shopping_center_name').focus();
+                    $('#name').focus();
                 }
             } else {
                 e.preventDefault();
