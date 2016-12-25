@@ -11,18 +11,6 @@ $(document).ready(function(e){
         $('form[name="survey_form"]').validator().on('submit', function(e){
             if (e.isDefaultPrevented()) {
                 alert("Please complete the mandatory fields, Shopping Center, Name, Email and Phone.");
-                if($('#shopping_center_name') == ""){
-                    $('#shopping_center_name').focus();
-                }
-                else if($('#name') == ""){
-                    $('#name').focus();
-                }
-                else if($('#email') == ""){
-                    $('#email').focus();
-                }
-                else if($('#phone') == ""){
-                    $('#phone').focus();
-                }
             } else {
                 e.preventDefault();
                 $('button.green_btn').prop('disabled', true);
