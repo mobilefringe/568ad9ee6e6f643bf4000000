@@ -21,6 +21,11 @@ $(document).ready(function(e){
             }
         });
     }
+    $('.scrollToTop').click(function(e){
+		$('html, body').animate({scrollTop : 0},800);
+		e.preventDefault();
+	});
+	
     $(window).scroll( function(){
         if ($(this).scrollTop() > 100) {
 			$('.scrollToTop').fadeIn();
