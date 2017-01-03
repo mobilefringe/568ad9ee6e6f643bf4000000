@@ -151,14 +151,14 @@
             <section class="fixed_footer">
                 <div class="main_container">
                     <div class="row">
-                        <div class="col-md-8 hidden_phone">
+                        <div class="col-md-6 hidden_phone">
                             <p>
                                 Don’t see the retailer you’re looking for? Tell them to go to <a href="/">www.retailmaverick.com</a> to sign up.
                                 <br />
                                 Any questions contact us at <a href="mailto:info@retailmaverick.com">info@retailmaverick.com</a>
                             </p>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-6">
                             <div class="row">
                                 <div class="col-md-6 col-xs-6">
                                     <p class="num_stores_p"><span class="hidden_phone">Number of stores selected</span><span class="show_phone">Stores</span> <span id="number_stores">0</span></p>
