@@ -78,10 +78,6 @@
                     alert("Unable to process your request. Please try again later.");
                 }
             });
-            $.getJSON(
-                this.action + "?callback=?",
-                $(this).serialize()
-            );
         });
     });
     
