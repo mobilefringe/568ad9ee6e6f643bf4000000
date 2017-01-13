@@ -36,7 +36,7 @@
                         </div>
                         <div class="col-md-12">
                          <input id="agree_terms" type="checkbox" value="true" class="checkbox-custom">
-                            <label for="agree_terms" class="confirm_label checkbox-custom-label" style="margin-top:0; fot-size:12px;">
+                            <label for="agree_terms" class="confirm_label checkbox-custom-label" style="margin-top:0; font-size:12px; margin-bottom:20px;">
                                 I agree to receive email messaging from Retail Maverick
                             </label>
                         </div>
