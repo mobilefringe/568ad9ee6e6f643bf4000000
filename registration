@@ -68,9 +68,10 @@
             post_data.custom = custom;
             $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 if(status == "success"){
-                        var dialog = bootbox.dialog({
-                            message: 'Thank you for registering for Retail Maverick, the largest online distributer of promotional content to shopping centres'
-                        }); 
+                    var dialog = bootbox.dialog({
+                        message: 'Thank you for registering for Retail Maverick, the largest online distributer of promotional content to shopping centres'
+                    });
+                    $.getJSON("http://home.mallmaverick.com/retailer_maverick_sign_up?mailto=" + $('#email').val() + "&text_body=Thank you for registering for Retail Maverick, the largest online distributer of promotional content to shopping centres. Someone from the Retail Maverick team will be in touch with you shortly to start your trial.");
                     $('#signup_form').trigger('reset');
                     $('.send_btn').prop('disabled', false);
                 }
