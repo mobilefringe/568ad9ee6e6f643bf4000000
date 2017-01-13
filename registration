@@ -69,7 +69,7 @@
             $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 if(status == "success"){
                         var dialog = bootbox.dialog({
-                            message: 'Thank you for registering for Retail Maverick, the largest online distributer of promotional content to shopping centres'
+                            title: 'Thank you for registering for Retail Maverick, the largest online distributer of promotional content to shopping centres'
                         }); 
                     $('#signup_form').trigger('reset');
                     $('.send_btn').prop('disabled', false);
