@@ -41,7 +41,7 @@
                         <div class="col-md-12">
                          <input id="agree_terms" type="checkbox" value="true" class="checkbox-custom">
                             <label for="agree_terms" class="confirm_label checkbox-custom-label" style="font-size:12px; margin-bottom:20px;">
-                                I agree to receive email messaging from Retail Maverick
+                                By selecting "Register" you understand and agree to the Retail maverick <a href="#" id="terms_conditions">Terms and Conditions</a>
                             </label>
                         </div>
                     </div>
