@@ -27,7 +27,11 @@
                             <input type="text" name="retailer" id="retailer" class="form-control custom_control" />
                         </div>
                         <div class="col-md-6">
-                             <label class="custom_label" for="retailer">Position</label>
+                             <label class="custom_label" for="position">Position</label>
+                           <input type="text" name="position" id="position" class="form-control custom_control" />
+                        </div>
+                        <div class="col-md-6">
+                             <label class="custom_label" for="num_outlets">Number of Outlets/Stores</label>
                            <input type="text" name="position" id="position" class="form-control custom_control" />
                         </div>
                         <div class="col-md-12 text-center">
