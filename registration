@@ -49,7 +49,7 @@
 </section>
 
 <script>
-    $(document).ready(function(){
+    $(document).ready(function(e){
         init();
         $('#signup_form').submit(function(e){
             $('.send_btn').prop('disabled', true);
@@ -79,6 +79,13 @@
                 }
             });
         });
+        $('#terms_conditions').click(function(e){
+            bootbox.dialog({
+                title: "Retail Maverick Terms and Conditions"
+                message: 'Thank you for registering for Retail Maverick, the largest online distributer of promotional content to shopping centres'
+            });
+        });
+        
     });
     
 </script>
