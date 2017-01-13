@@ -71,7 +71,6 @@
                         var dialog = bootbox.dialog({
                             message: 'Thank you for registering for Retail Maverick, the largest online distributer of promotional content to shopping centres'
                         }); 
-                    $.getJSON("http://home.mallmaverick.com/retailer_maverick_sign_up?mailto=" + $('#email').val() + "&text_body=Thank you for joining Retail Maverick. One of our representatives will be in contact with you shortly to book a demo appointment.");
                     $('#signup_form').trigger('reset');
                     $('.send_btn').prop('disabled', false);
                 }
