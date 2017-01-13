@@ -51,7 +51,6 @@
 <script>
     $(document).ready(function(){
         init();
-        scroll();
         $('#signup_form').submit(function(e){
             $('.send_btn').prop('disabled', true);
             e.preventDefault();
