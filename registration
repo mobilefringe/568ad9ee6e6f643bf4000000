@@ -35,10 +35,7 @@
                            <input type="text" name="num_outlets" id="num_outlets" class="form-control custom_control" />
                         </div>
                         <div class="col-md-12">
-                             <input id="agree_terms" type="checkbox" value="true" class="checkbox-custom">
-                            <label for="agree_terms" class="confirm_label checkbox-custom-label" style="margin-top:0px;font-size:14px; margin-bottom:20px;">
-                                By selecting "Register" you understand and agree to the Retail maverick <a href="#" id="terms_conditions">Terms and Conditions</a>
-                            </label>
+                             <p>By selecting "Register" you understand and agree to the Retail maverick <a href="#" id="terms_conditions">Terms and Conditions</a></p>
                         </div>
                         <div class="col-md-12 text-center">
                             <input type="submit" value="Register" class="send_btn" />
