@@ -72,7 +72,7 @@
                 if(status == "success"){
                     var dialog = bootbox.dialog({
                         title: "Congratulations!",
-                        message: 'Thank you for registering for Retail Maverick, the largest online distributer of promotional content to shopping centres'
+                        message: 'Thank you for registering and get ready to enjoy all the benefits of Retail Maverick.  We will be contacting you shortly to get you started.'
                     });
                     $('#signup_form').trigger('reset');
                     $('.send_btn').prop('disabled', false);
