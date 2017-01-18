@@ -21,7 +21,7 @@
                         </div>
                         <div class="col-md-6">
                             <label class="custom_label" for="phone">Phone Number</label>
-                            <input type="number" name="phone" id="phone" class="form-control custom_control" required required data-validation="length, number" data-validation-allowing="integer" data-validation-length="10-15" />
+                            <input type="number" name="phone" id="phone" class="form-control custom_control" required required data-validation="length  number" data-validation-allowing="integer" data-validation-length="10-15" />
                         </div>
                     </div>
                     <div class="row">
