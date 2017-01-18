@@ -17,7 +17,7 @@
                         </div>
                         <div class="col-md-6">
                             <label class="custom_label" for="phone">Phone Number</label>
-                            <input type="number" name="phone" id="phone" class="form-control custom_control" required data-validation="required" />
+                            <input type="number" name="phone" id="phone" class="form-control custom_control" required data-validation="number"/>
                         </div>
                     </div>
                     <div class="row">
