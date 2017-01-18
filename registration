@@ -41,7 +41,7 @@
                         </div>
                         <div class="col-md-6">
                              <label class="custom_label" for="num_outlets">Number of Outlets/Stores</label>
-                           <input type="text" name="num_outlets" id="num_outlets" class="form-control custom_control" required data-validation="required" />
+                           <input type="text" name="num_outlets" id="num_outlets" class="form-control custom_control" required data-validation="number" />
                         </div>
                     </div>
                     <div class="row">
