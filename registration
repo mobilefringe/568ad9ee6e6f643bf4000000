@@ -1,5 +1,9 @@
 <style>
   #newsletter{display:none;}
+  .form-error{
+      margin-top: -35px;
+  }
+  .custom_control{margin-bottom: 40px;}
 </style>
 <section id="signup" class="">
     <div class="main_container">
