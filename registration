@@ -5,6 +5,7 @@
   }
   .custom_control{margin-bottom: 40px;}
 </style>
+^[0-9]*$
 <section id="signup" class="">
     <div class="main_container">
         <h3 class="text-center heading">Retail Maverick Registration</h3>
@@ -21,7 +22,7 @@
                         </div>
                         <div class="col-md-6">
                             <label class="custom_label" for="phone">Phone Number</label>
-                            <input type="number" name="phone" id="phone" class="form-control custom_control" required data-validation="number"/>
+                            <input type="number" name="phone" id="phone" class="form-control custom_control" required data-validation="required"/>
                         </div>
                     </div>
                     <div class="row">
