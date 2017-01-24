@@ -11,7 +11,7 @@
             </div>
             <div class="col-md-5 how_img_div">
                 <!--<img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1451948774000/how_it_works.png" class="how_img width_100" alt="How it works">-->
-                <iframe width="100%" height="auto" src="https://www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
     </div>
