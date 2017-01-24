@@ -10,8 +10,10 @@
             <p class="headline_desc">
                 Streamline your distribution process and drive content to all of your retailer’s digital marketing channels including, websites, apps, social, and digital directories.
             </p>
-            <a href="#signup" class="scroll main_btn">Join Now</a>
-            <a href="//mallmaverick.com/retail_users/sign_in" class="main_btn hidden_phone">LOGIN</a>
+            <!--<a href="#signup" class="scroll main_btn">Join Now</a>-->
+            <!--<a href="//mallmaverick.com/retail_users/sign_in" class="main_btn hidden_phone">LOGIN</a>-->
+            <a href="/retailers" class="scroll main_btn">Retailers</a>
+            <a href="/shopping_centres" class="main_btn hidden_phone">Shopping Centres</a>
         </div>
     </div>
 </section>
