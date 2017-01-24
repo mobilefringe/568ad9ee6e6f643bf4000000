@@ -85,3 +85,9 @@ One platform to save you time & money designed and created just for retailers.
         </div>
     </div>
 </section>
+<script>
+    $(document).ready(function(){
+        init();
+        scroll();
+    });
+</script>
