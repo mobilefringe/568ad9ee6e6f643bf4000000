@@ -297,7 +297,9 @@ a{
         width: 185px;
         margin-top: 10px;
     }
-    
+    .line_break {
+        height: 30px;
+    }
     body{
         margin-top:85px;
         position: relative;
