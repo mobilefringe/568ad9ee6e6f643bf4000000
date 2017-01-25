@@ -273,7 +273,8 @@ a{
     margin: 20px 0;
 }
 .social_icon {
-    font-size: 36px;
+    margin: 0 5px;
+    font-size: 24px;
 }
 
 /* Small devices (tablets, 769px and up) */
