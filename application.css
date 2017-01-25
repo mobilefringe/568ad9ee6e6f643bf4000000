@@ -20,7 +20,9 @@ body{
     -o-animation: fadein 2s; /* Opera < 12.1 */
     animation: fadein 2s;
 }
-
+.line_break {
+    height: 30px;
+}
 #signup_confirmed{
     display:none;
 }
@@ -274,6 +276,7 @@ a{
 }
 .social_icons_container {
     padding-top: 40px;
+    padding-bottom: 20px;
 }
 .social_icon {
     margin: 0 5px;
@@ -296,9 +299,6 @@ a{
     .main_logo {
         width: 185px;
         margin-top: 10px;
-    }
-    .line_break {
-        height: 30px;
     }
     body{
         margin-top:85px;
