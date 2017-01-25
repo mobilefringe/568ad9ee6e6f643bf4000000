@@ -98,7 +98,8 @@
         var slug = pathArray[pathArray.length-1];
         console.log(slug);
         if (slug === "retailers"){
-            $('#inside_page').html('Retailers')
+            $('#inside_page').html('Shopping Centres');
+            $('#inside_page').src('/shopping_centres');
         }
     });
 </script>
