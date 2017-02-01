@@ -290,6 +290,13 @@ a{
     margin: 0 5px;
     font-size: 24px;
 }
+.social_fb {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+    background-image: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png');
+}
 
 /* Small devices (tablets, 769px and up) */
 @media (min-width: 769px) {
