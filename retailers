@@ -1,7 +1,7 @@
 <section id="how_it_works" class="ease_in">
     <div class="main_container">
         <div class="row margin_40">
-            <div class="col-md-12 hidden-xs">
+            <div class="col-md-12 hidden-xs video_container">
                 <iframe width="600px" height="338px" src="https://www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>
             </div>
             <div class="col-md-12 visible-xs-block">
