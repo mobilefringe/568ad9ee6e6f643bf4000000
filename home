@@ -56,7 +56,7 @@
         <div class="row">
             <div class="col-md-5">
                 <div class="pull-right">
-                    <p class="visitor_numbers">450,000</p>
+                    <p class="visitors_numbers">450,000</p>
                     <h3>Visitors</h3>    
                 </div>
             </div>
@@ -65,7 +65,7 @@
             </div>
             <div class="col-md-5">
                 <div class="pull-left">
-                    <p class="visitor_numbers">1,000,000</p>
+                    <p class="visitors_numbers">1,000,000</p>
                     <h3>Views</h3>
                 </div>
             </div>
