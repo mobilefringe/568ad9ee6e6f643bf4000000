@@ -394,6 +394,17 @@ a{
         background-size: 221px 72px;
 	}    
 }
+.social_linkedin {
+    display: inline-block;
+    background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat -92px 0;
+    background-size: 221px 72px;
+    width: 36px;
+	height: 36px;
+	&:hover {
+	    background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat -92px -36px;
+        background-size: 221px 72px;
+	}    
+}
 
 /* Small devices (tablets, 769px and up) */
 @media (min-width: 769px) {
