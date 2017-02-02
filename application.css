@@ -103,7 +103,6 @@ body{
     }
 }
 .demo_btn {
-    
     margin-top: 50px;
     margin-left: 10px;
     margin-right: 10px;
@@ -188,7 +187,9 @@ body{
 #header{
     background: rgba(0,0,0, 0.7);
 }
-
+#video {
+    margin-top: -90px;
+}
 #features{
     padding: 60px 0;
     background: #f2f2f2;
