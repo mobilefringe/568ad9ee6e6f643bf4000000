@@ -198,7 +198,7 @@ body{
     padding: 60px 0;
     background: linear-gradient(#FFBE1D, #E78200);
     color: #fff;
-    .visitor:numbers {
+    .visitors_numbers {
         font-weight: bold;
         font-size: 60px;
     }
