@@ -705,6 +705,10 @@ a{
         max-width: 400px;
         margin-top: 30px;
     }
+    .social_icons_container {
+        display: block;
+        text-align: center;
+    }
 }
 
 
