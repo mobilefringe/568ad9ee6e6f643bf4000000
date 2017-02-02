@@ -54,14 +54,14 @@
     <div class="main_container text-center">
         <h1>Our network receives weekly over</h1>
         <div class="row">
-            <div class="col-md-5">
+            <div class="col-md-5 pull-right">
                 <h1>450,000</h1>
                 <h3>Visitors</h3>
             </div>
             <div class="col-md-2">
 
             </div>
-            <div class="col-md-5">
+            <div class="col-md-5 pull-left">
                 <h1>1,000,000</h1>
                 <h3>Views</h3>
             </div>
