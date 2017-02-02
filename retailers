@@ -1,4 +1,4 @@
-<section class="page_banner">
+<section id="page_banner">
     <div class="main_container hero_container">
         <div>
             <h2 id="contact-header" class="text-center inside_main_header">For Retailers</h2>
