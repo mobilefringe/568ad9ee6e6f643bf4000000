@@ -446,6 +446,12 @@ a{
                 text-transform: uppercase;
             }
         }
+        li:first-child {
+            padding-left: 0;
+        }
+        li:last-child {
+            padding-right: 0;
+        }
     }
     .custom_nav li.active a{
         color: #FFBE1D;
