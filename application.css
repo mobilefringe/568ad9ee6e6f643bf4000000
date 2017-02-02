@@ -215,7 +215,8 @@ body{
     background: #f2f2f2;
 }
 #centre_features {
-     padding: 60px 0;    
+     padding: 60px 0;  
+     height: 300px;
 }
 #visitors {
     padding: 40px 0;
