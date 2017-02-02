@@ -197,6 +197,12 @@ body{
     background: url(//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486051203000/topBanner.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    .page_title {
+        font-size: 40px;
+        font-weight: bold;
+        color: #FFBE1D;
+        text-transform: uppercase;
+    }
 }
 #features{
     padding: 60px 0;
