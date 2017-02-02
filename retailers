@@ -17,7 +17,7 @@
                 </div>
             </div>
             <div class="row margin_40">
-                <div class="col-md-6">
+                <div class="col-sm-6">
                     <h2 class="heading">How does it work?</h2>
                     <p class="desc">
                         With Retail Maverick it’s never been easier to send out your promotions, events, and job postings to all of your store locations                      at once.<br><br>
@@ -25,7 +25,7 @@
                         Let us do the leg work for you and extend your reach to our network of over 250 shopping centres. Our shopping centre network                         receives over 450,000 visitors and a 1,000,000 views a week!<br><br>
                     </p>
                 </div>
-                <div class="col-md-6 how_img_div">
+                <div class="col-sm-6 how_img_div">
                     <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1451948774000/how_it_works.png" class="how_img width_100" alt="How it works">
                 </div>
             </div>    
