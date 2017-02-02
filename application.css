@@ -8,9 +8,7 @@ For more information on asset types please see http://www.getcodecloud.com/docs#
 body{
     font-family:'Open Sans';
 }
-.main_container {
-    width: 940px;
-}
+
 .fade_in{
     opacity:0;
 }
