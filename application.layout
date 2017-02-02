@@ -41,8 +41,14 @@
                 <a href="/">
                     <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485531020000/rm_logo-w.png" class="main_logo" alt="logo">
                 </a>
-                <img id="open_menu" src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1452023412000/menu_mobile.png" class="menu_icons" alt="Open Menu">
-                <img id="close_menu" src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1452023426000/close_menu.png" class="menu_icons" alt="Close Menu">
+                <div id="nav-icon3">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+                <!--<img id="open_menu" src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1452023412000/menu_mobile.png" class="menu_icons" alt="Open Menu">-->
+                <!--<img id="close_menu" src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1452023426000/close_menu.png" class="menu_icons" alt="Close Menu">-->
                 
                 <ul class="custom_nav" id="menu">
                     <li><a href="/retailers">For Retailers</a></li>
