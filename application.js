@@ -59,7 +59,7 @@ function init(){
     });
     
    
-	$('#nav-icon3').click(function(){
+	$('#menu-icon').click(function(){
 		$(this).toggleClass('open');
 		$('#menu').slideDown();
 	});
