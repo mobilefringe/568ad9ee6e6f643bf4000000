@@ -2,10 +2,13 @@
 This is a Saas file has an 'Asset Type' of SCSS. CSS will be compiled when saving.
 For more information on asset types please see http://www.getcodecloud.com/docs#SaSS
 */
-#nav-icon1, #nav-icon2, #nav-icon3, #nav-icon4 {
-  width: 60px;
+#nav-icon3 {
+  width: 40px;
   height: 45px;
-  position: relative;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  display: inline-block;
   margin: 50px auto;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
