@@ -357,6 +357,7 @@ a{
 	height: 36px;
 	&:hover {
 	    background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat 0 -36px;
+        background-size: 221px 72px;
 	}
 }
 
