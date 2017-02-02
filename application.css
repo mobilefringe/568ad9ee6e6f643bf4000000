@@ -198,14 +198,15 @@ body{
     padding: 60px 0;
     background: linear-gradient(#FFBE1D, #E78200);
     color: #fff;
-    .visitors_title {
-        font-weight: bold;
+    .visitors_title, .visitors_subtitle {
         font-size: 40px;
         text-transform: uppercase;
     }
-    .visitors_numbers {
+    .visitors_title, .visitors_numbers {
         font-weight: bold;
-        font-size: 60px;
+    }
+    .visitors_numbers {
+        font-size: 60px;   
     }
 }
 
