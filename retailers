@@ -124,12 +124,7 @@
     $(document).ready(function(){
         init();
         scroll();
-        var pathArray = window.location.pathname.split( '/' );
-        var slug = pathArray[pathArray.length-1];
-        console.log(slug);
-        if (slug === "retailers"){
-            $('#inside_page').html('Shopping Centres');
-            $('#inside_page').attr('href', '/shopping_centres');
-        }
+
+
     });
 </script>
