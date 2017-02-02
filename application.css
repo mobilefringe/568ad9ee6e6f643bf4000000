@@ -190,6 +190,13 @@ body{
 #video {
     margin-top: -90px;
 }
+#page_banner {
+    padding: 170px 0 227px 0;
+    background: url(//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486051203000/topBanner.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 #features{
     padding: 60px 0;
     background: #f2f2f2;
