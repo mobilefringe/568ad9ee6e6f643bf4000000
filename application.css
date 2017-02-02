@@ -102,7 +102,25 @@ body{
         text-decoration:none;
     }
 }
-
+.demo_btn {
+    background: transparent;
+    border: 1px solid #FFBE1D;
+    color: #FFBE1D;
+    font-size: 20px;
+    padding: 11px 0px;
+    margin-top: 50px;
+    display: inline-block;
+    font-weight: 600;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 4px;
+    // width: 185px;
+    width: 200px;
+    &:hover{
+        color:#fff;
+        text-decoration:none;
+    }
+}
 .submit_btn{
     color: #fff;
     background: #FFBE1D;
