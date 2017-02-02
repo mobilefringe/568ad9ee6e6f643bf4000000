@@ -65,6 +65,8 @@
                         <div class="social_icons_container">
                             <span class="social_fb"></span>
                             <span class="social_twitter"></span>
+                            <span class="social_insta"></span>
+                            <span class="social_linkedin"></span>
                             <a href="https://www.facebook.com/Retail-Maverick-227060277704943/" target="_blank"><i class="fa fa-facebook-official social_icon" aria-hidden="true"></i></a>
                             <a href="https://twitter.com/RetailMaverick" target="_blank"><i class="fa fa-twitter social_icon" aria-hidden="true"></i></a>
                             <a href="https://www.instagram.com/retailmaverick/" target="_blank"><i class="fa fa-instagram social_icon" aria-hidden="true"></i></a>
