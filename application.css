@@ -183,7 +183,9 @@ body{
 .margin_40{
     margin-bottom: 50px !important;
 }
-
+.uppercase {
+    text-transform: uppercase;
+}
 #header{
     background: rgba(0,0,0, 0.7);
 }
