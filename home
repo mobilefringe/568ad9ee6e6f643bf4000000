@@ -54,13 +54,15 @@
     <div class="main_container text-center">
         <h1>Our network receives weekly over</h1>
         <div class="row">
-            <div class="col-md-12">
-                
-                <p class="desc2">
-                    Upload your campaigns and jobs to any and every shopping centre
-                </p>
+            <div class="col-md-5">
+
             </div>
-            
+            <div class="col-md-2">
+
+            </div>
+            <div class="col-md-5">
+
+            </div>
         </div>
     </div>
 </section>
