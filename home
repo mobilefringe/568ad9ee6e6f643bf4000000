@@ -64,8 +64,10 @@
 
             </div>
             <div class="col-md-5">
-                <h1>1,000,000</h1>
-                <h3>Views</h3>
+                <div class="pull-left">
+                    <h1>1,000,000</h1>
+                    <h3>Views</h3>
+                </div>
             </div>
         </div>
     </div>
