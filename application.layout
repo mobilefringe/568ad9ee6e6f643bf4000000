@@ -41,7 +41,7 @@
                 <a href="/">
                     <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485531020000/rm_logo-w.png" class="main_logo" alt="logo">
                 </a>
-                <div id="menu-icon hidden-md">
+                <div id="menu-icon visible-md-block">
                   <span></span>
                   <span></span>
                   <span></span>
