@@ -2,7 +2,7 @@
 This is a Saas file has an 'Asset Type' of SCSS. CSS will be compiled when saving.
 For more information on asset types please see http://www.getcodecloud.com/docs#SaSS
 */
-#nav-icon3 {
+#menu-icon {
   width: 40px;
 //   height: 45px;
   position: absolute;
@@ -21,7 +21,7 @@ For more information on asset types please see http://www.getcodecloud.com/docs#
   cursor: pointer;
 }
 
-#nav-icon3 span {
+#menu-icon span {
   display: block;
   position: absolute;
   height: 5px;
@@ -40,39 +40,36 @@ For more information on asset types please see http://www.getcodecloud.com/docs#
   transition: .25s ease-in-out;
 }
 
-#nav-icon3 span:nth-child(1) {
+#menu-icon span:nth-child(1) {
   top: 0px;
 }
 
-#nav-icon3 span:nth-child(2),#nav-icon3 span:nth-child(3) {
+#menu-icon span:nth-child(2),
+#menu-icon span:nth-child(3) {
   top: 12px;
 }
-
-#nav-icon3 span:nth-child(4) {
+#menu-icon span:nth-child(4) {
   top: 24px;
 }
-
-#nav-icon3.open span:nth-child(1) {
+#menu-icon.open span:nth-child(1) {
   top: 18px;
   width: 0%;
   left: 50%;
 }
-
-#nav-icon3.open span:nth-child(2) {
+#menu-icon.open span:nth-child(2) {
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
 }
 
-#nav-icon3.open span:nth-child(3) {
+#menu-icon.open span:nth-child(3) {
   -webkit-transform: rotate(-45deg);
   -moz-transform: rotate(-45deg);
   -o-transform: rotate(-45deg);
   transform: rotate(-45deg);
 }
-
-#nav-icon3.open span:nth-child(4) {
+#menu-icon.open span:nth-child(4) {
   top: 18px;
   width: 0%;
   left: 50%;
