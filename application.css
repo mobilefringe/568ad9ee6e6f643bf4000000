@@ -96,26 +96,27 @@ body{
     margin-right: 10px;
     border-radius: 4px;
     // width: 185px;
-    width: 200px;
+    width: 290px;
     &:hover{
         color:#fff;
         text-decoration:none;
     }
 }
 .demo_btn {
-    background: transparent;
-    border: 1px solid #FFBE1D;
-    color: #FFBE1D;
-    font-size: 20px;
-    padding: 11px 0px;
+    
     margin-top: 50px;
-    display: inline-block;
-    font-weight: 600;
     margin-left: 10px;
     margin-right: 10px;
-    border-radius: 4px;
-    // width: 185px;
+    padding: 11px 0px;
+    display: inline-block;
     width: 200px;
+    background: transparent;
+    border: 1px solid #FFBE1D;
+    border-radius: 4px;
+    color: #FFBE1D;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
     &:hover{
         color:#fff;
         text-decoration:none;
