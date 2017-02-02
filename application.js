@@ -61,6 +61,7 @@ function init(){
    
 	$('#nav-icon3').click(function(){
 		$(this).toggleClass('open');
+		$('#menu').slideDown();
 	});
     
     $('#open_menu').click(function(){
