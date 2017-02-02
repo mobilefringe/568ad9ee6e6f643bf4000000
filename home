@@ -54,16 +54,16 @@
     <div class="main_container text-center">
         <h1 class="visitors_title">Our network receives weekly over</h1>
         <div class="row">
-            <div class="col-md-5">
+            <div class="col-sm-5">
                 <div class="pull-right">
                     <p class="visitors_numbers">450,000</p>
                     <p class="visitors_subtitle">Visitors</p>    
                 </div>
             </div>
-            <div class="col-md-2">
-                <p class="visitors_subtitle">&</p>
+            <div class="col-sm-2">
+                <p class="visitors_char">&</p>
             </div>
-            <div class="col-md-5">
+            <div class="col-sm-5">
                 <div class="pull-left">
                     <p class="visitors_numbers">1,000,000</p>
                     <p class="visitors_subtitle">Views</p>
