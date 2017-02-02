@@ -201,6 +201,7 @@ body{
     .visitors_title {
         font-weight: bold;
         font-size: 40px;
+        text-transform: uppercase;
     }
     .visitors_numbers {
         font-weight: bold;
