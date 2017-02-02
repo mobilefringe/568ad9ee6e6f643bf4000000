@@ -18,7 +18,7 @@
                 <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a>    
             </div>
             <div>
-                <a href="#signup" class="scroll main_btn hidden_phone">Book A Demo</a>
+                <a href="#signup" class="scroll demo_btn hidden_phone">Book A Demo</a>
             </div>
         </div>
     </div>
