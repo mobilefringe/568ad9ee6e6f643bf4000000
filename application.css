@@ -181,7 +181,10 @@ body{
 }
 
 .margin_40{
-    margin-bottom: 50px !important;
+    margin-bottom: 40px !important;
+}
+.extra_padding {
+    padding: 0 65px;
 }
 .uppercase {
     text-transform: uppercase;
