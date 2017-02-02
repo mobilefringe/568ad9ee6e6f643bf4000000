@@ -518,7 +518,7 @@ a{
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
     .main_container{
-        width:1140px;
+        width: 940px;
     }
     
 }
