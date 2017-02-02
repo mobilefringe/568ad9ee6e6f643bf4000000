@@ -50,6 +50,21 @@
     </div>
 </section>
 
+<section id="visitors" class="fade_in">
+    <div class="main_container text-center">
+        <h1>Our network receives weekly over</h1>
+        <div class="row">
+            <div class="col-md-12">
+                
+                <p class="desc2">
+                    Upload your campaigns and jobs to any and every shopping centre
+                </p>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
 <section id="signup" class="fade_in">
     <div class="main_container">
         <h3 class="text-center heading">Book A Demo</h3>
