@@ -36,7 +36,7 @@
 <section id="visitors" class="fade_in">
     <div class="main_container text-center">
         <h1 class="visitors_title">Our network receives weekly over</h1>
-        <div class="row">
+        <div class="row extra_padding">
             <div class="col-sm-5">
                 <div class="">
                     <p class="visitors_numbers">450,000</p>
