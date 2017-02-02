@@ -26,15 +26,23 @@
 
 <section id="visitors" class="fade_in">
     <div class="main_container text-center">
-        <h1>Our network receives weekly over</h1>
+        <h1 class="visitors_title">Our network receives weekly over</h1>
         <div class="row">
-            <div class="col-md-12">
-                
-                <p class="desc2">
-                    Upload your campaigns and jobs to any and every shopping centre
-                </p>
+            <div class="col-md-5">
+                <div class="pull-right">
+                    <p class="visitors_numbers">450,000</p>
+                    <p class="visitors_subtitle">Visitors</p>    
+                </div>
             </div>
-            
+            <div class="col-md-2">
+                <p class="visitors_subtitle">&</p>
+            </div>
+            <div class="col-md-5">
+                <div class="pull-left">
+                    <p class="visitors_numbers">1,000,000</p>
+                    <p class="visitors_subtitle">Views</p>
+                </div>
+            </div>
         </div>
     </div>
 </section>
