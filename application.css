@@ -351,13 +351,13 @@ a{
 }
 .social_fb, .social_twitter, .social_insta, .social_youtube, .social_linkedin {
     display: inline-block;   
-    background-size: 221px 72px;
     width: 36px;
 	height: 36px;
 	transition: background-image 0.3s ease;
 }
 .social_fb {
     background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat 0 0;
+    background-size: 221px 72px;
 	&:hover {
 	    background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat 0 -36px;
         background-size: 221px 72px;
@@ -365,6 +365,7 @@ a{
 }
 .social_twitter {
     background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat -46px 0;
+    background-size: 221px 72px;
 	&:hover {
 	    background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat -46px -36px;
         background-size: 221px 72px;
@@ -372,6 +373,7 @@ a{
 }
 .social_insta {
     background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat -184px 0;
+    background-size: 221px 72px;
 	&:hover {
 	    background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat -184px -36px;
         background-size: 221px 72px;
@@ -379,6 +381,7 @@ a{
 }
 .social_youtube {
     background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat -138px 0;
+    background-size: 221px 72px;
 	&:hover {
 	    background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat -138px -36px;
         background-size: 221px 72px;
@@ -386,6 +389,7 @@ a{
 }
 .social_linkedin {
     background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat -92px 0;
+    background-size: 221px 72px;
 	&:hover {
 	    background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat -92px -36px;
         background-size: 221px 72px;
