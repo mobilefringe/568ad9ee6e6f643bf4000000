@@ -8,8 +8,8 @@
 <section id="how_it_works">
     <div class="main_container">
         <div class="main_content">
-            <div class="row">
-                <div class="col-md-12 margin_40 hidden-xs">
+            <div class="row margin_40">
+                <div class="col-md-12 hidden-xs video_container">
                     <iframe width="600px" height="338" src="https://www.youtube.com/embed/OYfS6bS22mQ" frameborder="0" allowfullscreen></iframe>    
                 </div>
                 <div class="col-md-12 margin_40 visible-xs-block">
