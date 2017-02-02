@@ -214,6 +214,9 @@ body{
     padding: 60px 0;
     background: #f2f2f2;
 }
+#centre_features {
+     padding: 60px 0;    
+}
 #visitors {
     padding: 40px 0;
     background: linear-gradient(#FFBE1D, #E78200);
