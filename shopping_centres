@@ -48,13 +48,13 @@
     <div class="main_container">
         <div class="row margin_40">
             <div class="col-md-4 banner_icons">
-                <img src="http://assets.codecloudapp.com/sites/57f51d926e6f6429bc000000/image/png/1486065632000/Devices.png" class="width_100" alt="responsive website">
+                <img src="http://assets.codecloudapp.com/sites/57f51d926e6f6429bc000000/image/png/1486065632000/Devices.png" alt="responsive website">
             </div>
             <div class="col-md-4 banner_icons">
                 <img src="http://assets.codecloudapp.com/sites/57f51d926e6f6429bc000000/image/png/1486065638000/CMS.png" alt="apps for all devices">
             </div>
             <div class="col-md-4 banner_icons">
-                <img src="http://assets.codecloudapp.com/sites/57f51d926e6f6429bc000000/image/png/1486065644000/Zendesk.png" class="width_100" alt="digital directory">
+                <img src="http://assets.codecloudapp.com/sites/57f51d926e6f6429bc000000/image/png/1486065644000/Zendesk.png" alt="digital directory">
             </div>
         </div>
     </div>
