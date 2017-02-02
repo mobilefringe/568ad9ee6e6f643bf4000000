@@ -204,6 +204,10 @@ body{
         text-transform: uppercase;
     }
 }
+#how_it_works {
+    margin-top: -100px;
+    
+}
 #features{
     padding: 60px 0;
     background: #f2f2f2;
