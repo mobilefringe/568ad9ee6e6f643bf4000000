@@ -4,12 +4,12 @@ For more information on asset types please see http://www.getcodecloud.com/docs#
 */
 #nav-icon3 {
   width: 40px;
-  height: 45px;
+//   height: 45px;
   position: absolute;
   top: 15px;
   right: 15px;
   display: inline-block;
-  margin: 50px auto;
+//   margin: 50px auto;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
