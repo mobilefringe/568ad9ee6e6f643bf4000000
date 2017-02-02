@@ -198,6 +198,10 @@ body{
     padding: 60px 0;
     background: linear-gradient(#FFBE1D, #E78200);
     color: #fff;
+    .visitors_title {
+        font-weight: bold;
+        font-size: 40px;
+    }
     .visitors_numbers {
         font-weight: bold;
         font-size: 60px;
