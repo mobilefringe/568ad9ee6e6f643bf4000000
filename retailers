@@ -38,7 +38,7 @@
         <h1 class="visitors_title">Our network receives weekly over</h1>
         <div class="row">
             <div class="col-sm-5">
-                <div class="pull-right">
+                <div class="">
                     <p class="visitors_numbers">450,000</p>
                     <p class="visitors_subtitle">Visitors</p>    
                 </div>
@@ -47,7 +47,7 @@
                 <p class="visitors_char">&</p>
             </div>
             <div class="col-sm-5">
-                <div class="pull-left">
+                <div class="">
                     <p class="visitors_numbers">1,000,000</p>
                     <p class="visitors_subtitle">Views</p>
                 </div>
