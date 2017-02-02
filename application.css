@@ -226,6 +226,9 @@ body{
     .visitors_numbers {
         font-size: 60px;   
     }
+    .visitors_subtitle {
+        padding-top: 30px;
+    }
 }
 
 #newsletter{
