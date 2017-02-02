@@ -73,7 +73,7 @@
             <div class="col-sm-2">
                 <p class="visitors_char">&</p>
             </div>
-            <div class="col-sm-5">
+            <div class="col-sm-5 text-center">
                 <div class="">
                     <p class="visitors_numbers">1,000,000</p>
                     <p class="visitors_subtitle">Views</p>
