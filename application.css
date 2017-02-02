@@ -397,10 +397,10 @@ a{
     #video{
         background: #fff;
     }
-    #how_it_works{
-        padding: 60px 0;
-        background:#fff;
-    }
+    // #how_it_works{
+    //     padding: 60px 0;
+    //     background:#fff;
+    // }
     .feature_image{
         width:220px;
     }
