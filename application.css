@@ -352,14 +352,16 @@ a{
 .social_fb {
     display: inline-block;
     background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat 0 0;
-    width: 72px;
-	height: 72px;
+    background-size: 221px 72px;
+    width: 36px;
+	height: 36px;
 }
 .social_fb:hover {
     display: inline-block;
     background: url('//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485977293000/social_icons_sprite18x18.png') no-repeat 0 -72px;
-    width: 72px;
-	height: 72px;    
+    background-size: 221px 72px;
+    width: 36px;
+	height: 36px;    
 }
 
 /* Small devices (tablets, 769px and up) */
