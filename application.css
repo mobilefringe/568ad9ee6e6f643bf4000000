@@ -216,7 +216,7 @@ body{
     padding: 40px 0;
     background: linear-gradient(#FFBE1D, #E78200);
     color: #fff;
-    .visitors_title, .visitors_subtitle {
+    .visitors_title, .visitors_subtitle, .visitors_char {
         font-size: 40px;
         text-transform: uppercase;
     }
@@ -226,7 +226,7 @@ body{
     .visitors_numbers {
         font-size: 60px;   
     }
-    .visitors_subtitle {
+    .visitors_char {
         padding-top: 30px;
     }
 }
