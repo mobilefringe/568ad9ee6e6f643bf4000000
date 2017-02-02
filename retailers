@@ -56,35 +56,6 @@
     </div>
 </section>
 
-<!--<section id="features" class="fade_in">-->
-<!--    <div class="main_container text-center">-->
-<!--        <h2 class="heading margin_40">Keep your Digital Content Consistent!</h2>-->
-<!--        <div class="row">-->
-<!--            <div class="col-md-4">-->
-<!--                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1451949209000/feature_promotions.png" class="feature_image" alt="promotions">-->
-<!--                <h3 class="sub_heading">Promotions</h3>-->
-<!--                <p class="desc2">-->
-<!--                    Upload your campaigns and jobs to any and every shopping centre-->
-<!--                </p>-->
-<!--            </div>-->
-<!--            <div class="col-md-4">-->
-<!--                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1451949230000/feature_social.png" class="feature_image" alt="social">-->
-<!--                <h3 class="sub_heading">Share Socially</h3>-->
-<!--                <p class="desc2">-->
-<!--                    Share your content on your social networks from one platform-->
-<!--                </p>-->
-<!--            </div>-->
-<!--            <div class="col-md-4">-->
-<!--                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1451949244000/feature_locations.png" class="feature_image" alt="locations">-->
-<!--                <h3 class="sub_heading">Retail Locations</h3>-->
-<!--                <p class="desc2">-->
-<!--                    Communicate on behalf of all of your retail outlets quickly and easily-->
-<!--                </p>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</section>-->
-
 <section id="signup" class="fade_in">
     <div class="main_container">
         <h3 class="text-center heading">Book A Demo</h3>
