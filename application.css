@@ -269,7 +269,7 @@ body{
     background-attachment: fixed;
     .page_title {
         font-size: 40px;
-        font-weight: bold;
+        font-weight: 600;
         color: #FFBE1D;
         text-transform: uppercase;
     }
@@ -660,7 +660,7 @@ a{
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
     .main_container{
-        width: 940px;
+        width: 960px;
     }
     
 }
