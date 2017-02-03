@@ -828,6 +828,9 @@ a{
     .headline > .main_container > .heading {
         margin: 0 5% 20px 5%;
     }
+    .heading {
+        font-size: 24px;
+    }
     .social_icons_container {
         display: block;
         text-align: center;
