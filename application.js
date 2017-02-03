@@ -35,11 +35,8 @@ function init(){
             if( bottom_of_window > bottom_of_object ){
                 
                 $(this).animate({'opacity':'1'},500);
-                    
             }
-            
         }); 
-    
     });
     
     if($(window.location.hash).length >0){
