@@ -406,8 +406,8 @@ a{
 .heading{
     color: #FFBE1D;
     font-size:30px;
-    margin-top: 0px;
-    margin-bottom: 20px;
+    // margin-top: 0px;
+    // margin-bottom: 20px;
     margin: 0 40px 20px 40px;
     font-weight:bold;
 }
