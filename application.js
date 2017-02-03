@@ -28,7 +28,7 @@ function init(){
         /* Check the location of each desired element */
         $('.fade_in').each( function(i){
             
-            var bottom_of_object = $(this).position().top + $(this).outerHeight()-300;
+            var bottom_of_object = $(this).position().top + $(this).outerHeight()-200;
             var bottom_of_window = $(window).scrollTop() + $(window).height();
             
             /* If the object is completely visible in the window, fade it it */
