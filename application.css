@@ -429,6 +429,7 @@ a{
     font-size: 24px;
 }
 .social_fb, .social_twitter, .social_insta, .social_youtube, .social_linkedin {
+    margin: 0 2.5px;
     display: inline-block;   
     width: 36px;
 	height: 36px;
