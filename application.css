@@ -537,6 +537,9 @@ a{
     #video{
         background: #fff;
     }
+    .heading {
+        margin: 0 15% 20px 15%;
+    }
     // #how_it_works{
     //     padding: 60px 0;
     //     background:#fff;
