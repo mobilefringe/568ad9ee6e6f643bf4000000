@@ -825,6 +825,9 @@ a{
 
 /* Mobile (468px and under)*/
 @media (max-width: 468px) {
+    .headline > .main_container > .heading {
+        margin: 0 5% 20px 5%;
+    }
     .social_icons_container {
         display: block;
         text-align: center;
