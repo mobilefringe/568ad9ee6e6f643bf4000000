@@ -7,7 +7,10 @@ For more information on asset types please see http://www.getcodecloud.com/docs#
 body{
     font-family:'Open Sans';
 }
-
+h5 {
+    font-size: 16px;
+    font-weight: 600;
+}
 .fade_in{
     opacity:0;
 }
