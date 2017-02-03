@@ -760,6 +760,12 @@ a{
         margin-right:auto;
         line-height:25px;
     }
+    #visitors .visitors_title, 
+    #visitors .visitors_subtitle, 
+    #visitors .visitors_char {
+        font-size: 36px;
+        text-transform: uppercase;
+    }
     .col-xs-6{
         width:100%;
     }
