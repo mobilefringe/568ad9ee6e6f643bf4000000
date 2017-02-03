@@ -248,9 +248,11 @@ h5 {
         text-decoration:none;
     }
 }
-
+.margin_10 {
+    margin-bottom: 10px !important;    
+}
 .margin_40{
-    margin-bottom: 50px !important;
+    margin-bottom: 40px !important;
 }
 .extra_padding {
     padding: 0 65px;
