@@ -537,9 +537,7 @@ a{
     #video{
         background: #fff;
     }
-    .heading {
-        margin: 0 15% 20px 15%;
-    }
+    
     // #how_it_works{
     //     padding: 60px 0;
     //     background:#fff;
@@ -655,7 +653,7 @@ a{
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     .main_container{
-        width:960px;
+        width: 960px;
     }
     .main_logo{
         width:257px;
@@ -742,6 +740,9 @@ a{
     #video {
         margin-top: 0;
         padding-top: 85px;
+    }
+    .heading {
+        margin: 0 15% 20px 15%;
     }
     #page_banner {
         margin-top: 0;
