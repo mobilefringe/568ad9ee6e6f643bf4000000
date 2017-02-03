@@ -623,7 +623,7 @@ a{
     .headline{
         position: absolute;
         z-index: 99;
-        top: 45%;
+        top: 55%;
         left: 50%;
         -webkit-transform: translate(-50%, -50%);
         -moz-transform: translate(-50%, -50%);
