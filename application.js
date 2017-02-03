@@ -8,7 +8,7 @@ function init(){
             $.getJSON(
                 this.action + "?callback=?",
                 $(this).serialize(),
-                function (data) {
+                function(data) {
                     if (data.Status === 400) {
                         alert("An error occured while processing your request. Please try again later.");
                     } else { // 200
@@ -16,9 +16,8 @@ function init(){
                         // $('#subscription_confirmed').delay(2000).fadeOut();
                         $('#subForm').trigger('reset');
                     }
-                }
             });
-        });
+        }
         else{
             $("#agree_terms").focus();
             alert("Please agree to receive newsletter before continuing.")
