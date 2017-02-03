@@ -16,6 +16,7 @@ function init(){
                         // $('#subscription_confirmed').delay(2000).fadeOut();
                         $('#subForm').trigger('reset');
                     }
+                }
             });
         }
         else{
