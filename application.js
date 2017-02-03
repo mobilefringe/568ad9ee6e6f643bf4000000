@@ -18,7 +18,7 @@ function init(){
                     }
                 }
             });
-        }
+        });
         else{
             $("#agree_terms").focus();
             alert("Please agree to receive newsletter before continuing.")
