@@ -9,10 +9,15 @@
         <meta name="description" content="{{meta_description}}">
         <meta name="keywords" content="{{meta_keywords}}">
         <meta name="author" content="">
+        
+        <!-- favicon -->
+        <link rel="shortcut icon" href="https://codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486396432000/favicon-96x96.png" type="image/x-icon" />
+    
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
         <link href="../application.css" rel="stylesheet">
         <link href="../modal.css" rel="stylesheet">
+        
         
         <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
