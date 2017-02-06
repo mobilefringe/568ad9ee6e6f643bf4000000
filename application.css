@@ -668,7 +668,7 @@ a{
         width: 960px;
     }
     .main_logo{
-        width:257px;
+        width: 257px;
         margin-top: 0px;
     }
     .contact_col{
@@ -718,6 +718,9 @@ a{
         width: 190px;
         padding: 10px 0;
         margin-left: 15px;
+    }
+    #menu-icon {
+        display: inline-block;
     }
     .custom_nav{
         display:none;
