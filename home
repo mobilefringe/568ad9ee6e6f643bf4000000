@@ -1,6 +1,6 @@
 <section id="video" class="position_relative ">
     <video loop autoplay id="bgvid" poster="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/jpeg/1451514331000/video_bg_sample.jpg">
-      <!--<source src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/video/mp4/1451022020000/citylifestyle.mp4" type="video/mp4">-->
+      <source src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/video/mp4/1451022020000/citylifestyle.mp4" type="video/mp4">
       <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486047556000/video_bg_sample.png" class="" alt="poster">
     </video>
     <div class="custom_backdrop"></div>
