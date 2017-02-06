@@ -411,7 +411,8 @@ a{
     font-size:30px;
     margin-top: 0px;
     margin-bottom: 20px;
-    font-weight:bold;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 .headline > .main_container > .headline {
     margin: 0 4% 20px 4%;    
