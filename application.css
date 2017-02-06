@@ -311,7 +311,9 @@ h5 {
         padding-top: 30px;
     }
 }
-
+.visitors_container {
+    margin: 0 140px 0 110px;
+}
 #newsletter{
     background: #F2F2F2;
     padding: 15.5px 0;
