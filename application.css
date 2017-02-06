@@ -293,6 +293,9 @@ h5 {
 }
 .mm_icons {
     text-align: center;
+    img {
+        width: 70%;
+    }
 }
 #visitors {
     padding: 40px 0;
