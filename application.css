@@ -294,6 +294,9 @@ h5 {
     padding: 40px 0;
     background: linear-gradient(#FFBE1D, #E78200);
     color: #fff;
+    .visitors_container {
+        margin: 0 15% 0 12%;
+    }
     p {
         margin-bottom: 0;
     }
@@ -311,9 +314,7 @@ h5 {
         padding-top: 30px;
     }
 }
-.visitors_container {
-    margin: 0 15% 0 12%;
-}
+
 #newsletter{
     background: #F2F2F2;
     padding: 15.5px 0;
