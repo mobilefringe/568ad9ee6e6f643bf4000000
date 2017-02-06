@@ -768,6 +768,9 @@ a{
         margin-right:auto;
         line-height:25px;
     }
+    #visitors .visitors_container {
+        margin: 0 8% 0 3%;
+    }
     #visitors .visitors_title, 
     #visitors .visitors_subtitle, 
     #visitors .visitors_char {
@@ -837,6 +840,11 @@ a{
     }
     .heading {
         font-size: 26px;
+    }
+    #visitors {
+        .visitors_container {
+            margin: 0;
+        }
     }
     .social_icons_container {
         display: block;
