@@ -723,7 +723,7 @@ a{
         display: inline-block;
     }
     .custom_nav{
-        display:none;
+        display: none;
         padding: 0;
         list-style: none;
         position: absolute;
