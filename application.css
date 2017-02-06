@@ -417,10 +417,11 @@ a{
 .headline > .main_container > .headline {
     margin: 0 4% 20px 4%;    
 }
-.sub_heading{
-    color: #FFBE1D;
-    font-size:24px;
+.sub_heading {
     margin: 20px 0;
+    color: #FFBE1D;
+    font-size: 24px;
+    font-weight: 300;
 }
 .video_container {
     text-align: center;
