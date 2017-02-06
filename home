@@ -56,7 +56,6 @@
         <div class="row">
             
             <div class="col-sm-5">
-                <div style="width: 60px"></div>
                 <div class="">
                     <p class="visitors_numbers">450,000</p>
                     <p class="visitors_subtitle">Visitors</p>    
@@ -66,7 +65,6 @@
                 <p class="visitors_char">&</p>
             </div>
             <div class="col-sm-5">
-                <div style="width: 60px"></div>
                 <div class="">
                     <p class="visitors_numbers">1,000,000</p>
                     <p class="visitors_subtitle">Views</p>
