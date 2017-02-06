@@ -243,6 +243,7 @@ h5 {
     font-weight: 600;
     padding: 11px 64px;
     font-size: 20px;
+    text-transform: uppercase;
     &:hover{
         color:#fff;
         text-decoration:none;
