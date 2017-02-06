@@ -541,11 +541,7 @@ a{
     #video{
         background: #fff;
     }
-    #visitors {
-        .visitors_container {
-            margin: 0;
-        }
-    }
+    
     // #how_it_works{
     //     padding: 60px 0;
     //     background:#fff;
@@ -751,6 +747,11 @@ a{
     }
     .headline > .main_container > .heading {
         margin: 0 15% 20px 15%;
+    }
+    #visitors {
+        .visitors_container {
+            margin: 0;
+        }
     }
     #page_banner {
         margin-top: 0;
