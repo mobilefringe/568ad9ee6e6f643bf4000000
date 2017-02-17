@@ -1,0 +1,136 @@
+<section id="page_banner">
+    <div class="main_container hero_container">
+        <div>
+            <h2 class="page_title text-center">For Retailers</h2>
+        </div>
+    </div>
+</section>
+<section id="how_it_works">
+    <div class="main_container">
+        <div class="main_content">
+            <div class="row margin_40">
+                <div class="col-md-12 hidden-xs video_container">
+                    <iframe width="600px" height="338px" src="https://www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="col-md-12 visible-xs-block">
+                    <iframe width="100%" height="250" src="https://www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="row margin_40 extra_padding">
+                <div class="col-sm-6">
+                    <h2 class="heading">How does it work?</h2>
+                    <p class="desc">
+                        With Retail Maverick it’s never been easier to send out your promotions, events, and job postings to all of your store locations                      at once.<br><br>
+                        Simply send us your promotions and we post them directly to the websites of all your shopping centre locations.<br><br>
+                        Let us do the leg work for you and extend your reach to our network of over 250 shopping centres.
+                    </p>
+                </div>
+                <div class="col-sm-6 how_img_div">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1451948774000/how_it_works.png" class="how_img width_100" alt="How it works">
+                </div>
+            </div>    
+        </div>
+    </div>
+</section>
+
+<section id="visitors" class="fade_in">
+    <div class="main_container text-center">
+        <h1 class="visitors_title">Our network receives weekly over</h1>
+        <div class="row">
+            <div class="visitors_container">
+                <div class="col-sm-5">
+                    <div class="">
+                        <p class="visitors_numbers">450,000</p>
+                        <p class="visitors_subtitle">Visitors</p>    
+                    </div>
+                </div>
+                <div class="col-sm-2">
+                    <p class="visitors_char">&</p>
+                </div>
+                <div class="col-sm-5">
+                    <div class="">
+                        <p class="visitors_numbers">1,000,000</p>
+                        <p class="visitors_subtitle">Views</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="signup" class="fade_in">
+    <div class="main_container">
+        <h3 class="text-center heading">Book A Demo</h3>
+        <p class="desc text-center">
+            Start managing your digital content more efficiently today.
+        </p>
+        <div class="row">
+            <div class="col-md-8 center_align">
+                <form action="//mobilefringe.createsend.com/t/d/s/huftr/" method="post" id="signup_form">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label class="custom_label" for="full_name">Full Name</label>
+                            <input type="text" name="cm-name" id="full_name" class="form-control custom_control" required />
+                        </div>
+                        <div class="col-md-6">
+                            <label class="custom_label" for="phone">Phone Number</label>
+                            <input type="text" name="cm-f-irujjl" id="phone" class="form-control custom_control" required />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label class="custom_label" for="email">Email</label>
+                            <input type="text" name="cm-huftr-huftr" id="email" class="form-control custom_control" required />
+                        </div>
+                        <div class="col-md-6">
+                            <label class="custom_label" for="retailer">Retailer Brand / Shopping Centre Name</label>
+                            <input type="text" name="cm-f-irujjr" id="retailer" class="form-control custom_control" />
+                        </div>
+                        <div class="col-md-12 text-center">
+                            <input type="submit" value="Send Request" class="send_btn" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+    $(document).ready(function(){
+        init();
+        scroll();
+        
+        $('#signup_form').submit(function(e){
+            $('.send_btn').prop('disabled', true);
+            e.preventDefault();
+            var post_data = {}
+            post_data.mailto = "info@retailmaverick.com, george@retailmaverick.com";
+            post_data.subject = "RM Sign up";
+            custom = {};
+            custom.name = $('#full_name').val();
+            custom.email = $('#email').val()
+            custom.phone = $('#phone').val();
+            custom.retailer = $('#retailer').val();
+            post_data.custom = custom;
+            $.post("//home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
+                if(status == "success"){
+                        var dialog = bootbox.dialog({
+                            title: 'Thank you for contacting Retail Maverick',
+                            message: 'We have received your information. A Retail Maverick representative will be in touch with you in the next 2 to 3 business days.'
+                        }); 
+                    $.getJSON("//home.mallmaverick.com/retailer_maverick_sign_up?mailto=" + $('#email').val() + "&text_body=Thank you for joining Retail Maverick. One of our representatives will be in contact with you shortly to book a demo appointment.");
+                    $('#signup_form').trigger('reset');
+                    $('.send_btn').prop('disabled', false);
+                }
+                else{
+                    alert("Unable to process your request. Please try again later.");
+                }
+            });
+            $.getJSON(
+                this.action + "?callback=?",
+                $(this).serialize()
+            );
+        });
+
+    });
+</script>
