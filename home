@@ -1,0 +1,153 @@
+<section id="video" class="position_relative ">
+    <video loop autoplay id="bgvid" poster="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/jpeg/1451514331000/video_bg_sample.jpg">
+      <source src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/video/mp4/1451022020000/citylifestyle.mp4" type="video/mp4">
+      <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486047556000/video_bg_sample.png" class="" alt="poster">
+    </video>
+    <div class="custom_backdrop"></div>
+    <div class="headline">
+        <div class="main_container text-center">
+            <h2 class="heading">Retail Maverick is the only complete marketing solution for Shopping Centres & Retailers</h2>
+            <p class="headline_desc">
+                Streamline your distribution process and drive content to all of your retailer’s digital marketing channels including, websites, apps, social, and digital directories.
+            </p>
+            <div>
+                <a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
+                <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a>    
+            </div>
+            <div>
+                <a href="#signup" class="scroll demo_btn">Book A Demo</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="features" class="">
+    <div class="main_container text-center">
+        <h2 class="heading margin_40">Keep your Digital Content Consistent!</h2>
+        <div class="row">
+            <div class="col-sm-4">
+                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1451949209000/feature_promotions.png" class="feature_image" alt="promotions">
+                <h3 class="sub_heading">Promotions</h3>
+                <p class="desc2">
+                    Upload your campaigns and jobs to any and every shopping centre
+                </p>
+            </div>
+            <div class="col-sm-4">
+                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1451949230000/feature_social.png" class="feature_image" alt="social">
+                <h3 class="sub_heading">Share Socially</h3>
+                <p class="desc2">
+                    Share your content on your social networks from one platform
+                </p>
+            </div>
+            <div class="col-sm-4">
+                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1451949244000/feature_locations.png" class="feature_image" alt="locations">
+                <h3 class="sub_heading">Retail Locations</h3>
+                <p class="desc2">
+                    Communicate on behalf of all of your retail outlets quickly and easily
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="visitors" class="fade_in">
+    <div class="main_container text-center">
+        <h1 class="visitors_title">Our network receives weekly over</h1>
+        <div class="row">
+            <div class="visitors_container">
+                <div class="col-sm-5">
+                    <div class="">
+                        <p class="visitors_numbers">450,000</p>
+                        <p class="visitors_subtitle">Visitors</p>    
+                    </div>
+                </div>
+                <div class="col-sm-2">
+                    <p class="visitors_char">&</p>
+                </div>
+                <div class="col-sm-5">
+                    <div class="">
+                        <p class="visitors_numbers">1,000,000</p>
+                        <p class="visitors_subtitle">Views</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="signup" class="fade_in">
+    <div class="main_container">
+        <h3 class="text-center heading">Book A Demo</h3>
+        <p class="desc text-center">
+            Start managing your digital content more efficiently today.
+        </p>
+        <div class="row">
+            <div class="col-md-8 center_align">
+                <form action="//mobilefringe.createsend.com/t/d/s/huftr/" method="post" id="signup_form">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label class="custom_label" for="full_name">Full Name</label>
+                            <input type="text" name="cm-name" id="full_name" class="form-control custom_control" required />
+                        </div>
+                        <div class="col-md-6">
+                            <label class="custom_label" for="phone">Phone Number</label>
+                            <input type="text" name="cm-f-irujjl" id="phone" class="form-control custom_control" required />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label class="custom_label" for="email">Email</label>
+                            <input type="text" name="cm-huftr-huftr" id="email" class="form-control custom_control" required />
+                        </div>
+                        <div class="col-md-6">
+                            <label class="custom_label" for="retailer">Retailer Brand / Shopping Centre Name</label>
+                            <input type="text" name="cm-f-irujjr" id="retailer" class="form-control custom_control" />
+                        </div>
+                        <div class="col-md-12 text-center">
+                            <input type="submit" value="Send Request" class="send_btn" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    $(document).ready(function(){
+        init();
+        scroll();
+        $('#signup_form').submit(function(e){
+            $('.send_btn').prop('disabled', true);
+            e.preventDefault();
+            var post_data = {}
+            post_data.mailto = "info@retailmaverick.com, george@retailmaverick.com";
+            post_data.subject = "RM Sign up";
+            custom = {};
+            custom.name = $('#full_name').val();
+            custom.email = $('#email').val()
+            custom.phone = $('#phone').val();
+            custom.retailer = $('#retailer').val();
+            post_data.custom = custom;
+            $.post("//home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
+                if(status == "success"){
+                        var dialog = bootbox.dialog({
+                            title: 'Thank you for contacting Retail Maverick',
+                            message: 'We have received your information. A Retail Maverick representative will be in touch with you in the next 2 to 3 business days.'
+                        }); 
+                    $.getJSON("//home.mallmaverick.com/retailer_maverick_sign_up?mailto=" + $('#email').val() + "&text_body=Thank you for joining Retail Maverick. One of our representatives will be in contact with you shortly to book a demo appointment.");
+                    $('#signup_form').trigger('reset');
+                    $('.send_btn').prop('disabled', false);
+                }
+                else{
+                    alert("Unable to process your request. Please try again later.");
+                }
+            });
+            $.getJSON(
+                this.action + "?callback=?",
+                $(this).serialize()
+            );
+        });
+    });
+    
+</script>
