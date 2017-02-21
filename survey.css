@@ -113,7 +113,7 @@ body{
 }
 
 .show_all{
-    height:54px;
+    min-height:54px;
     color:#fff;
     background-color:#000;
     padding:10px 50px;
