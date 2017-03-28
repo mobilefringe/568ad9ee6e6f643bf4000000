@@ -1,4 +1,4 @@
-<form accept-charset="UTF-8" action="/retail_users/sign_in" class="new_retail_user" id="new_retail_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="FtpG+EONcbEG8fJ3l1LIya/h8aSLuzKCBo3cfJ+sF6E="></div>
+<form accept-charset="UTF-8" action="https://www.mallmaverick.com//retail_users/sign_in" class="new_retail_user" id="new_retail_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="FtpG+EONcbEG8fJ3l1LIya/h8aSLuzKCBo3cfJ+sF6E="></div>
 	<h1>Welcome to <br> Mall Maverick</h1>		
 
 	<div id="successmessage" class="alert alert-success" style="display:none;width:auto;">Your access is now waiting for approval</div>
