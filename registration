@@ -62,7 +62,7 @@
         </div>
     </div>
 </section>
-<br /><br />
+<br />
 
 <script>
     $(document).ready(function(e){
