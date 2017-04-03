@@ -78,9 +78,9 @@
             custom["Name"] = $('#full_name').val();
             custom["Email"] = $('#email').val()
             custom["Phone"] = $('#phone').val();
-            custom.["Retailer"] = $('#retailer').val();
+            custom["Retailer"] = $('#retailer').val();
             custom["Position"] = $('#position').val();
-            custom.["Number of Outlets"]" = $('#num_outlets').val();
+            custom["Number of Outlets"]" = $('#num_outlets').val();
             post_data.custom = custom;
             $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 if(status == "success"){
