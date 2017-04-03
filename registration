@@ -85,7 +85,7 @@
             $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 if(status == "success"){
                     window.location = "/registration_confirmed";
-                    $('#signup_form').trigger('reset');
+                    // $('#signup_form').trigger('reset');
                     $('.send_btn').prop('disabled', false);
                 }
                 else{
