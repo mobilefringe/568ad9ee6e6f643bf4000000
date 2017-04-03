@@ -1,7 +1,7 @@
 <style>
   #newsletter{display:none;}
   .form-error{
-      margin-top: -30px;
+      margin-top: -35px;
   }
   .custom_control{margin-bottom: 40px;}
 </style>
