@@ -7,7 +7,7 @@
       margin-bottom:15px;
   }
   .custom_control{margin-bottom: 40px;}
-  #sign_up{
+  #signup{
       min-height:500px;
   }
 </style>
