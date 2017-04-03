@@ -1,5 +1,4 @@
 <style>
-  #newsletter{display:none;}
   .form-error{
       margin-top: -35px;
   }
