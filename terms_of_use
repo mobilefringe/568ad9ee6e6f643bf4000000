@@ -8,7 +8,16 @@
   }
   .custom_control{margin-bottom: 40px;}
 </style>
-
+<section id="signup" class="">
+    <div class="main_container">
+        <h3 class="text-center heading">Retail Maverick Registration</h3>
+        <p class="desc text-center">
+            Get your time back and grow your digital reach!
+        </p>
+        
+    </div>
+</section>
+<br />
 
 <script>
     $(document).ready(function(e){
