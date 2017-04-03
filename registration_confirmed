@@ -14,6 +14,9 @@
         <p class="desc text-center">
             Get your time back and grow your digital reach!
         </p>
+        <p>
+            Thank you for registering and get ready to enjoy all the benefits of Retail Maverick.  We will be contacting you shortly to get you started.
+        </p>
     </div>
 </section>
 <br />
@@ -40,7 +43,7 @@
                 if(status == "success"){
                     var dialog = bootbox.dialog({
                         title: "Congratulations!",
-                        message: 'Thank you for registering and get ready to enjoy all the benefits of Retail Maverick.  We will be contacting you shortly to get you started.'
+                        message: ''
                     });
                     $('#signup_form').trigger('reset');
                     $('.send_btn').prop('disabled', false);
