@@ -15,7 +15,9 @@
     <div class="main_container">
         <h3 class="text-center heading">Retail Maverick Registration Completed</h3>
         <p class="desc text-center">
-            Thank you for registering and get ready to enjoy all the benefits of Retail Maverick.  We will be contacting you shortly to get you started.
+            Thank you for registering and get ready to enjoy all the benefits of Retail Maverick.  
+            <br />
+            We will be contacting you shortly to get you started.
         </p>
         <p class="desc text-center">
             For further inquiries please contact us at <a href="mailto:info@retailmaverick.com">info@retailmaverick.com</a>
