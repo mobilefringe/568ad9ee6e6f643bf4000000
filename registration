@@ -3,6 +3,9 @@
   .form-error{
       margin-top: -35px;
   }
+  .help-block{
+      margin-bottom:15px;
+  }
   .custom_control{margin-bottom: 40px;}
 </style>
 <section id="signup" class="">
