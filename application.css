@@ -940,6 +940,9 @@ a{
         display: block;
         text-align: center;
     }
+    .compare_title {
+        font-size: 10px;
+    }
 }
 
 
