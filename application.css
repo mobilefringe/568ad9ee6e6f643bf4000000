@@ -301,7 +301,7 @@ h5 {
     }
 }
 #visitors {
-    padding: 40px 0;
+    padding: 20px 0 30px 0;
     background: linear-gradient(#FFBE1D, #E78200);
     color: #fff;
     .visitors_container {
