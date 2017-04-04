@@ -42,7 +42,23 @@
     <div class="main_container">
         <div class="main_content">
             <div class="row margin_40">
-                
+                <div class="col-md-6"></div>
+                <div class="col-md-6">
+                    
+                </div>
+            </div>
+            <div class="row margin_40">
+                <div class="col-md-6">
+                    <p>Direct Integration with Shopping centres</p>
+                </div>
+                <div class="col-md-6">
+                    <div class="col-md-3">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323324000/check_mark.png" class="" alt="">    
+                    </div>
+                    <div class="col-md-3">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323337000/x.png" class="" alt="">    
+                    </div>
+                </div>
             </div>
         </div>
     </div>
