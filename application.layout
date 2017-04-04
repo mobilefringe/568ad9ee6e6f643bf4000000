@@ -54,7 +54,7 @@
                     <li><a href="/retailers">For Retailers</a></li>
                     <li><a href="/shopping_centres">For Shopping Centres</a></li>
                     <li><a href="/registration">Register</a></li>
-                    <li><a href="/#signup" class="sign_up scroll">Contact Us</a></li>
+                    <li><a href="mailto:info@retailmaverick.com" class="sign_up scroll">Contact Us</a></li>
                 </ul>
             </div>
         </section>
