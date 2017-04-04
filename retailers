@@ -77,10 +77,11 @@
                     <div class="col-xs-6">
                         <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323324000/check_mark.png" class="check_mark" alt="">    
                     </div>
-                    <div class="col-xs-6">
+                    <div class="col-xs-6 col-md-5">
                         <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323337000/x.png" class="x_mark" alt="">   
                     </div>
                 </div>
+                <div class="col-md-1 hidden_phone"></div>
             </div>
             <div class="row margin_40">
                 <div class="col-xs-6 col-md-5 col-md-offset-1">
