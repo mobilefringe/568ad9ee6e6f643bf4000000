@@ -326,6 +326,9 @@ h5 {
     ul {
         padding: 0;
     }
+    li {
+        line-height: 26px;
+    }
 }
 #newsletter{
     background: #F2F2F2;
