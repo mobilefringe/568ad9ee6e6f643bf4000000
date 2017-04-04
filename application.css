@@ -606,6 +606,12 @@ a{
         margin-bottom: 20px;
         width: 99px;
     }
+    .arrow {
+        margin: 0 auto;
+        padding-top: 45px;
+        display: block;
+        width: 26px;
+    }
     #newsletter{
         p{
             font-size:13px;
