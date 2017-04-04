@@ -942,6 +942,10 @@ a{
     .mm_icons:last-child {
         margin-bottom: 0;
     }
+    .works_icon_container {
+        flex-direction: column;
+        align-items: center;
+    }
     #visitors {
         .visitors_container {
             margin: 0;
