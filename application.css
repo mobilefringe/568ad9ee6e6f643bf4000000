@@ -330,6 +330,7 @@ h5 {
         padding: 0;
     }
     li {
+        padding-left: 10px;
         line-height: 26px;
     }
 }
