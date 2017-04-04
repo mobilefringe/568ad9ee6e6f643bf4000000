@@ -331,11 +331,10 @@ h5 {
     }
 }
 .compare_title {
-    margin-left: auto;
-    margin-right: auto;
     font-size: 20px;
     font-weight: 700;
     color: #9b9b9b;
+    text-align: center;
 }
 .mm {
     color: #FFBE1D;
