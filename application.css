@@ -557,8 +557,9 @@ a{
     //     padding: 60px 0;
     //     background:#fff;
     // }
-    .feature_image{
-        width:220px;
+    .feature_image {
+        margin-bottom: 30px;
+        width: 220px;
     }
     #newsletter{
         p{
