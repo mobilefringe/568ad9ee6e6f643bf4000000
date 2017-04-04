@@ -333,6 +333,10 @@ h5 {
 .compare_title {
     font-size: 20px;
     font-weight: 700;
+    color: #9b9b9b;
+}
+.mm {
+    color: #FFBE1D;
 }
 .compare {
     padding-top: 7px;
