@@ -832,9 +832,8 @@ a{
     #visitors .visitors_container {
         margin: 0 8% 0 3%;
     }
-    #visitors .visitors_title, 
-    #visitors .visitors_subtitle, 
-    #visitors .visitors_char {
+    #visitors .visitors_title,
+    #visitors .visitors_numbers {
         font-size: 32px;
     }
     // .col-xs-6{
