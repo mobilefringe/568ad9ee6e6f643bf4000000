@@ -333,6 +333,9 @@ h5 {
 .check_mark {
     width: 44px;
 }
+.x_mark {
+    width: 34px;
+}
 #newsletter{
     background: #F2F2F2;
     padding: 15.5px 0;
