@@ -330,6 +330,10 @@ h5 {
         line-height: 26px;
     }
 }
+.compare_title {
+    font-size: 20px;
+    font-weight: 700;
+}
 .compare {
     padding-top: 7px;
     font-weight: 300;
