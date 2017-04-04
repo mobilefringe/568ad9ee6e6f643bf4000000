@@ -310,11 +310,12 @@ h5 {
     p {
         margin-bottom: 0;
     }
-    .visitors_title, .visitors_subtitle, .visitors_char {
+    .visitors_title {
         font-size: 40px;
+        font-weight: 300;
         text-transform: uppercase;
     }
-    .visitors_title, .visitors_numbers {
+    .visitors_numbers {
         font-weight: bold;
     }
     .visitors_numbers {
