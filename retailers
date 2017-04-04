@@ -9,7 +9,7 @@
     <div class="main_container">
         <div class="main_content">
             <div class="row margin_40">
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <h2 class="heading">About Us</h2>
                 </div>
             </div>
