@@ -54,7 +54,7 @@
             </div>
             <div class="row margin_40">
                 <div class="col-md-6">
-                    <p>Direct Integration with Shopping centres</p>
+                    <p class="compare">Direct Integration with Shopping centres</p>
                 </div>
                 <div class="col-md-6">
                     <div class="col-md-3">
@@ -67,7 +67,7 @@
             </div>
             <div class="row margin_40">
                 <div class="col-md-6">
-                    <p>More relationships with shopping centres</p>
+                    <p class="compare">More relationships with shopping centres</p>
                 </div>
                 <div class="col-md-6">
                     <div class="col-md-3">
