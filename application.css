@@ -325,6 +325,9 @@ h5 {
         padding-top: 30px;
     }
 }
+#how_it_works {
+    padding: 60px 0;
+}
 .works_icon_container {
     display: flex;
     justify-content: space-between;
