@@ -896,6 +896,9 @@ a{
         margin-bottom: 40px;
         padding: 0 20px;
     }
+    .compare_title {
+        font-size: 16px;
+    }
     .compare {
         font-size: 14px;
     }
