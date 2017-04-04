@@ -330,11 +330,14 @@ h5 {
         line-height: 26px;
     }
 }
+.compare {
+    padding-top: 7px;
+}
 .check_mark {
     width: 44px;
 }
 .x_mark {
-    width: 34px;
+    width: 37px;
 }
 #newsletter{
     background: #F2F2F2;
