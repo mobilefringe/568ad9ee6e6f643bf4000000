@@ -55,8 +55,8 @@
                     <li><a href="/retailers">For Retailers</a></li>
                     <li><a href="/shopping_centres">For Shopping Centres</a></li>
                     <li><a href="mailto:mike@mobilefringe.com">Contact Us</a></li>
-                    <li><a href="/registration">Register</a></li>
-                    <li><a href="/#signup" class="sign_up scroll">Book A Demo</a></li>
+                    <li><a href="/registration">Register/Login</a></li>
+                    <li><a href="/#signup" class="sign_up scroll">Contact Us</a></li>
                 </ul>
             </div>
         </section>
@@ -73,7 +73,7 @@
                             <a href="https://twitter.com/RetailMaverick" target="_blank"><span class="social_twitter hvr-grow"></span></a>
                             <a href="https://www.instagram.com/retailmaverick/" target="_blank"><span class="social_insta hvr-grow"></span></a>
                             <a href="" target="_blank"><span class="social_youtube hvr-grow"></span></a>
-                            <a href="https://www.linkedin.com/company/retail-maverick" target="_blank"><span class="social_linkedin hvr-grow"></span></a>  
+                            <a href="https://www.linkedin.com/company/retail-maverick" target="_blank"><span class="social_linkedin hvr-grow"></span></a>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-5">
