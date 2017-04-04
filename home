@@ -65,31 +65,27 @@
         <h2 class="heading margin_60">How It Works</h2>
         <div class="row">
             <div class="col-sm-3">
-                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491318912000/brand_matter.png" class="feature_image" alt="promotions">
-                <h3 class="sub_heading">Your Brand Matters</h3>
+                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491319118000/register.png" class="feature_image" alt="promotions">
                 <p class="desc2">
-                    Have your retail brand and promotions consistent across all of your retail locations.
+                    Register to Retail Maverick
                 </p>
             </div>
             <div class="col-sm-3">
-                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491318930000/increase.png" class="feature_image" alt="social">
-                <h3 class="sub_heading">Increase Exposure</h3>
+                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491319134000/email.png" class="feature_image" alt="social">
                 <p class="desc2">
-                    Our network includes every retail center in North America.
+                    Email us your promotion
                 </p>
             </div>
             <div class="col-sm-3">
-                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491318960000/results.png" class="feature_image" alt="locations">
-                <h3 class="sub_heading">Results Matter</h3>
+                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491319147000/promotions.png" class="feature_image" alt="locations">
                 <p class="desc2">
-                    Increase your reach by over 500%! 
+                    We upload your promotion into our retail network
                 </p>
             </div>
             <div class="col-sm-3">
-                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491318945000/peace_mind.png" class="feature_image" alt="locations">
-                <h3 class="sub_heading">Peace of Mind</h3>
+                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491319160000/report.png" class="feature_image" alt="locations">
                 <p class="desc2">
-                    We work with you to get every promotion posted on time.
+                    We report weekly on the results!
                 </p>
             </div>
         </div>
