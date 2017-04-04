@@ -42,12 +42,12 @@
     <div class="main_container">
         <div class="main_content">
             <div class="row margin_40">
-                <div class="col-md-6"></div>
-                <div class="col-md-6">
-                    <div class="col-md-3">
+                <div class="col-xs-6"></div>
+                <div class="col-xs-6">
+                    <div class="col-xs-6">
                         Retail Maverick
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-xs-6">
                         Competition
                     </div>
                 </div>
