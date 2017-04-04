@@ -56,25 +56,7 @@
 <section id="visitors" class="fade_in">
     <div class="main_container text-center">
         <h1 class="visitors_title">Every Week Our Network Receives Over</h1>
-        <div class="row">
-            <div class="visitors_container">
-                <div class="col-sm-5">
-                    <div class="">
-                        <p class="visitors_numbers">450,000</p>
-                        <p class="visitors_subtitle">Visitors</p>    
-                    </div>
-                </div>
-                <div class="col-sm-2">
-                    <p class="visitors_char">&</p>
-                </div>
-                <div class="col-sm-5">
-                    <div class="">
-                        <p class="visitors_numbers">1,000,000</p>
-                        <p class="visitors_subtitle">Views</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <h1 class="visitors_title"><span>450,000</span>Visitors & <span>1,000,000</span> Views</h1>
     </div>
 </section>
 
