@@ -946,7 +946,11 @@ a{
         margin-bottom: 0;
     }
     .works_icon_container {
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
         flex-direction: column;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
         align-items: center;
     }
     .arrow_icon {
