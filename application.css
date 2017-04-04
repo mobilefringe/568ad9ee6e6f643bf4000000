@@ -330,6 +330,9 @@ h5 {
         line-height: 26px;
     }
 }
+.check_mark {
+    width: 44px;
+}
 #newsletter{
     background: #F2F2F2;
     padding: 15.5px 0;
