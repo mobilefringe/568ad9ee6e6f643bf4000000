@@ -322,7 +322,11 @@ h5 {
         padding-top: 30px;
     }
 }
-
+#about_retailers {
+    ul {
+        padding: 0;
+    }
+}
 #newsletter{
     background: #F2F2F2;
     padding: 15.5px 0;
