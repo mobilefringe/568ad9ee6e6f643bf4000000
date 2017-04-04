@@ -946,6 +946,12 @@ a{
         flex-direction: column;
         align-items: center;
     }
+    .arrow_icon {
+        .arrow {
+            padding: 20px 0;
+            transform: rotate(90deg);
+        }
+    }
     #visitors {
         .visitors_container {
             margin: 0;
