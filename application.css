@@ -486,7 +486,7 @@ a{
 
 .heading{
     color: #FFBE1D;
-    font-size:30px;
+    font-size: 36px;
     margin-top: 0px;
     margin-bottom: 20px;
     font-weight: 600;
@@ -716,9 +716,9 @@ a{
         transform: translate(-50%, -50%);
     }
     .headline_desc{
-        max-width: 67%;
+        max-width: 72%;
         margin: 0 auto;
-        font-size: 16px;
+        font-size: 20px;
         color:#fff;
     }
     .custom_backdrop{
