@@ -21,28 +21,28 @@
     <div class="main_container text-center">
         <h2 class="heading margin_60">Why Retail Maverick?</h2>
         <div class="row">
-            <div class="col-sm-3">
+            <div class="col-sm-6 col-md-3">
                 <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491333425000/icon04.png" class="feature_image" alt="promotions">
                 <h3 class="sub_heading">Your Brand Matters</h3>
                 <p class="desc2">
                     Have your retail brand and promotions consistent across all of your retail locations.
                 </p>
             </div>
-            <div class="col-sm-3">
+            <div class="col-sm-6 col-md-3">
                 <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491333350000/icon01.png" class="feature_image" alt="social">
                 <h3 class="sub_heading">Increase Exposure</h3>
                 <p class="desc2">
                     Our network includes every retail center in North America.
                 </p>
             </div>
-            <div class="col-sm-3">
+            <div class="col-sm-6 col-md-3">
                 <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491333372000/icon02.png" class="feature_image" alt="locations">
                 <h3 class="sub_heading">Results Matter</h3>
                 <p class="desc2">
                     Increase your reach by over 500%! 
                 </p>
             </div>
-            <div class="col-sm-3">
+            <div class="col-sm-6 col-md-3">
                 <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491333390000/icon03.png" class="feature_image" alt="locations">
                 <h3 class="sub_heading">Peace of Mind</h3>
                 <p class="desc2">
