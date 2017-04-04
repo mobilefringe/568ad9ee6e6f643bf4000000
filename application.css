@@ -602,15 +602,24 @@ a{
     .feature_image {
         margin-bottom: 30px;
     }
+    .works_icon_container {
+        display: flex;
+        justify-content: space-between;
+    }
+    .works_icon {
+        width: 160px;
+    }
     .works_image {
         margin-bottom: 20px;
         width: 99px;
     }
-    .arrow {
-        margin: 0 auto;
-        padding-top: 45px;
-        display: block;
-        width: 26px;
+    .arrow_icon {
+        .arrow {
+            margin: 0 auto;
+            padding-top: 45px;
+            display: block;
+            width: 26px;
+        }
     }
     #newsletter{
         p{
