@@ -652,11 +652,12 @@ a{
         }
     }
     .desc2{
-        font-size:16px;
-        margin-bottom:25px;
-        max-width: 230px;
+        font-size: 16px;
+        margin-bottom: 25px;
+        // max-width: 230px;
         margin-left: auto;
         margin-right: auto;
+        padding: 0 10px;
     }
     .desc3 {
         font-size: 12px;
