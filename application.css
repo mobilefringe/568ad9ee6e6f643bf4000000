@@ -939,6 +939,7 @@ a{
     }
     .heading {
         font-size: 21px;
+        line-height: 36px;
     }
     .mm_icons {
         margin-bottom: 40px;
