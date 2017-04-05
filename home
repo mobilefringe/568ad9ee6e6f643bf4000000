@@ -45,14 +45,14 @@
     </div>
 </section>
 
-<section id="visitors" class="fade_in">
+<section id="visitors" class="">
     <div class="main_container text-center">
         <h1 class="visitors_title">Every Week Our Network Receives Over</h1>
         <h1 class="visitors_title"><span class="visitors_numbers">450,000</span> Visitors & <span class="visitors_numbers">1,000,000</span> Views</h1>
     </div>
 </section>
 
-<section id="how_it_works" class="fade_in">
+<section id="how_it_works" class="">
     <div class="main_container text-center">
         <h2 class="heading margin_60">How It Works</h2>
         <div class="row">
