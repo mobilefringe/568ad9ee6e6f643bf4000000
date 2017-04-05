@@ -34,14 +34,14 @@
     </div>
 </section>
 
-<section id="visitors" class="fade_in">
+<section id="visitors" class="">
     <div class="main_container text-center">
         <h1 class="visitors_title">Every Week Our Network Receives Over</h1>
         <h1 class="visitors_title"><span class="visitors_numbers">450,000</span> Visitors & <span class="visitors_numbers">1,000,000</span> Views</h1>
     </div>
 </section>
 
-<section id="compare_section" class="fade_in">
+<section id="compare_section" class="">
     <div class="main_container">
         <div class="main_content">
             <div class="row margin_10">
