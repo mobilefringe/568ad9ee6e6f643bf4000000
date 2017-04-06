@@ -928,6 +928,9 @@ a{
     .zendesk {
         width: 108px;
     }
+    #signup {
+        padding: 110px 0 60px 0;
+    }
 }
 
 /* Mobile (468px and under)*/
