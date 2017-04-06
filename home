@@ -1,7 +1,7 @@
 <section id="video" class="position_relative ">
-    <video loop autoplay id="bgvid" poster="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/jpeg/1491497187000/[RM]-Video.jpg">
+    <video loop autoplay id="bgvid" poster="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/jpeg/1491497572000/video_still.jpg">
       <source src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/video/mp4/1491486606000/[RM] Video1.mp4" type="video/mp4">
-      <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/jpeg/1491497187000/[RM]-Video.jpg" class="" alt="poster">
+      <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/jpeg/1491497572000/video_still.jpg" class="" alt="poster">
     </video>
     <div class="custom_backdrop"></div>
     <div class="headline">
