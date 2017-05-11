@@ -88,19 +88,11 @@
                     $(this).serialize(),
                     function (data) {
                         if (data.Status === 400) {
-                            alert("Please try again later.");
+                            alert("Unable to process your request. Please try again later.");
                         } else { // 200
                             window.location = "/registration_confirmed";
                         }
                 });
-                if(status == "success"){
-                    window.location = "/registration_confirmed";
-                    // $('#signup_form').trigger('reset');
-                    $('.send_btn').prop('disabled', false);
-                }
-                else{
-                    alert("Unable to process your request. Please try again later.");
-                }
             });
         });
         
