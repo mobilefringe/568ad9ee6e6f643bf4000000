@@ -84,7 +84,7 @@
             post_data.custom = custom;
             $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 $.getJSON(
-                    this.action + "?callback=?",
+                    "https://mobilefringe.createsend.com/t/d/s/maltd/?callback=?",
                     $(this).serialize(),
                     function (data) {
                         if (data.Status === 400) {
