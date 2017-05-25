@@ -1,4 +1,9 @@
-Get your time back and grow your digital reach.
+<div class="popup_home hidden_now">
+    <a href="#">
+        <img src="#" alt="pop up" />
+    </a>
+    <i class="fa fa-remove close_popup"></i>
+</div>
 
 <section id="video" class="position_relative ">
     <video loop autoplay id="bgvid" poster="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/jpeg/1491497572000/video_still.jpg">
