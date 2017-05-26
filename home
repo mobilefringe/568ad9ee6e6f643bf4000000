@@ -1,8 +1,12 @@
 <div class="popup_home hidden_now">
     <h4 class="heading"> WELCOME TO RETAIL MAVERICK!</h4>
     
+    <p>
+        By Registering today, you can get the first month of Retail Maverick for free!
+    </p>
+    
     <a href="#">
-       
+        <img src="#" alt="pop up" />
     </a>
     <i class="fa fa-remove close_popup"></i>
 </div>
