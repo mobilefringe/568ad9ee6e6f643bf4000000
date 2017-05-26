@@ -6,7 +6,7 @@
         <b> Get one month of Retail Maverick services for FREE!</b>
     </p>
     
-    <a href="#">
+    <a href="/register" role="button">
         
     </a>
     <i class="fa fa-remove close_popup"></i>
