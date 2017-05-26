@@ -991,7 +991,7 @@ a{
       max-height:50%;
     position: absolute;
     top: 0px;
-    right: 0px;
+    left: 0px;
     }
     div {
          padding: 40px 0;
