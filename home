@@ -58,7 +58,7 @@
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <img class="resize" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816032000/Ck Logo.png">
-                <div>
+                <div style="">
                 <b>Testimonial By:</b><br/>
                 CK Director of Marketing
                 </div>
