@@ -994,7 +994,10 @@ a{
         left: 0px;
     }
     .testimony_by {
-        
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+    }
     }
     .row{
          padding: 20px 0;
