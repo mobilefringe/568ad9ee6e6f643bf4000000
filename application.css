@@ -993,7 +993,7 @@ a{
         top: 0px;
         left: 0px;
     }
-    div {
+    .main_content{
          padding: 40px 0;
     }
 }
