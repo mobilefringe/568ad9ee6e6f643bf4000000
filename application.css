@@ -983,15 +983,15 @@ a{
 
 #testimony {
     img.resize {
-      max-width:50%;
-      max-height:50%;
+        max-width:50%;
+        max-height:50%;
     }
     img.resizeQuote {
         max-width:15%;
-      max-height:50%;
-    position: absolute;
-    top: 0px;
-    left: 0px;
+        max-height:50%;
+        position: absolute;
+        top: 0px;
+        left: 0px;
     }
     div {
          padding: 40px 0;
