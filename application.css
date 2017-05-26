@@ -993,9 +993,9 @@ a{
         top: 0px;
         left: 0px;
     }
-   
-    padding: 40px 0;
- 
+    div {
+         padding: 40px 0;
+    }
 }
 
 
