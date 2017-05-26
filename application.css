@@ -989,6 +989,9 @@ a{
     img.resizeQuote {
         max-width:15%;
       max-height:50%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
     }
     div {
          padding: 40px 0;
