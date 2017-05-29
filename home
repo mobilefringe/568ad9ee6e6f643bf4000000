@@ -206,6 +206,10 @@
             $(".modal-backdrop").remove();
 	        $(".popup_home").remove();
         });
+        $('.custom_backdrop').click(function(){
+            $(".modal-backdrop").remove();
+	        $(".popup_home").remove();
+        });
     });
     
 </script>
