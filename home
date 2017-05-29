@@ -6,7 +6,7 @@
         <b> Get one month of Retail Maverick services for FREE!</b>
     </p>
     
-    <a href="/register" class="main_btn hidden_phone" id="popup_register">
+    <a href="/registration" class="main_btn hidden_phone" id="popup_register">
         REGISTER NOW
     </a>
     <i class="fa fa-remove close_popup"></i>
