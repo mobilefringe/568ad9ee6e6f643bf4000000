@@ -198,7 +198,7 @@
                 $('.popup_home').show();
             }
         }
-        $("#click_me").click(fucntion(){
+        $("#click_me").click(function(){
             $('<div class="modal-backdrop custom_backdrop"></div>').appendTo(document.body);
                 $('.popup_home').show();
         });
