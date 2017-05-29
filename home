@@ -191,7 +191,7 @@
         loadMallDataCached(renderAll);
     });
     
-    function renderAll {
+    function renderAll(){
         {//if($.cookie("popup_viewed") != "true"){
           //  $.cookie("popup_viewed", "true", { expires: 1 });
             var popup = getPopups()[0];
