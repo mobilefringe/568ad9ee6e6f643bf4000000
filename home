@@ -91,36 +91,6 @@
                     </div>
                 </div>
             </div>
-            
-            <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-3">
-                <div class="testimonial_logo" >
-                    <img class="resize" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816032000/Ck Logo.png">
-                    <div class="testimony_by">
-                        <b>Testimonial By:</b><br/>
-                        company <br/>
-                        title 
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-9">
-                <div style="padding:20px">
-                    
-                    <div class="testimonial_quote">
-                    <img class="resizeQuote" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816048000/QuoteIcon.png">
-                        <div STYLE="padding: 25px 10% 10px 10%;">
-                           <p>
-                               <b>
-                                WORKING WITH RETAIL MAVERICK HAS MADE  OUR LIVES EASIER AND MORE EFFICIENT.
-                            </b>
-                            <br/><br/>
-                            They have been able to update our list and send out our weekly promotions with over <b>95% accuracy from week to week. </b> They have been extremely easy to work with and are proactive with their approach.
-                           </p>
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
     
