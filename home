@@ -14,16 +14,16 @@
             
             <div  id= "popup_column2" >
                 <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496082247000/Store2017Logo1x.png" alt="pop up" />
-            <h1>MAY 30 - 31</h1>
-            <h3> Toronto Congress Centre</h3>
-            <h2> BOOTH 312</h2>
-            
-            <p id="popup_address">
-                Toronto Congress Centre Adress: <br/>
-                <br/>
-                <strong> 650 Dixon Road</strong> <br/><br/>
-                Etobicoke, ON, M9W 1J1
-            </p>
+                <h1>MAY 30 - 31</h1>
+                <h3> Toronto Congress Centre</h3>
+                <h2> BOOTH 312</h2>
+                
+                <p id="popup_address">
+                    Toronto Congress Centre Adress: <br/>
+                    <br/>
+                    <strong> 650 Dixon Road</strong> <br/><br/>
+                    Etobicoke, ON, M9W 1J1
+                </p>
             </div>
         </div>
     </div>
