@@ -4,7 +4,7 @@
                 <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495830680000/Rm Popup Logo.png" alt="pop up" />
             <h3> ENJOY THE FIRST MONTH <BR/> OF RETAIL MAVERICK</h3>
             <br/>
-            <span style="background:url(//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496082112000/ForFreeBox1x.png)">
+            <span style="background:url(//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496082112000/ForFreeBox1x.png); background-repeat:no-repeat; background-size:100% 100%;">
                 <h2>FOR FREE!</h2>
             </span>
             <a href="/registration" class="main_btn hidden_phone" id="popup_register">
