@@ -206,7 +206,6 @@
             $(".modal-backdrop").remove();
 	        $(".popup_home").remove();
         });
-        
     });
     
 </script>
