@@ -26,7 +26,7 @@
             <div>
                 <a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
                 <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a>    
-                <label id="click_me" role="button">CLick me</label>
+                <label id="click_me" class="main_btn hidden_phone" role="button">CLick me</label>
             </div>
         </div>
     </div>
