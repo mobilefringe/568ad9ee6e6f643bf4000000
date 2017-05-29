@@ -19,6 +19,11 @@
         <script src="//s3.amazonaws.com/kodekloud/sites/568ad9ee6e6f643bf4000000/application/x-javascript/1474999721000/bootbox.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.3.26/jquery.form-validator.min.js"></script>
         <script src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/text/javascript/1495729152000/jquery.cookie.js"></script>
+        
+        <!--MallMaverick SDK-->
+        <script src="//mallmaverick.codecloudapp.com/mallmaverick_v3.1.js"></script>
+        <script src="//mallmaverick.codecloudapp.com/mustache_mallmaverick.js?v=0.3"></script>
+    
         <script src="../application.js"></script>
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
