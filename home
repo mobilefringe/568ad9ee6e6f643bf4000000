@@ -198,7 +198,8 @@
             }
         }
         $("#click_me").click(fucntion(){
-            click_me
+            $('<div class="modal-backdrop custom_backdrop"></div>').appendTo(document.body);
+                $('.popup_home').show();
         })
         $('.close_popup, .custom_backdrop').click(function(){
             $(".modal-backdrop").remove();
