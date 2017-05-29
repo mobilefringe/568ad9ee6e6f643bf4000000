@@ -13,7 +13,7 @@
             <h3> Toronto Congress Centre</h3>
             <h2> BOOTH 312</h2>
             
-            <p>
+            <p id="popup_address">
                 Toronto Congress Centre Adress: <br/>
                 <br/>
                 <strong> 650 Dixon Road</strong> <br/><br/>
