@@ -43,9 +43,9 @@
         <![endif]-->
         
         <!-- Site data -->
-    <script>
-        setEndPoint('http://twinpine.mallmaverick.com/api/v3/twinpine/all.json');
-    </script>
+        <script>
+            setEndPoint('http://twinpine.mallmaverick.com/api/v3/twinpine/all.json');
+        </script>
     
     </head>
     <body id="top" data-spy="scroll" data-target="#navigation">
