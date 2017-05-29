@@ -2,6 +2,9 @@
     <div class="row">
         <div class="col-xs-6">
             <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495830680000/Rm Popup Logo.png" alt="pop up" />
+            <a href="/registration" class="main_btn hidden_phone" id="popup_register">
+        REGISTER NOW
+    </a>
         </div>
         <div class="col-xs-6" style="background:url(//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496082195000/ConImage1x.png);">
         </div>
