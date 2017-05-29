@@ -1,44 +1,15 @@
 <div class="popup_home hidden_now">
-    <div class="col-xs-6" >
-            <div  id= "popup_column1"> 
-                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495830680000/Rm Popup Logo.png" alt="pop up" />
-            <h3 style="font-weight: 600;padding-bottom: 5%;">ENJOY THE FIRST MONTH OF RETAIL MAVERICK </h3>
-
-            <div id="popup_forfree">
-                <h2 style="font-weight: 600;">FOR FREE!</h2>
-            </div>
-            <p style="padding-top:15%">
-                RCC STORE Conference
-            <br/>
-            <u>Limited Time Offer:</u>
-            </p>
-            
-            
-            <a href="/registration" class="main_btn hidden_phone" id="popup_register">
-                REGISTER NOW
-            </a>
-            
-            
-            </div>
-            
-        </div>
-        <div class="col-xs-6" id="popup_picture">
-            
-            <div  id= "popup_column2" >
-                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496082247000/Store2017Logo1x.png" alt="pop up" />
-                <h1 style="font-size: 35pt;font-weight: 600;">MAY 30 - 31</h1>
-                <h3> Toronto Congress Centre</h3>
-                <h2> BOOTH 312</h2>
-                
-                <p id="popup_address">
-                    Toronto Congress Centre Address: <br/>
-                    <br/>
-                    <b> 650 Dixon Road</b> <br/><br/>
-                    Etobicoke, ON, M9W 1J1
-                </p>
-            </div>
-    </div>
- <i class="fa fa-remove close_popup"></i>
+    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495830680000/Rm Popup Logo.png" alt="pop up" />
+     <p>
+        Retail Council of Canada Store Conference Special:
+        <br/><br/>
+        <b> Get one month of Retail Maverick services for FREE!</b>
+    </p>
+    
+    <a href="/registration" class="main_btn hidden_phone" id="popup_register">
+        REGISTER NOW
+    </a>
+    <i class="fa fa-remove close_popup"></i>
 </div>
 
 <section id="video" class="position_relative ">
@@ -92,6 +63,36 @@
     <div class="main_container text-center">
         <h2 class="heading ">Success Stories</h2>
         <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-3">
+                <div class="testimonial_logo" >
+                    <img class="resize" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816032000/Ck Logo.png">
+                    <div class="testimony_by">
+                        <b>Testimonial By:</b><br/>
+                        Calvin Klein <br/>
+                        Director of Marketing
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-9">
+                <div style="padding:20px">
+                    
+                    <div class="testimonial_quote">
+                    <img class="resizeQuote" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816048000/QuoteIcon.png">
+                        <div STYLE="padding: 25px 10% 10px 10%;">
+                           <p>
+                               <b>
+                                WORKING WITH RETAIL MAVERICK HAS MADE  OUR LIVES EASIER AND MORE EFFICIENT.
+                            </b>
+                            <br/><br/>
+                            They have been able to update our list and send out our weekly promotions with over <b>95% accuracy from week to week. </b> They have been extremely easy to work with and are proactive with their approach.
+                           </p>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-3">
                 <div class="testimonial_logo" >
                     <img class="resize" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816032000/Ck Logo.png">
