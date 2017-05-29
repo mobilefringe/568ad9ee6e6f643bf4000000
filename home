@@ -204,4 +204,8 @@
         loadMallDataCached(renderAll);
     });
     
+    function renderAll {
+        
+    }
+    
 </script>
