@@ -201,6 +201,7 @@
             $(".modal-backdrop").remove();
 	        $(".popup_home").remove();
         });
+        loadMallDataCached(renderAll);
     });
     
 </script>
