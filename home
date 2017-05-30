@@ -230,8 +230,8 @@ The Retail Maverick team is knowledgeable, easy to work with, and have helped us
     });
     
     function renderAll(){
-        if($.cookie("popup_viewed") != "true"){
-          $.cookie("popup_viewed", "true", { expires: 1 });
+        {//if($.cookie("popup_viewed") != "true"){
+          //$.cookie("popup_viewed", "true", { expires: 1 });
             var popup = getPopups()[0];
             if (popup != undefined){
                 $('<div class="modal-backdrop custom_backdrop"></div>').appendTo(document.body);
