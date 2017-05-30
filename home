@@ -1,6 +1,6 @@
 <div class="popup_home hidden_now">
 
-    <div class="col-xs-6">
+    <div class="col-xs-12">
         <div id="popup_column1">
             <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495830680000/Rm Popup Logo.png" alt="pop up" />
             <h3 style="font-weight:600"> ENJOY THE FIRST MONTH OF <br/>RETAIL MAVERICK</h3>
@@ -17,7 +17,7 @@
         </div>
         <p class="close_popup"> Close this box</p>
     </div>
-        <div class="col-xs-6" id="popup_picture">
+        <div class="col-xs-12" id="popup_picture">
         <div id="popup_column2">
             <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496082247000/Store2017Logo1x.png" alt="pop up" />
             <h1> MAY 30 - 31</h1><br/>
