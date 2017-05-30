@@ -17,8 +17,9 @@
         </div>
         
     </div>
-        <div class="col-xs-6">
-        <div id="popup_column2">
+        <div class="col-xs-6" id="popup_column2">
+        <div id="=popup_picture">
+        
             <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496082247000/Store2017Logo1x.png" alt="pop up" />
         </div>
         
