@@ -15,7 +15,7 @@
     </a>
     
         </div>
-        
+        <p class="close_popup"> Close this box</p>
     </div>
         <div class="col-xs-6" id="popup_picture">
         <div id="popup_column2">
