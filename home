@@ -4,6 +4,9 @@
     <div class="col-xs-6">
         <div id="popup_column1">
             
+            <a href="/registration" class="main_btn hidden_phone" id="popup_register">
+        REGISTER NOW
+    </a>
         </div>
         
     </div>
