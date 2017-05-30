@@ -13,6 +13,7 @@
             <a href="/registration" class="main_btn hidden_phone" id="popup_register">
         REGISTER NOW
     </a>
+    <p> Close</p>
         </div>
         
     </div>
