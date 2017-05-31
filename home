@@ -9,21 +9,18 @@
             <a href="/registration" class="main_btn hidden_phone" id="popup_register">
                 REGISTER NOW
             </a>
-    <p class="close_popup"> <u>Close this box</u></p>
+            <p class="close_popup"> <u>Close this box</u></p>
         </div>
-        
     </div>
-        <div class="col-xs-12 col-sm-6 col-md-6" id="popup_picture">
+    <div class="col-xs-12 col-sm-6 col-md-6" id="popup_picture">
         <div id="popup_column2">
             <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496082247000/Store2017Logo1x.png" alt="pop up" />
             <h1 id = "popup_RCC"> RCC STORE CONFERENCE <b>SPECIAL</b></h1><br/>
-
+    
             <h3 stlye="font-size:18px" id="popup_limit"> Limited Time Offer</h3>
             
         </div>
-        
     </div>
-
 </div>
 
 <section id="video" class="position_relative ">
