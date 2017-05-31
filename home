@@ -101,8 +101,8 @@
                     <div class="testimonial_quote">
                     <img class="resizeQuote" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816048000/QuoteIcon.png">
                         <div STYLE="padding: 25px 10% 10px 10%;">
-                           <p>
-                               <b>
+                           <p >
+                               <b id="testimony_quote1">
                                 WORKING WITH RETAIL MAVERICK HAS MADE  OUR LIVES EASIER AND MORE EFFICIENT.
                             </b>
                             <br/><br/>
