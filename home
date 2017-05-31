@@ -1,5 +1,4 @@
 <div class="popup_home hidden_now">
-
     <div class="col-xs-12 col-sm-6 col-md-6">
         <div id="popup_column1">
             <img style="margin-bottom:10px" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495830680000/Rm Popup Logo.png" alt="pop up" />
@@ -7,10 +6,9 @@
             <div id="popup_forfree">
                 <h3 style="font-weight:600;padding-top:3px">FOR FREE!</h3>
             </div>
-            
             <a href="/registration" class="main_btn hidden_phone" id="popup_register">
-        REGISTER NOW
-    </a>
+                REGISTER NOW
+            </a>
     <p class="close_popup"> <u>Close this box</u></p>
         </div>
         
