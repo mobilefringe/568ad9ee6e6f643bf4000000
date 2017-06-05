@@ -100,7 +100,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <!--<div class="row">
             <div class="col-xs-12 col-sm-12 col-md-3">
                 <div class="testimonial_logo" >
                     <img class="resize" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496102324000/sportcheck4_crop.png">
@@ -129,7 +129,7 @@ The Retail Maverick team is knowledgeable, easy to work with, and have helped us
                     </div>
                 </div>
             </div>
-        </div>
+        </div>-->
     </div>
     
 </section>
