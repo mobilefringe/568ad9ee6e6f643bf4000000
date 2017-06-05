@@ -145,7 +145,7 @@ function renderTestimony(container, template, collection){
     Mustache.parse(template_html); 
     $.each( collection , function( key, val ) {
         console.log(val.posts);
-        var repo_rendered = Mustache.render(template_html,val.posts);
+        var repo_rendered = Mustache.render(template_html,val.posts[0]);
         item_rendered.push(repo_rendered);
        
     });
