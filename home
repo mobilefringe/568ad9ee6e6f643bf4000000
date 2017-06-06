@@ -75,6 +75,7 @@
         <ul  id="testimony_container" class="slides">
             <script id="testimony_template" type="x-tmpl-mustache/text">
                <li style="float: left; display: block;">
+                    <div>
                     <div class="col-xs-12 col-sm-12 col-md-3">
                         <div class="testimonial_logo" >
                             <img class="resize" alt="logo" src="{{image_url}}">
@@ -95,6 +96,7 @@
                             </div>
                         </div>
                     </div>  
+                    </div>
                     </li>
             </script>
             </ul>
