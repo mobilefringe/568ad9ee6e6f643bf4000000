@@ -73,8 +73,8 @@
         <h2 class="heading ">Success Stories</h2>
         <div  id="testimony_container"  class="flexslider trim_screen" style="margin-bottom:0px;">
             <script id="testimony_template" type="x-tmpl-mustache/text">
-                <div class="row slides">
-                    <div class="col-xs-12 col-sm-12 col-md-3">
+                <ul class="slides">
+                    <li class="col-xs-12 col-sm-12 col-md-3">
                         <div class="testimonial_logo" >
                             <img class="resize" alt="logo" src="{{image_url}}">
                             <div class="testimony_by">
@@ -82,8 +82,8 @@
                                {{author}}
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-12 col-md-9">
+                    </li>
+                    <li class="col-xs-12 col-sm-12 col-md-9">
                         <div style="padding:20px">
                             
                             <div class="testimonial_quote">
@@ -93,8 +93,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>  
-                </div>
+                    </li>  
+                </ul>
             </script>
         </div>
         <!--<div class="row">
