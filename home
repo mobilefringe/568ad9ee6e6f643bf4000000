@@ -194,13 +194,13 @@ The Retail Maverick team is knowledgeable, easy to work with, and have helped us
     $(document).ready(function(){
         init();
         scroll();
-        $('.flexslider').flexslider({
-            animation: "slide",
-            controlNav: false,
-            directionNav: false,        
-            prevText: "Previous",
-            nextText: "Next"
-        });
+        // $('.flexslider').flexslider({
+        //     animation: "slide",
+        //     controlNav: false,
+        //     directionNav: false,        
+        //     prevText: "Previous",
+        //     nextText: "Next"
+        // });
         $('#signup_form').submit(function(e){
             $('.send_btn').prop('disabled', true);
             e.preventDefault();
@@ -253,6 +253,14 @@ The Retail Maverick team is knowledgeable, easy to work with, and have helped us
         
         var testimony = getBlogList();
         renderTestimony("#testimony_container", "#testimony_template", testimony);
+        
+        $('.flexslider').flexslider({
+            animation: "slide",
+            controlNav: false,
+            directionNav: false,        
+            prevText: "Previous",
+            nextText: "Next"
+        });
     }
     
 </script>
