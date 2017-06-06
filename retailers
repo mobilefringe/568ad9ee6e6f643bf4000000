@@ -7,9 +7,9 @@
 </section>
 <section id="about_retailers">
     <div class="main_container">
-        <div class="main_content">
+        <div class="main_content"style>
             <div class="row margin_40">
-                <div class="col-md-6">
+                <div class="col-md-6" style="padding-top: 40px;padding-left: 50px;">
                 <h2 class="heading">Why Retail Maverick?</h2>
                     <ul>
                         <li>Retail Maverick was created by Mobile Fringe and Mall Maverick to solve the retailer problem of getting their promotions published to all of their retail centres easily and consistently.</li>
