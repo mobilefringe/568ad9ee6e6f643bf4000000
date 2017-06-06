@@ -73,7 +73,7 @@
         <h2 class="heading ">Success Stories</h2>
         <div  id="testimony_container"  class="flexslider trim_screen" style="margin-bottom:0px;">
             <script id="testimony_template" type="x-tmpl-mustache/text">
-            <div class="row">
+            <div class="row class="slides"">
                 <div class="col-xs-12 col-sm-12 col-md-3">
                     <div class="testimonial_logo" >
                         <img class="resize" alt="logo" src="{{image_url}}">
