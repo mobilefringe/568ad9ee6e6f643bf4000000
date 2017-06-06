@@ -240,6 +240,11 @@ The Retail Maverick team is knowledgeable, easy to work with, and have helped us
 	        $(".popup_home").remove();
         });
         
+        $('.flexslider').flexslider({
+                animation: "slide",
+        });
+        $('.flex-next').html("");
+        
         var testimony = getBlogList();
         renderTestimony("#testimony_container", "#testimony_template", testimony);
     }
