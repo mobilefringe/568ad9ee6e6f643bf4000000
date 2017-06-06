@@ -255,8 +255,7 @@ The Retail Maverick team is knowledgeable, easy to work with, and have helped us
         renderTestimony("#testimony_container", "#testimony_template", testimony);
         
         $('.flexslider').flexslider({
-            animation: "slide",
-            controlNav: false
+            animation: "slide"
         });
     }
     
