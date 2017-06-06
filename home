@@ -73,27 +73,27 @@
         <h2 class="heading ">Success Stories</h2>
         <div  id="testimony_container"  class="flexslider trim_screen" style="margin-bottom:0px;">
             <script id="testimony_template" type="x-tmpl-mustache/text">
-            <div class="row slides">
-                <div class="col-xs-12 col-sm-12 col-md-3">
-                    <div class="testimonial_logo" >
-                        <img class="resize" alt="logo" src="{{image_url}}">
-                        <div class="testimony_by">
-                            <b>Testimonial By:</b><br/>
-                           {{author}}
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-12 col-md-9">
-                    <div style="padding:20px">
-                        
-                        <div class="testimonial_quote">
-                        <img class="resizeQuote" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816048000/QuoteIcon.png">
-                            <div STYLE="padding: 25px 10% 10px 10%;">
-                               {{{html_body}}}
+                <div class="row slides">
+                    <div class="col-xs-12 col-sm-12 col-md-3">
+                        <div class="testimonial_logo" >
+                            <img class="resize" alt="logo" src="{{image_url}}">
+                            <div class="testimony_by">
+                                <b>Testimonial By:</b><br/>
+                               {{author}}
                             </div>
                         </div>
                     </div>
-                </div>  
+                    <div class="col-xs-12 col-sm-12 col-md-9">
+                        <div style="padding:20px">
+                            
+                            <div class="testimonial_quote">
+                            <img class="resizeQuote" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816048000/QuoteIcon.png">
+                                <div STYLE="padding: 25px 10% 10px 10%;">
+                                   {{{html_body}}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>  
                 </div>
             </script>
         </div>
