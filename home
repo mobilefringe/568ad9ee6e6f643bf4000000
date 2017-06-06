@@ -256,8 +256,7 @@ The Retail Maverick team is knowledgeable, easy to work with, and have helped us
         
         $('.flexslider').flexslider({
             animation: "slide",
-            controlNav: false,
-            directionNav: false,        
+            controlNav: false,      
             prevText: "Previous",
             nextText: "Next"
         });
