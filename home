@@ -64,7 +64,7 @@
                                     
                                     <div class="testimonial_quote">
                                     <img class="resizeQuote" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816048000/QuoteIcon.png">
-                                        <div STYLE="padding: 25px 10% 10px 10%;">
+                                        <div class="testimony_content" STYLE="padding: 25px 10% 10px 10%;">
                                            {{{html_body}}}
                                         </div>
                                     </div>
