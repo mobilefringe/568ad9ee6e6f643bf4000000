@@ -49,7 +49,7 @@
                 <script id="testimony_template" type="x-tmpl-mustache/text">
                    <li style="float: left; display: block;">
                         <div class="row">
-                            <div class="col-xs-12 col-sm-6 col-md-3">
+                            <div class="col-xs-12 col-sm-3 col-md-3">
                                 <div class="testimonial_logo" >
                                     <img class="resize" alt="logo" src="{{image_url}}">
                                     <div class="testimony_by">
@@ -59,7 +59,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xs-12 col-sm-6 col-md-9">
+                            <div class="col-xs-12 col-sm-9 col-md-9">
                                 <div style="padding:20px">
                                     
                                     <div class="testimonial_quote">
