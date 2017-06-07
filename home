@@ -34,7 +34,8 @@
                 We manage hundreds of Retailer promotions every week. Let us manage yours!</p>
             <div>
                 <a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
-                <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> 
+                <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
+                <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
             </div>
         </div>
     </div>
