@@ -109,7 +109,7 @@
 <section id="visitors" class="">
     <div class="main_container text-center">
         <h1 class="visitors_title">Every Week Our Network Receives Over</h1>
-        <h1 class="visitors_title"><span class="visitors_numbers">450,000</span> Visitors & <span class="visitors_numbers">1,000,000</span> Views</h1>
+        <h1 class="visitors_numbers"><span class="visitors_numbers">450,000</span> Visitors & <span class="visitors_numbers">1,000,000</span> Views</h1>
     </div>
 </section>
 
