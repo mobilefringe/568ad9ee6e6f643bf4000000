@@ -30,7 +30,7 @@
                     <a role="button" id="video_player_shopping">
                     <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936584000/Youtube Icon.png" class="video_play_btn" alt=""></a>
                     <div class="play_video hidden_now" style="z-index:50" id="play_shopping_video">
-                    <iframe  width="450px" height="350px" src="https://www.youtube.com/embed/OYfS6bS22mQ?" frameborder="0" allowfullscreen></iframe>
+                    <iframe  id="youtube_video" width="450px" height="350px" src="https://www.youtube.com/embed/OYfS6bS22mQ?" frameborder="0" allowfullscreen></iframe>
                     
                     <!--<div class="custom_backdrop" style="z-index:3"></div>-->
                     <i class="fa fa-remove close_video" style="z-index:51"></i>
