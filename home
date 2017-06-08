@@ -6,7 +6,7 @@
             <div id="popup_forfree">
                 <h3 style="font-weight:600;padding-top:4px">FOR FREE!</h3>
             </div>
-            <a href="/registration" class="main_btn hidden_phone" id="popup_register">
+            <a href="/registration" class="main_btn " id="popup_register">
                 REGISTER NOW
             </a>
             <p class="close_popup"> <u>Close this box</u></p>
