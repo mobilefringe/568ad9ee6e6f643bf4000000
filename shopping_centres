@@ -72,21 +72,21 @@
     </div>
 </section>
 
-<section id="centre_features" class="">
-    <div class="main_container">
-        <div class="row margin_40">
-            <div class="col-sm-4 mm_icons">
-                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486132412000/devices.png" alt="responsive website">
-            </div>
-            <div class="col-sm-4 mm_icons">
-                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486132398000/cms.png" alt="apps for all devices">
-            </div>
-            <div class="col-sm-4 mm_icons">
-                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486132385000/zendesk.png" alt="digital directory">
-            </div>
-        </div>
-    </div>
-</section>
+<!--<section id="centre_features" class="">-->
+<!--    <div class="main_container">-->
+<!--        <div class="row margin_40">-->
+<!--            <div class="col-sm-4 mm_icons">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486132412000/devices.png" alt="responsive website">-->
+<!--            </div>-->
+<!--            <div class="col-sm-4 mm_icons">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486132398000/cms.png" alt="apps for all devices">-->
+<!--            </div>-->
+<!--            <div class="col-sm-4 mm_icons">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486132385000/zendesk.png" alt="digital directory">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 
 <section id="visitors" class="">
     <div class="main_container text-center">
