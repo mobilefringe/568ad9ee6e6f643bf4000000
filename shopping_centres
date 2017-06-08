@@ -161,6 +161,7 @@
         $('.close_video, .custom_backdrop_video').click(function(){
             $(".custom_backdrop_video").remove();
 	        $("#play_shopping_video").hide();
+	        $('iframe').attr('src', $('iframe').attr('src'));
         })
     });
 </script>
