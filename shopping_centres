@@ -151,6 +151,9 @@
                 $(this).serialize()
             );
         });
-
+        
+        $('#video_player').click(function(){
+            $('#play_retail_video').show();
+        });
     });
 </script>
