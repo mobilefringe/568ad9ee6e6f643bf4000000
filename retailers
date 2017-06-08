@@ -34,7 +34,7 @@
                     <source src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" type='video/webm' />
                         Your browser does not support HTML5 video. Please upgrade your browser!
                     </video>
-                    <div class="custom_backdrop" style="z-index:3"></div>
+                    <!--<div class="custom_backdrop" style="z-index:3"></div>-->
                 </div>
                 
             </div>
