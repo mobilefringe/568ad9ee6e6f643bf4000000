@@ -160,7 +160,7 @@
         });
         $('.close_video, .custom_backdrop').click(function(){
             $(".custom_backdrop_video").remove();
-	        $("#play_shopping_video").remove();
+	        $("#play_shopping_video").hide();
         })
     });
 </script>
