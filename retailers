@@ -31,8 +31,7 @@
                 <div class="play_video hidden_now">
                     <!--<iframe style="z-index:4" width="450px" height="350px" src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>-->
                     <video autoplay loop class="fillWidth">
-                    <source src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" type='video/webm' />
-                        Your browser does not support HTML5 video. Please upgrade your browser!
+                        <source src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" type='video/webm' />
                     </video>
                     <!--<div class="custom_backdrop" style="z-index:3"></div>-->
                 </div>
