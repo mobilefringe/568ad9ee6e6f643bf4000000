@@ -156,5 +156,9 @@
         $('#video_player_shopping').click(function(){
             $('#play_shopping_video').show();
         });
+        $('.close_video, .custom_backdrop').click(function(){
+            $(".modal-backdrop").remove();
+	        $(".popup_home").remove();
+        })
     });
 </script>
