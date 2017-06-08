@@ -96,7 +96,7 @@
 </section>
 <section class="">
     <div class="row extra_padding">
-        <div class="col-md-12">
+        <div class="col-md-6">
             <h2 class="heading text-center">Are you a Shopping Centre looking for a mew website?</h2>   
             <p class="desc">
                 check out <a href="//www.mallmaverick.com" target="_blank">Mall Maverick</a> to learn More.
@@ -104,6 +104,8 @@
             <p class="desc">
                 Mall Maverick is the best-in-class website solution used by over 150 shopping centres already and have all of your digital content posted automatically!    
             </p>
+        </div>
+        <div class="col-md-6">
         </div>
     </div>
 </section>
