@@ -207,6 +207,7 @@
         });
         
         $('#video_player').click(function(){
+            console.log("show retail video");
             $('#play_retail_video').show();
         });
 
