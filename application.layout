@@ -9,16 +9,13 @@
         <meta name="description" content="{{meta_description}}">
         <meta name="keywords" content="{{meta_keywords}}">
         <meta name="author" content="">
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/flexslider.css" rel="stylesheet">
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
         <link href="../application.css" rel="stylesheet">
         <link href="../modal.css" rel="stylesheet">
         
         <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/jquery.flexslider.js"></script>
         <script src="//s3.amazonaws.com/kodekloud/sites/568ad9ee6e6f643bf4000000/application/x-javascript/1474999721000/bootbox.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.3.26/jquery.form-validator.min.js"></script>
         <script src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/text/javascript/1495729152000/jquery.cookie.js"></script>
@@ -55,7 +52,7 @@
         <section id="header">
             <div class="main_container">
                 <a href="/">
-                    <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1485531020000/rm_logo-w.png" class="main_logo" alt="logo">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496949417000/RM-New-Logo.png" class="main_logo" alt="logo">
                 </a>
                 <div id="menu-icon">
                   <span></span>
@@ -80,7 +77,7 @@
             <div class="main_container">
                 <div class="row margin_10">
                     <div class="col-sm-6 col-md-7">
-                        <div class="social_icons_container hidden_phone">
+                        <div class="social_icons_container">
                             <h5>Follow Us!</h5>
                             <a href="https://www.facebook.com/Retail-Maverick-227060277704943/" target="_blank"><span class="social_fb hvr-grow"></span></a>
                             <a href="https://twitter.com/RetailMaverick" target="_blank"><span class="social_twitter hvr-grow"></span></a>
@@ -111,7 +108,7 @@
         <section id="footer">
             <div class="main_container">
                 <p class="pull-left">
-                    &copy 2017 Retail Maverick. All right reserved.
+                    @2017 Retail Maverick. All right reserved.
                 </p>
                 <p class="pull-right">
                     Powered by <a href="//mobilefringe.com" target="_blank" class="mm_link">Mobile Fringe</a>
