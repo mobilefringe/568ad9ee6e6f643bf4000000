@@ -9,7 +9,7 @@
     <div class="main_container">
         <div class="main_content" style="padding: initial;">
             <div class="row">
-                <div class="col-sm-6 col-md-6" style="padding-top: 40px;padding-left: 50px;">
+                <div class="col-md-6" style="padding-top: 40px;padding-left: 50px;">
                 <h2 class="heading">Why Retail Maverick?</h2>
                     <ul>
                         <li>Retail Maverick was created by Mobile Fringe and Mall Maverick to solve the retailer problem of getting their promotions published to all of their retail centres easily and consistently.</li>
@@ -19,7 +19,7 @@
                         <li>Don’t be fooled by others in the market place. When you look at the competition compared to Retail Maverick there is no comparison.</li>
                     </ul>
                 </div>
-                 <div class="col-sm-6 col-md-6 hidden-xs video_container">
+                 <div class="col-md-6 hidden-xs video_container">
                     <img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936752000/video_retail.png" class="" alt="">
                     <a role="button" id="video_player">
                     <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936584000/Youtube Icon.png" class="video_play_btn" alt=""></a>
