@@ -24,6 +24,21 @@
                     <li>Digital Marketing has never been so easy. Let us show you how!</li>
                     </ul>
                     <br/><br/> Let us show you how!
+                    </div>
+                 <div class="col-md-6 hidden-xs video_container">
+                    <img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936752000/video_retail.png" class="" alt="">
+                    <a role="button" id="video_player">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936584000/Youtube Icon.png" class="video_play_btn" alt=""></a>
+                    
+                </div>
+                
+                <div class="play_video hidden_now" style="z-index:4">
+                    <iframe  width="450px" height="350px" src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
+                    <!--<video autoplay loop class="fillWidth">-->
+                    <!--    <source src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" type='video/webm' />-->
+                    <!--</video>-->
+                    <!--<div class="custom_backdrop" style="z-index:3"></div>-->
+                </div>
                 <!--<div class="col-md-12 hidden-xs video_container">-->
                 <!--    <iframe width="600px" height="338" src="https://www.youtube.com/embed/OYfS6bS22mQ" frameborder="0" allowfullscreen></iframe>    -->
                 <!--</div>-->
