@@ -198,6 +198,10 @@
                 $(this).serialize()
             );
         });
+        
+        #video_player.click(function(){
+            
+        });
 
     });
 </script>
