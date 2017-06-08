@@ -21,7 +21,7 @@
                 </div>
                  <div class="col-md-6 hidden-xs video_container">
                     <img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936752000/video_retail.png" class="" alt="">
-                    <a href="" role="button" id="video_player>
+                    <a href="" role="button" id="video_player">
                     <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936584000/Youtube Icon.png" class="video_play_btn" alt=""></a>
                     
                 </div>
