@@ -6,7 +6,7 @@
             <div id="popup_forfree">
                 <h3 style="font-weight:600;padding-top:4px">FOR FREE!</h3>
             </div>
-            <a href="/registration" class="main_btn " id="popup_register">
+            <a href="/registration" class="main_btn hidden_phone" id="popup_register">
                 REGISTER NOW
             </a>
             <p class="close_popup"> <u>Close this box</u></p>
@@ -33,7 +33,7 @@
             <p class="headline_desc">Developed for Retailers looking to easily manage their digital content, marketing, and job postings. 
                 We manage hundreds of Retailer promotions every week. Let us manage yours!</p>
             <div>
-                <a href="/regristration" class="main_btn hidden_phone" style="margin-bottom: 25px;"> REGISTER NOW</a>
+                <a href="/regristration" class="main_btn " style="margin-bottom: 25px;"> REGISTER NOW</a>
                 <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
                 <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
             </div>
