@@ -6,7 +6,7 @@
     </div>
 </section>
 <div class="play_video hidden_now" style="z-index:50" id="play_shopping_video">
-                    <iframe class="hidding_phone"  id="youtube_video" width="800px" height="600px" src="https://www.youtube.com/embed/OYfS6bS22mQ?" frameborder="0" allowfullscreen></iframe>
+                    <iframe class="hidden_phone"  id="youtube_video" width="800px" height="600px" src="https://www.youtube.com/embed/OYfS6bS22mQ?" frameborder="0" allowfullscreen></iframe>
                     <iframe class="show_phone" width="100%" height="250" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>
                     
                     <!--<div class="custom_backdrop" style="z-index:3"></div>-->
