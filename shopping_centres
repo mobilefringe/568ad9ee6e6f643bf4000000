@@ -5,6 +5,12 @@
         </div>
     </div>
 </section>
+<div class="play_video hidden_now" style="z-index:50" id="play_shopping_video">
+                    <iframe  id="youtube_video" width="800px" height="600px" src="https://www.youtube.com/embed/OYfS6bS22mQ?" frameborder="0" allowfullscreen></iframe>
+                    
+                    <!--<div class="custom_backdrop" style="z-index:3"></div>-->
+                    <i class="fa fa-remove close_video" style="z-index:51"></i>
+                </div>
 <section id="about_shopping">
     <div class="main_container">
         <div class="main_content" style="padding: initial;">
@@ -29,12 +35,7 @@
                     <!--<img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496942664000/video_mall.png" class="" alt="">-->
                     <!--<a role="button" id="video_player_shopping">-->
                     <!--<img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936584000/Youtube Icon.png" class="video_play_btn" alt=""></a>-->
-                    <div class="play_video hidden_now" style="z-index:50" id="play_shopping_video">
-                    <iframe  id="youtube_video" width="800px" height="600px" src="https://www.youtube.com/embed/OYfS6bS22mQ?" frameborder="0" allowfullscreen></iframe>
                     
-                    <!--<div class="custom_backdrop" style="z-index:3"></div>-->
-                    <i class="fa fa-remove close_video" style="z-index:51"></i>
-                </div>
                     
                 </div>
                 
