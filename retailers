@@ -211,8 +211,8 @@
             $('#play_retail_video').show();
             $('<div class="modal-backdrop custom_backdrop_video"></div>').appendTo('.video_container');
         });
-        $('.close_video, .custom_backdrop').click(function(){
-            $(".modal-backdrop").remove();
+        $('.close_video, .custom_backdrop_video').click(function(){
+            $(".custom_backdrop_video").remove();
 	        $(".popup_home").remove();
         })
     });
