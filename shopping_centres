@@ -32,7 +32,7 @@
                     
                 </div>
                 
-                <div class="play_video hidden_now" style="z-index:4">
+                <div class="play_video hidden_now" style="z-index:4" id="play_shopping_video">
                     <iframe  width="450px" height="350px" src="https://www.youtube.com/embed/OYfS6bS22mQ?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
                     
                     <!--<div class="custom_backdrop" style="z-index:3"></div>-->
