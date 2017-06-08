@@ -21,7 +21,7 @@
                 </div>
                  <div class="col-md-6 hidden-xs video_container">
                     <img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936752000/video_retail.png" class="" alt="">
-                    <img style="z-index:999; position:absolute;top: 150px;left: 250px;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936584000/Youtube Icon.png" class="video_play" alt="">
+                    <img style="z-index:999; position:absolute;top: 150px;left: 250px;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936584000/Youtube Icon.png" class="video_play_btn" alt="">
                     
                 </div>
                 <div class="col-xs-12 visible-xs-block">
