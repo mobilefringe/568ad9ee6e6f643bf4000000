@@ -35,7 +35,8 @@
                 <div class="play_video hidden_now" style="z-index:4" id="play_shopping_video">
                     <iframe  width="450px" height="350px" src="https://www.youtube.com/embed/OYfS6bS22mQ?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
                     
-                    <!--<div class="custom_backdrop" style="z-index:3"></div>-->
+                    <div class="custom_backdrop" style="z-index:3"></div>
+                    <i class="fa fa-remove close_popup"></i>
                 </div>
                 <!--<div class="col-md-12 hidden-xs video_container">-->
                 <!--    <iframe width="600px" height="338" src="https://www.youtube.com/embed/OYfS6bS22mQ" frameborder="0" allowfullscreen></iframe>    -->
