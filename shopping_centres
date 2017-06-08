@@ -34,9 +34,7 @@
                 
                 <div class="play_video hidden_now" style="z-index:4">
                     <iframe  width="450px" height="350px" src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
-                    <!--<video autoplay loop class="fillWidth">-->
-                    <!--    <source src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" type='video/webm' />-->
-                    <!--</video>-->
+                    
                     <!--<div class="custom_backdrop" style="z-index:3"></div>-->
                 </div>
                 <!--<div class="col-md-12 hidden-xs video_container">-->
