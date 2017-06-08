@@ -210,7 +210,7 @@
         $('#video_player_retailer,#video_player_mb').click(function(){
             console.log("show retail video");
             $('#play_retail_video').show();
-            $('<div class="modal-backdrop custom_backdrop"></div>').appendTo('#play_retail_video');
+            $('<div class="modal-backdrop custom_backdrop"></div>').appendTo('.video_container');
         });
         $('.close_video, .custom_backdrop').click(function(){
             $(".modal-backdrop").remove();
