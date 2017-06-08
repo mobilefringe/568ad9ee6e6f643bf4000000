@@ -206,7 +206,7 @@
             );
         });
         
-        $('#video_player_retailer #video_player_mb').click(function(){
+        $('#video_player_retailer,#video_player_mb').click(function(){
             console.log("show retail video");
             $('#play_retail_video').show();
         });
