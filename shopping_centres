@@ -96,13 +96,13 @@
 </section>
 <section class="try_mallmaverick">
     <div class="row extra_padding">
-        <div class="col-md-6">
+        <div class="col-sm-6 col-md-6">
             <h2 class="cap_it">Are you a Shopping Centre looking for a mew website?</h2>   
             <p class="desc cap_it">
                 Check out <a href="//www.mallmaverick.com" target="_blank">Mall Maverick</a> to learn More.
             </p>
         </div>
-        <div class="col-md-6">
+        <div class="col-sm-6col-md-6">
             <div style="padding:20px;text-align: center;">
                 <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496943733000/MM Logo-02.png" class="mallm_logo" alt="">
                 <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496943783000/Fill 1.png" class="resize" alt="">
