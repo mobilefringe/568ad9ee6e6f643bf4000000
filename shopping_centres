@@ -156,7 +156,7 @@
         
         $('#video_player_shopping').click(function(){
             $('#play_shopping_video').show();
-            $("#youtube_video").attr('src', $("#youtube_video", parent).attr('src') + '?rel=0&autoplay=1'); 
+            $("#play_shopping_video iframe").attr('src', $("#play_shopping_video iframe", parent).attr('src') + '?rel=0&autoplay=1'); 
             $('<div class="modal-backdrop custom_backdrop custom_backdrop_video" style="z-index:4"></div>').appendTo('.video_container');
         });
         $('.close_video, .custom_backdrop_video').click(function(){
