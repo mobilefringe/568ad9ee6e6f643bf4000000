@@ -32,7 +32,7 @@
                     
                 </div>
                 
-                <div class="play_video hidden_now" style="z-index:4">
+                <div class="play_video hidden_now" style="z-index:4" id="play_retail_video">
                     <iframe  width="450px" height="350px" src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
                     <!--<video autoplay loop class="fillWidth">-->
                     <!--    <source src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" type='video/webm' />-->
