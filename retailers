@@ -28,7 +28,7 @@
                 <div class="col-xs-12 visible-xs-block">
                     <iframe width="100%" height="250" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>
                 </div>
-                <div class="play_video hidden_now">
+                <div class="play_video hidden_now custom_backdrop">
                     <iframe width="450px" height="350px" src="//www.youtube.com/embed/nVqXz52bGZo&autoplay=true" frameborder="0" allowfullscreen></iframe>
                     <div class="custom_backdrop" style="z-index:3"></div>
                 </div>
