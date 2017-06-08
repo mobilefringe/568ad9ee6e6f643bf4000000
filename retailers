@@ -7,6 +7,7 @@
 </section>
 <div class="play_video hidden_now" style="z-index:50" id="play_retail_video">
                         <iframe  width="800px" height="600px" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>
+                        <iframe class="show_phone" width="100%" height="250" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>
                         <i class="fa fa-remove close_video" style="z-index:51"></i>
                     </div>
 <section id="about_retailers">
