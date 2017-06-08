@@ -158,7 +158,7 @@
             $('<div class="modal-backdrop custom_backdrop_video"></div>').appendTo('.video_container');
         });
         $('.close_video, .custom_backdrop').click(function(){
-            $(".modal-backdrop").remove();
+            $(".custom_backdrop_video").remove();
 	        $(".popup_home").remove();
         })
     });
