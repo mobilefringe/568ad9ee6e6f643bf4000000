@@ -30,7 +30,7 @@
                 </div>
                 <div class="play_video hidden_now">
                     <iframe width="450px" height="350px" src="//www.youtube.com/embed/nVqXz52bGZo&autoplay=true" frameborder="0" allowfullscreen></iframe>
-                    <div class="custom_backdrop"></div>
+                    <div class="custom_backdrop" style="z-index:3"></div>
                 </div>
                 
             </div>
