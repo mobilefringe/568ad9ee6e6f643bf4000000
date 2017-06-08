@@ -152,7 +152,7 @@
             );
         });
         
-        $('#video_player').click(function(){
+        $('#video_player_shopping').click(function(){
             $('#play_shopping_video').show();
         });
     });
