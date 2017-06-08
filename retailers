@@ -20,7 +20,7 @@
                     </ul>
                 </div>
                  <div class="col-md-6 hidden-xs video_container">
-                    
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936584000/Youtube Icon.png" class="" alt="">
                 </div>
                 <div class="col-xs-12 visible-xs-block">
                     <iframe width="100%" height="250" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>
