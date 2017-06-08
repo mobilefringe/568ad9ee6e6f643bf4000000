@@ -32,8 +32,7 @@
             <h2 class="heading">The largest network of retailer promotions <br>to shopping centres</h2>
             <p class="headline_desc hidden_phone">Developed for Retailers looking to easily manage their digital content, marketing, and job postings. 
                 We manage hundreds of Retailer promotions every week. Let us manage yours!</p>
-                <p class="headline_desc show_phone">Developed for Retailers looking to easily manage their digital content, marketing, and job postings. 
-                We manage hundreds of Retailer promotions every week. Let us manage yours!</p>
+                <p class="headline_desc show_phone">We have over 1,000,000! views and 450,000 visitors waiting to hear your message</p>
             <div>
                 <a href="/regristration" class="main_btn " style="margin-bottom: 25px;"> REGISTER NOW</a>
                 <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
