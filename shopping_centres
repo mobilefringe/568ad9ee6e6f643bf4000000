@@ -95,6 +95,8 @@
     </div>
 </section>
 <section class="try_mallmaverick">
+<div class="main_container">
+        <div class="main_content" style="padding: initial;">
     <div class="row extra_padding">
         <div class="col-sm-6 col-md-6">
             <h2 class="cap_it">Are you a Shopping Centre looking for a mew website?</h2>   
@@ -109,6 +111,8 @@
             </div>
             
         </div>
+    </div>
+    </div>
     </div>
 </section>
 <script>
