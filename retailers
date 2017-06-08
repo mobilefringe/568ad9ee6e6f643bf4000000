@@ -207,7 +207,7 @@
         });
         
         $('#video_player').click(function(){
-            $('.play_video').show();
+            $('#play_retail_video').show();
         });
 
     });
