@@ -26,7 +26,7 @@
                     
                 </div>
                 <div class="col-xs-12 visible-xs-block">
-                img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936752000/video_retail.png" class="" alt="">
+                <img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936752000/video_retail.png" class="" alt="">
                     <a role="button" id="video_player">
                     <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496936584000/Youtube Icon.png" class="video_play_btn" alt=""></a>
                     <!--<iframe width="100%" height="250" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>-->
