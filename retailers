@@ -38,7 +38,7 @@
                     <!--    <source src="//www.youtube.com/embed/nVqXz52bGZo?rel=0&autoplay=1" type='video/webm' />-->
                     <!--</video>-->
                     <div class="custom_backdrop" style="z-index:3"></div>
-                    <i class="fa fa-remove close_popup" style="z-index:4"></i>
+                    <i class="fa fa-remove close_video" style="z-index:4"></i>
                 </div>
                 
             </div>
