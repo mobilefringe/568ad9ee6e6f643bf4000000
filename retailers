@@ -211,6 +211,9 @@
             console.log("show retail video");
             $('#play_retail_video').show();
         });
-
+        $('.close_video, .custom_backdrop').click(function(){
+            $(".modal-backdrop").remove();
+	        $(".popup_home").remove();
+        })
     });
 </script>
