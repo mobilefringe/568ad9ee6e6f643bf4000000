@@ -19,7 +19,7 @@
                     <a role="button" id="video_player_mb"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497015227000/Video Box_retail_0.5.png" class="" alt=""></a>
                     <!--<iframe width="100%" height="250" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>-->
                 </div>
-                <div class="col-md-6  col-sm-6" style="padding-top: 40px;padding-left: 50px;">
+                <div class="col-md-6  col-sm-6 why_retailM" style="padding-top: 40px;padding-left: 50px;">
                 <h2 class="heading">Why Retail Maverick?</h2>
                     <ul>
                         <li>Retail Maverick was created by Mobile Fringe and Mall Maverick to solve the retailer problem of getting their promotions published to all of their retail centres easily and consistently.</li>
