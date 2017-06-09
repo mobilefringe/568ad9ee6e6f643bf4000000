@@ -205,7 +205,7 @@
         
         $('#video_player_retailer, #video_player_mb').click(function(){
             $('#play_retail_video').show();
-            $("#play_retail_video iframe").attr('src', $("#play_retail_video iframe").attr('src') + '?rel=0&autoplay=1'); 
+            //$("#play_retail_video iframe").attr('src', $("#play_retail_video iframe").attr('src') + '?rel=0&autoplay=1'); 
             $('<div class="modal-backdrop custom_backdrop custom_backdrop_video" style="z-index:4"></div>').appendTo(document.body);
         });
         $('.close_video, .custom_backdrop_video').click(function(){
