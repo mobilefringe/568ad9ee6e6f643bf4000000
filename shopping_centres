@@ -109,7 +109,7 @@
             <div class="mm_images" >
                 <!--<a href="//www.mallmaverick.com" target="_blank"><img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496943733000/MM Logo-02.png" class="mallm_logo" alt=""></a>-->
                 <!--<img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496943783000/Fill 1.png" class="resize" alt="">-->
-                <a href="//www.mallmaverick.com" target="_blank"><img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497042079000/Mall Maverick Logo.png" class="" alt=""></a>
+                <a href="//www.mallmaverick.com" target="_blank"><img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497042079000/Mall Maverick Logo.png" class="" id="mm_images_img" alt=""></a>
             </div>
             
         </div>
