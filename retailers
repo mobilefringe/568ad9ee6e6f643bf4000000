@@ -161,7 +161,7 @@
             <!--    </div>-->
             <!--    <div class="col-md-1 hidden_phone"></div>-->
             <!--</div>-->
-            <div class="col-md-12 hidden-xs hidden-sm">
+            <div class="visible-md-block hidden-xs hidden-sm">
                 <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497024836000/desktop.png" class="" alt="">
             </div>
             <div class="visible-sm-block hidden-xs hidden-md">
