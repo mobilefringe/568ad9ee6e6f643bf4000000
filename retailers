@@ -33,7 +33,10 @@
                     <a role="button" id="video_player_retailer"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496954341000/Group 12.png" class="" alt=""></a>
                        
                 </div>
-                 
+                <div class="col-md-6 col-sm-6 hidden-xs video_container">
+                    <a role="button" id="video_player_retailer"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496954341000/Group 12.png" class="" alt=""></a>
+                       
+                </div>
             </div>
            
             <!--<div class="row margin_40">
