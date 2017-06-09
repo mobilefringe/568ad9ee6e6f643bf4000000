@@ -54,7 +54,7 @@
                                     <img class="resize" alt="logo" src="{{image_url}}">
                                     <div class="testimony_by">
                                         <b>Testimonial By:</b><br/>
-                                        // {{title}} <br/>
+                                        <!--{{title}} <br/>-->
                                        {{author}}
                                     </div>
                                 </div>
