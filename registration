@@ -7,6 +7,7 @@
       margin-bottom:15px;
   }
   .custom_control{margin-bottom: 40px;}
+  
 </style>
 <section id="signup" class="">
     <div class="main_container">
