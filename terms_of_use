@@ -12,6 +12,10 @@
       margin-right:20px;
       margin:left:20px;
   }
+  .desc {
+      margin-right:20px;
+      margin:left:20px;
+  }
 </style>
 <section id="signup" class="">
     <div class="main_container">
