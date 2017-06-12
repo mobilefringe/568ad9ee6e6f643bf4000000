@@ -80,8 +80,11 @@
             <div class="main_container">
                 <div class="row margin_10">
                     <div class="col-sm-6 col-md-7">
-                        <div >
+                        <div class="hidden_phone">
                             1.888.854.5796 ext. 106
+                        </div>
+                        <div class="show_phone">
+                            <a href="tel:{{phone}}" >{{phone}}</a>
                         </div>
                         <div class="social_icons_container hidden_phone">
                             <h5>Follow Us!</h5>
