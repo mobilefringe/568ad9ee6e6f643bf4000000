@@ -9,6 +9,8 @@
   .custom_control{margin-bottom: 40px;}
   h5{
       color: #FFBE1D;
+      margin-right:20px;
+      margin:left:20px;
   }
 </style>
 <section id="signup" class="">
