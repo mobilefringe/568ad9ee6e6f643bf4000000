@@ -32,7 +32,7 @@
                     <!--<p><b>Let us show you how!</b></p>-->
                     </div>
                  <div class="col-md-6 col-sm-6 hidden-xs hidden-sm video_container">
-                 <a role="button" id="video_player_shopping"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497038959000/forshopping.png" class="" alt=""></a>
+                 <a role="button" id="video_player_shopping"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497291923000/For Shoppers Desktop.png" class="" alt=""></a>
                 </div>
                 <div class="col-md-6 col-sm-6 hidden-xs hidden-md visible-sm-block video_container">
                  <a role="button" id="video_player_shopping"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497038958000/forretailTablet.png" class="" alt=""></a>
