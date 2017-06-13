@@ -73,7 +73,6 @@
         </div>
     </div>
 </section>
-<br />
 
 <script>
     $(document).ready(function(e){
