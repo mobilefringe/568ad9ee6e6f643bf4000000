@@ -89,7 +89,7 @@
                             
                         </div>
                         <div class="social_icons_container">
-                            <h5>Follow Us!</h5>
+                            <h5 style="text-align:left">Follow Us!</h5>
                             <a href="https://www.facebook.com/Retail-Maverick-227060277704943/" target="_blank"><span class="social_fb hvr-grow"></span></a>
                             <a href="https://twitter.com/RetailMaverick" target="_blank"><span class="social_twitter hvr-grow"></span></a>
                             <a href="https://www.instagram.com/retailmaverick/" target="_blank"><span class="social_insta hvr-grow"></span></a>
