@@ -66,8 +66,8 @@
     <div class="main_container">
         <div class="main_content">
             <div class="row margin_10">
-                <div class="col-xs-6"></div>
-                <div class="col-xs-6 col-md-5">
+                <div class="col-xs-5"></div>
+                <div class="col-xs-7 col-md-5">
                     <div class="col-xs-6">
                         <p class="compare_title mm">Retail Maverick</p>
                     </div>
