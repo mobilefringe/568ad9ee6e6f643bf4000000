@@ -78,10 +78,10 @@
                 <div class="col-md-1 hidden_phone"></div>
             </div>
             <div class="row margin_10">
-                <div class="col-xs-6 col-md-5 col-md-offset-1">
+                <div class="col-xs-5 col-md-5 col-md-offset-1">
                     <p class="compare">Better Price</p>
                 </div>
-                <div class="col-xs-6 col-md-5">
+                <div class="col-xs-7 col-md-5">
                     <div class="col-xs-6">
                         <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323324000/check_mark.png" class="check_mark" alt="">    
                     </div>
