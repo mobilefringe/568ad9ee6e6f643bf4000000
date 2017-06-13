@@ -88,7 +88,7 @@
                         <span><b style="font-weight:600">Contact Us:</b>&nbsp;<a href="tel: 1.888.854.5796" > 1.888.854.5796 ext. 106</a></span>
                             
                         </div>
-                        <div class="social_icons_container hidden_phone">
+                        <div class="social_icons_container">
                             <h5>Follow Us!</h5>
                             <a href="https://www.facebook.com/Retail-Maverick-227060277704943/" target="_blank"><span class="social_fb hvr-grow"></span></a>
                             <a href="https://twitter.com/RetailMaverick" target="_blank"><span class="social_twitter hvr-grow"></span></a>
