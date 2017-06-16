@@ -30,7 +30,7 @@
     <div class="headline">
         <div class="main_container text-center">
             <h2 class="heading">The largest network of retailer promotions <br>to shopping centres</h2>
-            <p class="headline_desc">Developed for Retailers looking to easily publish their promotions, job postings and blogs. We have over 1,000,000 views and 450,000 visitors waiting to shop at your store!</p>
+            <p class="headline_desc">Developed for Retailers looking to easily publish their promotions, job postings and blogs. <br/> We have over 1,000,000 views and 450,000 visitors waiting to shop at your store!</p>
                 <!--<p class="headline_desc show_phone">We have over 1,000,000! views and 450,000 visitors waiting to hear your message</p>-->
             <div>
                 <a href="/registration" class="main_btn">TRY RETAIL MAVERICK FOR FREE</a>
