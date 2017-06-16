@@ -43,7 +43,7 @@
 
 <section id="testimony" class="" style="background-color:#fff">
     <div class="main_container text-center">
-        <h2 class="heading ">Success Stories</h2>
+        <h2 class="heading "></h2>
         <div class="flexslider trim_screen" style="margin-bottom:0px;">
             <ul  id="testimony_container" class="slides">
                 <script id="testimony_template" type="x-tmpl-mustache/text">
