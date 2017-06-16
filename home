@@ -41,7 +41,7 @@
     </div>
 </section>
 
-<section id="testimony" class="" style="background-color:#fff">
+<section id="testimony" class="">
     <div class="main_container text-center">
         <!--<h2 class="heading ">Success Stories</h2>-->
         <div class="flexslider trim_screen" style="margin-bottom:0px;">
