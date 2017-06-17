@@ -17,25 +17,24 @@
         <div class="main_content" style="padding: initial;">
             <div class="row ">
                 <div class="col-xs-12 visible-xs-block video_container">
-                    <a role="button" id="video_player"><img style="z-index:1; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497291923000/For Shoppers Mobile.png" class="" alt=""></a>
+                    <a role="button" id="video_player"><img style="z-index:1; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497655610000/Group 79.png" class="" alt=""></a>
                     <!--<iframe width="100%" height="250" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>-->
                 </div>
                 <div class="col-md-6 col-sm-6 why_retailM">
-                 <h2 class="heading">Marketing Made Easy</h2>
+                    <h2 class="heading">Marketing Made Easy</h2>
                     <ul>
-                    <li>Tired of receiving hundreds of emails every week to post retail promotions?</li>
-                    <li>Always have engaged shoppers for your shopping centre and save over 8 hours a week for you and your team all at the same time.</li>
-                    <li>Retail Maverick will post all of your retailer promotions directly to your website automatically without you needing to do a thing!</li>
-                    <li>Digital Marketing has never been so easy. Let us show you how!</li>
+                        <li>Tired of receiving hundreds of emails every week to post retail promotions?</li>
+                        <li>Always have engaged shoppers for your shopping centre and save over 8 hours a week for you and your team all at the same time.</li>
+                        <li>Retail Maverick will post all of your retailer promotions directly to your website automatically without you needing to do a thing!</li>
+                        <li>Digital Marketing has never been so easy. Let us show you how!</li>
                     </ul>
-                    <!--<p><b>Let us show you how!</b></p>-->
-                    </div>
-                 <div class="col-md-6 col-sm-6 hidden-xs hidden-sm video_container">
-                 <a role="button" id="video_player_shopping"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497291923000/For Shoppers Desktop.png" class="" alt=""></a>
                 </div>
-                <div class="col-md-6 col-sm-6 hidden-xs hidden-md visible-sm-block video_container">
-                 <a role="button" id="video_player_shopping"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497291923000/For Shoppers Tablet.png" class="" alt=""></a>
+                <div class="col-md-6 col-sm-6 hidden-xs hidden-sm video_container">
+                    <a role="button" id="video_player_shopping"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497655578000/Group 78.png" class="" alt=""></a>
                 </div>
+                <!--<div class="col-md-6 col-sm-6 hidden-xs hidden-md visible-sm-block video_container">-->
+                <!-- <a role="button" id="video_player_shopping"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497291923000/For Shoppers Tablet.png" class="" alt=""></a>-->
+                <!--</div>-->
                 
                 <!--<div class="col-md-12 hidden-xs video_container">-->
                 <!--    <iframe width="600px" height="338" src="https://www.youtube.com/embed/OYfS6bS22mQ" frameborder="0" allowfullscreen></iframe>    -->
