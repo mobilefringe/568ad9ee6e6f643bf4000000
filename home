@@ -49,7 +49,7 @@
                 <script id="testimony_template" type="x-tmpl-mustache/text">
                    <li style="float: left; display: block;">
                         <div class="row hidden_phone">
-                            <div class="col-xs-12 col-sm-3 col-md-3">
+                            <div class="col-sm-3">
                                 <div class="testimonial_logo" >
                                     <img class="resize" alt="logo" src="{{image_url}}">
                                     <div class="testimony_by">
@@ -59,11 +59,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xs-12 col-sm-9 col-md-9">
+                            <div class="col-sm-9">
                                 <div style="padding:20px">
-                                    
                                     <div class="testimonial_quote">
-                                    <img class="resizeQuote" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816048000/QuoteIcon.png">
+                                        <img class="resizeQuote" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816048000/QuoteIcon.png">
                                         <div class="testimony_content" >
                                            {{{html_body}}}
                                         </div>
