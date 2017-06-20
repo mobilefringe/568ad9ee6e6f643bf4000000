@@ -70,8 +70,9 @@
 <script>
     $(document).ready(function(e){
         init();
-        $.validate();
+        
         $('#signup_form').submit(function(e){
+            $.validate();
             $('.send_btn').prop('disabled', true);
             e.preventDefault();
             var post_data = {}
