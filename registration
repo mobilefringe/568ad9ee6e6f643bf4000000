@@ -19,7 +19,7 @@
             <br/><br/>
         </p>
         <div class="row">
-            <div class="col-md-8 center_align">
+            <div class="col-md-12 center_align">
                 <form action="" method="post" id="signup_form">
                     <div class="row">
                         <div class="col-md-6">
