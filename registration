@@ -69,7 +69,7 @@
             $('.send_btn').prop('disabled', true);
             e.preventDefault();
             var post_data = {}
-            post_data.mailto = "info@retailmaverick.com, rachel@retailmaverick.com";
+            post_data.mailto = "info@retailmaverick.com, rachel@retailmaverick.com, daniela@retailmaverick.com, ardalan@retailmaverick.com";
             post_data.subject = "RM Sign up";
             custom = {};
             custom.name = $('#full_name').val();
