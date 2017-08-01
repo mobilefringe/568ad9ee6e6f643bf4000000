@@ -59,6 +59,9 @@
             
             renderGeneral('#desktop_container','#desktop_template', images);
         }
+        else {
+            
+        }
         
         show_content();
     }
