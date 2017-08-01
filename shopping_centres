@@ -86,15 +86,7 @@
 <!--        </div>-->
 <!--    </div>-->
 <!--</section>-->
-<section id="business_case">
-    <div class="center_align text-left">
-        <h2> Better than Google Adwords and Facebook Ads? </h2> 
-        <br/>
-        <h2> <b> Yes, it is true!</b></h2>
-        <a href="/pages/retailmaverick-business-case" class="btn">Read More</a>
-        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1501597090000/Rachel_Maverick_2x.png" class="" alt="">
-    </div>
-</section>
+
 <section id="visitors" class="">
     <div class="main_container text-center">
         <h1 class="visitors_title">Every Week Our Network Receives&nbsp;Over</h1>
