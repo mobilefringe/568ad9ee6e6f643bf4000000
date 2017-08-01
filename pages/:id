@@ -49,6 +49,9 @@
             $.each( images , function( key, val ) {
                 val.image_url="//mallmaverick.com" + val.photo_url;
                 if(image_url.indexOf("SLIDE8.png") > -1)
+                {
+                    
+                }
             });
             
             renderGeneral('#desktop_container','#desktop_template', images);
