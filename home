@@ -188,7 +188,9 @@
     </div>
 </section>
 <section id="business_case">
-    <div></div>
+    <div>
+        <h2> Better than Google Adwords and Facebook Ads? </h2>
+    </div>
 </section>
 <script>
     $(document).ready(function(){
