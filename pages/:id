@@ -68,6 +68,6 @@
             });
         }
         
-        show_content();
+        // show_content();
     }
 </script>
