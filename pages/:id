@@ -53,6 +53,9 @@
                    // val.show_click
                     val.click_link = "/register"
                 }
+                else {
+                     val.click_link =""
+                }
             });
             
             renderGeneral('#desktop_container','#desktop_template', images);
