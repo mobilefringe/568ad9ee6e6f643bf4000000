@@ -1,5 +1,5 @@
 <style>
-    #about_bc {
+    #about_bc img{
         width: 100%;
     height: auto;
     }
