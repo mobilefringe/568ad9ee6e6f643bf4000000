@@ -20,7 +20,9 @@
         <div class="main_content" style="padding: initial;">
             <div class="row">
                 <div id="mm_page_content" class="details_desc"></div>
-                <div id="desktop_container"></div>
+                <div id="desktop_container">
+                    <script id="desktop_template" type="x-tmpl/mustache"></script>
+                </div>
             </div>
         </div>
     </div>
