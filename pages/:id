@@ -35,7 +35,7 @@
     function renderPage(){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
-        
+        var gallery_slug = 
         prefix = get_prefix();
         var pages_json = prefix+"/pages/" + slug + ".json"
         $.getJSON(pages_json).done(function(data) {
@@ -45,7 +45,9 @@
             if (jqXHR.status == 404) {
                 $("#404_msg").fadeIn("fast");
             }
-        }); 
+        });
+        
+        var images = getFashionBySlug(gallery_slug).fashion_images;
         show_content();
     }
 </script>
