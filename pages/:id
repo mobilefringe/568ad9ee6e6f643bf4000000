@@ -11,6 +11,14 @@
         </div>
     </div>
 </section>
+<section id="about_retailers">
+    <div class="main_container">
+        <div class="main_content" style="padding: initial;">
+            <div class="row">
+            </div>
+        </div>
+    </div>
+</section>
 <div class="main_container mobile_padding">
     <div class="details_row">
         <div id="mm_page_content" class="details_desc"></div>
