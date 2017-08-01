@@ -45,7 +45,6 @@
         
         if (slug.indexOf("retailmaverick-business-case--2") > -1) {
             var images = getFashionBySlug("retailmaverick-business-case").fashion_images;
-            console.log(images);
             $.each( images , function( key, val ) {
                 val.image_url="//mallmaverick.com" + val.photo_url;
                 if(val.image_url.indexOf("SLIDE8.png") > -1)
