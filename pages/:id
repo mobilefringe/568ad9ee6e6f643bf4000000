@@ -21,7 +21,9 @@
             <div class="row">
                 <div id="mm_page_content" class="details_desc"></div>
                 <div id="desktop_container">
-                    <script id="desktop_template" type="x-tmpl/mustache"></script>
+                    <script id="desktop_template" type="x-tmpl/mustache">
+                        <img src="{{image_url}}"
+                    </script>
                 </div>
             </div>
         </div>
