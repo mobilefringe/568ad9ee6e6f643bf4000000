@@ -1,5 +1,8 @@
 <style>
-    
+    #about_bc {
+        width: 100%;
+    height: auto;
+    }
 </style>
 <section id="page_banner">
     <div class="main_container hero_container">
