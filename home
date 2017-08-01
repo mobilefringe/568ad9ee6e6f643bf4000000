@@ -188,7 +188,7 @@
     </div>
 </section>
 <section id="business_case">
-    
+    <div></div>
 </section>
 <script>
     $(document).ready(function(){
