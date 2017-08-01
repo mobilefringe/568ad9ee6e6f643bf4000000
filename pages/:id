@@ -1,3 +1,6 @@
+<style>
+    
+</style>
 <section id="page_banner">
     <div class="main_container hero_container">
         <div>
@@ -6,7 +9,7 @@
         </div>
     </div>
 </section>
-<section id="about_retailers">
+<section id="about_bc">
     <div class="main_container">
         <div class="main_content" style="padding: initial;">
             <div class="row">
