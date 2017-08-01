@@ -54,13 +54,13 @@
         }
         else {
             $.getJSON(pages_json).done(function(data) {
-            $('.page_title').html(data.title);
-            $('#mm_page_content').html(data.body);
-        }).fail(function(jqXHR) {
-            if (jqXHR.status == 404) {
-                $("#404_msg").fadeIn("fast");
-            }
-        });
+                $('.page_title').html(data.title);
+                $('#mm_page_content').html(data.body);
+            }).fail(function(jqXHR) {
+                if (jqXHR.status == 404) {
+                    $("#404_msg").fadeIn("fast");
+                }
+            });
         }
         
         show_content();
