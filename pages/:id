@@ -3,7 +3,7 @@
         width: 100%;
         height: auto;
     }
-     #about_bc p {
+     #about_bc .row {
          margin: 0;
      }
 </style>
