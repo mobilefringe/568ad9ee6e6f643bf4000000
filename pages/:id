@@ -45,7 +45,7 @@
                 $("#404_msg").fadeIn("fast");
             }
         });
-        
+        if (slug.indexOf("retailmaverick-business-case--2") > -1)
         var images = getFashionBySlug("retailmaverick-business-case").fashion_images;
         show_content();
     }
