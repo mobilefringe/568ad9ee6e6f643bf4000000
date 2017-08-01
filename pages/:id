@@ -28,7 +28,6 @@
         var slug = pathArray[pathArray.length-1];
         
         prefix = get_prefix();
-        // $('#top_banner').addClass(slug)
         var pages_json = prefix+"/pages/" + slug + ".json"
         $.getJSON(pages_json).done(function(data) {
             $('.page_title').html(data.title);
