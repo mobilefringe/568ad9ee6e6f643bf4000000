@@ -48,7 +48,7 @@
             console.log(images);
             $.each( images , function( key, val ) {
                 val.image_url="//mallmaverick.com" + val.photo_url;
-                if(image_url.indexOf("SLIDE8.png") > -1)
+                if(val.image_url.indexOf("SLIDE8.png") > -1)
                 {
                    // val.show_click
                     val.click_link = "/register"
