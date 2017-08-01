@@ -13,7 +13,7 @@
     </div>
 </section>
 <section id="about_bc">
-    <div class="main_container">
+    <div class="">
         <div class="main_content" style="padding: initial;">
             <div class="row">
                 <div id="mm_page_content" class="details_desc"></div>
