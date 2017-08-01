@@ -5,14 +5,8 @@
 <!--</div>-->
 <div class="main_container mobile_padding">
     <div class="details_row">
-        <div class="details_col_3 hidden_phone">
-            
-            <img id="side_image" src="//codecloud.cdn.speedyrails.net/sites/58332abd6e6f646f31040000/image/jpeg/1483737604000/dph_440x1200_side_privacy.jpg" />
-            
-        </div>
-        <div class="details_col_9">
-            <div id="mm_page_content" class="details_desc"></div>
-        </div>
+        <div id="mm_page_content" class="details_desc"></div>
+      
     </div>
 </div>
 
