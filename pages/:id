@@ -3,6 +3,9 @@
         width: 100%;
         height: auto;
     }
+     #about_bc p {
+         margin: 0;
+     }
 </style>
 <section id="page_banner">
     <div class="main_container hero_container">
