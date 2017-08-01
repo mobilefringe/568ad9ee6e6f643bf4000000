@@ -47,6 +47,17 @@
         });
         if (slug.indexOf("retailmaverick-business-case--2") > -1) {
             var images = getFashionBySlug("retailmaverick-business-case").fashion_images;
+            $.each( images , function( key, val ) {
+                    //val.taglist = val.taglist + " " + tag;
+                    //console.log(val.photo_url);
+                if(val.photo_url.indexOf("01_Front_Page") > -1) {
+                    val.image_url="//mallmaverick.com" + val.photo_url;
+                    sorted_images.push(val);
+                }    
+                //console.log( val.image_url);
+            });
+            
+            renderGeneral('#desktop_container','#desktop_template', images);
         }
         
         show_content();
