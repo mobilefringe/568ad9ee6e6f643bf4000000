@@ -42,14 +42,7 @@
         var slug = pathArray[pathArray.length-1];
         prefix = get_prefix();
         var pages_json = prefix+"/pages/" + slug + ".json"
-        $.getJSON(pages_json).done(function(data) {
-            $('.page_title').html(data.title);
-            $('#mm_page_content').html(data.body);
-        }).fail(function(jqXHR) {
-            if (jqXHR.status == 404) {
-                $("#404_msg").fadeIn("fast");
-            }
-        });
+        
         if (slug.indexOf("retailmaverick-business-case--2") > -1) {
             var images = getFashionBySlug("retailmaverick-business-case").fashion_images;
             console.log(images);
@@ -60,7 +53,14 @@
             renderGeneral('#desktop_container','#desktop_template', images);
         }
         else {
-            
+            $.getJSON(pages_json).done(function(data) {
+            $('.page_title').html(data.title);
+            $('#mm_page_content').html(data.body);
+        }).fail(function(jqXHR) {
+            if (jqXHR.status == 404) {
+                $("#404_msg").fadeIn("fast");
+            }
+        });
         }
         
         show_content();
