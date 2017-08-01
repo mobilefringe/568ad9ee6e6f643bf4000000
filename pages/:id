@@ -50,7 +50,7 @@
                 val.image_url="//mallmaverick.com" + val.photo_url;
                 if(image_url.indexOf("SLIDE8.png") > -1)
                 {
-                    
+                    val.click_link = "/register"
                 }
             });
             
