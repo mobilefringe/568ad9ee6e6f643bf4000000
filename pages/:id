@@ -47,7 +47,7 @@
             var images = getFashionBySlug("retailmaverick-business-case").fashion_images;
             $.each( images , function( key, val ) {
                 val.image_url="//mallmaverick.com" + val.photo_url;
-                if(val.image_url.indexOf("SLIDE8.png") > -1)
+                if(val.image_url.indexOf("SLIDE7.png") > -1)
                 {
                    // val.show_click
                     val.click_link = "/registration";
