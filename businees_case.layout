@@ -17,7 +17,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/css/1501705020000/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/css/1501705924000/index.css?crc=529740092" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/css/1501792286000/index.css?crc=529740092" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3912552627" id="nomq_pagesheet"/>
