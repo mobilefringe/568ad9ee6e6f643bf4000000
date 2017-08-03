@@ -74,7 +74,7 @@
      <div class="popup_anchor" id="u266popup">
       <div class="SlideShowContentPanel clearfix" id="u266"><!-- stack box -->
        <div class="SSSlide clip_frame grpelem" id="u267"><!-- image -->
-        <img class="ImageInclude" id="u267_img" data-src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/jpeg/1501705020000/background asset.jpg?crc=380305069" src="images/blank.gif?crc=4208392903" alt="" data-width="1200" data-height="469"/>
+        <img class="ImageInclude" id="u267_img" data-src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/jpeg/1501705020000/background asset.jpg?crc=380305069" src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/gif/1501705020000/blank.gif?crc=4208392903" alt="" data-width="1200" data-height="469"/>
        </div>
       </div>
      </div>
