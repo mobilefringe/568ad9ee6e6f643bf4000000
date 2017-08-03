@@ -50,6 +50,6 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
 </script>
   <!-- RequireJS script -->
-  <script src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/javascript/1501705020000/require.js?crc=85721165" type="text/javascript" async data-main="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/javascript/1501790238000/museconfig.js" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  <script src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/javascript/1501705020000/require.js5" type="text/javascript" async data-main="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/javascript/1501790238000/museconfig.js" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
    </body>
 </html>
