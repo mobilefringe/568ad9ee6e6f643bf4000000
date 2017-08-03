@@ -11,7 +11,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "1501705020000/museconfig.js", "1501705020000/jquery.musepolyfill.bgsize.js", "1501705020000/webpro.js", "1501705020000/musewpslideshow.js", "1501705020000/jquery.museoverlay.js", "1501705020000/touchswipe.js", "1501705020000/jquery.watch.js", "1501705020000/jquery.museresponsive.js", "1501705020000/require.js", "1501705020000/index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["1501705020000/museutils.js", "1501705020000/museconfig.js", "1501705020000/jquery.musepolyfill.bgsize.js", "1501705020000/webpro.js", "1501705020000/musewpslideshow.js", "1501705020000/jquery.museoverlay.js", "1501705020000/touchswipe.js", "1501705020000/jquery.watch.js", "1501705020000/jquery.museresponsive.js", "1501705020000/require.js", "1501705020000/index.css"], "outOfDate":[]};
 </script>
   
   <title>Home</title>
