@@ -102,7 +102,7 @@
         <div class="verticalspacer" data-offset-top="2749" data-content-above-spacer="2749" data-content-below-spacer="0"></div>
     </div>
 </div>
-  <div class="breakpoint" id="bp_375" data-max-width="375"><!-- responsive breakpoint node -->
+<div class="breakpoint" id="bp_375" data-max-width="375"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu878"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="u878"><!-- group -->
