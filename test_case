@@ -1,3 +1,13 @@
+<style>
+    /**** business case page ******/
+#u266popup {
+    text-align: center;
+}
+#u266 {
+    margin: 0 auto;
+}
+</style>
+
 <div class="breakpoint active" id="bp_infinity" data-min-width="376"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox" id="page"><!-- group -->
     <div class="clearfix grpelem" id="pu878"><!-- column -->
