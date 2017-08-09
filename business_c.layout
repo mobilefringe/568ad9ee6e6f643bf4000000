@@ -18,12 +18,12 @@
         <title></title>
     </head>
     <body>
-    <div id="sidebar">
-    <div id="outline">
-    </div>
-    </div>
-    <div class="loading-indicator">
-    
-    </div>
+        <div id="sidebar">
+        <div id="outline">
+        </div>
+        </div>
+        <div class="loading-indicator">
+        
+        </div>
     </body>
 </html>
