@@ -24,7 +24,9 @@
         </div>
         
         <div id="page-container">
+            {{yield}}
         </div>
+        
         <div class="loading-indicator">
         
         </div>
