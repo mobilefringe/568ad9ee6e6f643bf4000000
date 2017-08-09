@@ -22,3 +22,8 @@ theViewer.defaultViewer = new theViewer.Viewer({});
 <div id="outline">
 </div>
 </div>
+<div class="loading-indicator">
+
+</div>
+</body>
+</html>
