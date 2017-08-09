@@ -174,16 +174,15 @@
                 <span class="clip_frame grpelem placeholder" data-placeholder-for="u702_content"><!-- placeholder node --></span>
             </div>
         </div>
-    <div class="SlideShowWidget clearfix HeroFillFrame temp_no_id" data-orig-id="slideshowu250"><!-- none box -->
-     <div class="popup_anchor temp_no_id" data-orig-id="u266popup">
-      <div class="SlideShowContentPanel clearfix temp_no_id" data-orig-id="u266"><!-- stack box -->
-       <div class="SSSlide clip_frame grpelem temp_no_id" data-orig-id="u267"><!-- image -->
-        <img class="ImageInclude temp_no_id" data-src="images/background%20asset.jpg?crc=380305069" src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/gif/1501705020000/blank.gif?crc=4208392903" alt="" data-width="1024" data-height="400" data-orig-id="u267_img"/>
-       </div>
-      </div>
-     </div>
-    </div>
-    <span class="anchor_item grpelem placeholder" data-placeholder-for="scroll-down_content"><!-- placeholder node --></span>
-    <div class="verticalspacer" data-offset-top="2749" data-content-above-spacer="2749" data-content-below-spacer="0"></div>
-   </div>
-  </div>
+        <div class="SlideShowWidget clearfix HeroFillFrame temp_no_id" data-orig-id="slideshowu250"><!-- none box -->
+            <div class="popup_anchor temp_no_id" data-orig-id="u266popup">
+                <div class="SlideShowContentPanel clearfix temp_no_id" data-orig-id="u266"><!-- stack box -->
+                    <div class="SSSlide clip_frame grpelem temp_no_id" data-orig-id="u267"><!-- image -->
+                        <img class="ImageInclude temp_no_id" data-src="images/background%20asset.jpg?crc=380305069" src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/gif/1501705020000/blank.gif?crc=4208392903" alt="" data-width="1024" data-height="400" data-orig-id="u267_img"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <span class="anchor_item grpelem placeholder" data-placeholder-for="scroll-down_content"><!-- placeholder node --></span>
+        <div class="verticalspacer" data-offset-top="2749" data-content-above-spacer="2749" data-content-below-spacer="0"></div>
+    </div></div>
