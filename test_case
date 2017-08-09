@@ -5,6 +5,7 @@
 }
 #u266 {
     margin: 0 auto;
+        left: initial;
 }
 </style>
 
