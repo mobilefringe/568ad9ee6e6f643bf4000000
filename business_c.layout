@@ -22,6 +22,9 @@
             <div id="outline">
             </div>
         </div>
+        
+        <div id="page-container">
+        </div>
         <div class="loading-indicator">
         
         </div>
