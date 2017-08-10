@@ -1,3 +1,12 @@
+<section id="page_banner">
+    <div class="main_container hero_container">
+        <div>
+            <h2 class="page_title text-center"> Better than Google Adwords and Facebook Ads</h2>
+            <!--<p class="headline_desc">Working with Retail Maverick will make your life so much easier!</p>-->
+        </div>
+    </div>
+</section>
+
 <div class="bc_container">
     <div  id="bus_case_bg">
         <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/jpeg/1501705020000/background asset.jpg" class="" alt="">
