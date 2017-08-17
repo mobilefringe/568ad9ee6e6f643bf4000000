@@ -88,7 +88,8 @@
             
         <div>
             <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1501705020000/u642-7.png" class="top_text " alt="">
-            <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1501705020000/chart.png" class="bottom_text" alt="">
+            <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1501705020000/chart.png" class="bottom_text hidden_phone" alt="">
+             <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503001966000/chartm.png" class="side_image show_phone" alt="">
         </div>
         
         <!--<img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1501705020000/page 1.png" class="side_image" alt="">-->
