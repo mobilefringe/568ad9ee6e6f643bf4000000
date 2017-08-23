@@ -44,7 +44,7 @@
         <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503502429000/Bitmap Copy.png" class="side_image  show_phone" alt="">
         
     </div>
-    <div class="slide_alt show_phone">
+    <div class="slide_alt show_phone" id ="slide2_alt">
 
         <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503503623000/Slide2.png" class="" alt="">
         
