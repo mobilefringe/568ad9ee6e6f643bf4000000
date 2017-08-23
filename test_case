@@ -30,7 +30,7 @@
     
     
     
-    <div class="slide" id="slide2">
+    <div class="slide hidden_phone" id="slide2">
         <div class="grpelem shared_content orange_bar" id="u164" data-content-guid="u164_content"><!-- simple frame --></div>
             
         <div>
@@ -44,7 +44,11 @@
         <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503502429000/Bitmap Copy.png" class="side_image  show_phone" alt="">
         
     </div>
-    
+    <div class="slide_alt show_phone">
+
+        <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503503503000/Slide7.png" class="" alt="">
+        
+    </div>
     <div class="slide hidden_phone" id="slide3">
         <div class="grpelem shared_content orange_bar" id="u164" data-content-guid="u164_content"><!-- simple frame --></div>
             
