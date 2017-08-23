@@ -105,7 +105,7 @@
         <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503502132000/Slide4.png" class="" alt="">
         
     </div>
-    <div class="slide_long slide_taller" id="slide6">
+    <div class="slide_long slide_taller  hidden_phone" id="slide6">
         <div class="grpelem shared_content orange_bar" id="u164" data-content-guid="u164_content"><!-- simple frame --></div>
             
         <div>
