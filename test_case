@@ -133,7 +133,11 @@
         <!--<img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1501705020000/page 1.png" class="side_image" alt="">-->
         
     </div>
-    
+    <div class="slide_alt show_phone">
+
+        <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503502132000/Slide4.png" class="" alt="">
+        
+    </div>
    <div class="register_btn ">
         <a href="/registration" class="main_btn">CLICK HERE TO SIGN UP TODAY</a>
     </div>
