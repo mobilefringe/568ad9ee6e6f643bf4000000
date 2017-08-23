@@ -89,7 +89,18 @@
        
         
     </div>
-    
+    <div class=" show_phone" id="slide4_alt">
+       
+        <!--<div>-->
+        <!--    <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503498202000/Using data from the Copy.png" class="top_text hidden_phone" alt="">-->
+        <!--    <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503498208000/The Retailer had 100.png" class="bottom_text hidden_phone" alt="">-->
+        <!--     <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503003393000/u487-4mm.png" class="top_text title show_phone" alt="">-->
+        <!--    <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503003401000/u483-9mm.png" class="bottom_text show_phone" alt="">-->
+        <!--</div>-->
+        <!--<div class="orange_circle" ></div>-->
+        <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503502125000/Slide3.png" class="" alt="">
+        
+    </div>
     <div class="slide_long" id="slide5">
         <div class="grpelem shared_content orange_bar" id="u164" data-content-guid="u164_content"><!-- simple frame --></div>
             
