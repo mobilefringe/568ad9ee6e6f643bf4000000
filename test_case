@@ -45,7 +45,7 @@
         
     </div>
     
-    <div class="slide" id="slide3">
+    <div class="slide hidden_phone" id="slide3">
         <div class="grpelem shared_content orange_bar" id="u164" data-content-guid="u164_content"><!-- simple frame --></div>
             
         <div>
