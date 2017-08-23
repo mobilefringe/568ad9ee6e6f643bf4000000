@@ -122,7 +122,7 @@
         <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503502132000/Slide4.png" class="" alt="">
         
     </div>
-    <div class="slide_long slide_taller" id="slide7">
+    <div class="slide_long slide_taller  hidden_phone" id="slide7">
        
         <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1501705020000/dude.png" class="rside_image" alt="">    
         <div>
