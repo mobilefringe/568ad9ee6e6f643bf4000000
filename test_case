@@ -59,7 +59,7 @@
         
     </div>
     
-    <div class="slide hidden_phone" id="slide3_alt">
+    <div class="slide show_phone" id="slide3_alt">
         <div class="grpelem shared_content orange_bar" id="u164" data-content-guid="u164_content"><!-- simple frame --></div>
             
         <div>
