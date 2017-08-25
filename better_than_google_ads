@@ -27,18 +27,18 @@
     
     <div class="slide_wrapper hidden_phone">
         <div class="slide " id="slide2">
-        <div class="grpelem shared_content orange_bar" id="u164" data-content-guid="u164_content"><!-- simple frame --></div>
-            
-        <div>
-            <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503498186000/To put the Retail Ma.png" class="top_text hidden_phone" alt="">
-            <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503498196000/That’s right, we too.png" class="bottom_text hidden_phone" alt="">
-            <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503502106000/To put the Retail Ma Copy.png" class="top_text title show_phone" alt="">
+            <div class="grpelem shared_content orange_bar" id="u164" data-content-guid="u164_content"><!-- simple frame --></div>
+                
+            <div>
+                <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503498186000/To put the Retail Ma.png" class="top_text hidden_phone" alt="">
+                <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503498196000/That’s right, we too.png" class="bottom_text hidden_phone" alt="">
+                <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503502106000/To put the Retail Ma Copy.png" class="top_text title show_phone" alt="">
             </div>
-        
-        <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/jpeg/1501705020000/shutterstock_26119678.jpg" class="side_image circle_image hidden_phone" alt="">
-        <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503502429000/Bitmap Copy.png" class="side_image  show_phone" alt="">
-        
-    </div>
+            
+            <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/jpeg/1501705020000/shutterstock_26119678.jpg" class="side_image circle_image hidden_phone" alt="">
+            <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503502429000/Bitmap Copy.png" class="side_image  show_phone" alt="">
+            
+        </div>
     </div>
     
     <div class="slide_alt show_phone" id ="slide2_alt">
