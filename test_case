@@ -12,7 +12,7 @@
     <!--    BETTER THAN GOOGLE ADWORDS<br/> AND FACEBOOK ADS-->
     <!--</div>-->
     
-    <div class="slide_wrapper">
+    <div class="slide_wrapper hidden_phone">
         <div class="slide " id="slide1">
         <div class="grpelem shared_content orange_bar" id="u164" data-content-guid="u164_content"><!-- simple frame --></div>
             
