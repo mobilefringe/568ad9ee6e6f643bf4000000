@@ -36,6 +36,9 @@
     <!--    <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503507718000/Slide1_2x.png" class="" alt="">-->
         
     <!--</div>-->
+    <div class="slide_wrapper">
+        
+    </div>
     <div class="slide hidden_phone" id="slide2">
         <div class="grpelem shared_content orange_bar" id="u164" data-content-guid="u164_content"><!-- simple frame --></div>
             
@@ -52,6 +55,9 @@
     <div class="slide_alt show_phone" id ="slide2_alt">
 
         <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1503512156000/Slide2.png" class="" alt="">
+        
+    </div>
+    <div class="slide_wrapper">
         
     </div>
     <div class="slide hidden_phone" id="slide3">
