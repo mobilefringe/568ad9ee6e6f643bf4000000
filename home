@@ -150,7 +150,9 @@
         <img src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/image/png/1504120637000/RI_Mockup@2x.png" class="RI_desktop_image" alt="">
         <span style="width:100%;padding:50px"></span>
     </div>
-       
+       <div class="register_btn ">
+        <a href="/registration" class="main_btn">CLICK HERE TO SIGN UP TODAY</a>
+    </div>
         <!--<h1 class="visitors_title"><span class="visitors_numbers">500,000</span> Visitors & <span class="visitors_numbers">1 Million</span> Views</h1>-->
     </div>
 </section>
