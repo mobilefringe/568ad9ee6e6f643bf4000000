@@ -210,6 +210,7 @@
         </div>
     </div>
 </section>
+
 <section id="business_case">
     <div class="main_container text-center">
         <h2 class="text-left"> Better than Google Adwords and <br class="show-break"/>Facebook Ads? </h2> 
@@ -221,6 +222,7 @@
          <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1501597090000/Rachel_Maverick_2x.png" class="" alt="">
     </div>
 </section>
+
 <script>
     $(document).ready(function(){
         init();
