@@ -83,7 +83,7 @@
 <!--        <h1 class="visitors_title"><span class="visitors_numbers">500,000</span> Visitors & <span class="visitors_numbers">1&nbsp;Million</span> Views</h1>-->
 <!--    </div>-->
 <!--</section>-->
-<section id="visitors" class="">
+<section id="visitors" class="retailers">
     <div class="main_container text-center">
         <div class="visitor_inner_container">
              <h1 class="visitors_title">Retail Mavrick was featured on <br/>canada's top online retail news outlet</h1>
