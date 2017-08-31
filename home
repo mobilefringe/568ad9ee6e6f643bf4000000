@@ -212,7 +212,7 @@
 </section>
 <section id="business_case">
     <div class="main_container text-center">
-        <h2 class="text-left"> Better than Google Adwords and Facebook Ads? </h2> 
+        <h2 class="text-left"> Better than Google Adwords and <br class="show-break"/>Facebook Ads? </h2> 
         <div class="center_align text-left its_true">
             <br/>
             <h2 class="its_true"> <b> Yes, it is true!</b></h2>
