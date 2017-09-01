@@ -214,7 +214,7 @@
 <section id="business_case">
     <div class="main_container ">
         <h2 class="text-left"> Better than Google Adwords and <br class="show-break"/>Facebook Ads? </h2> 
-        <div class="center_align text-left its_true">
+        <div class="center_align text-left its_true show_phone">
             <br/>
             <h2 class="its_true"> <b> Yes, it is true!</b></h2><br class="show-break-mobile"/>
             <a href="/better_than_google_ads" class="btn">Read More</a>
