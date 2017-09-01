@@ -164,7 +164,7 @@
     </div>
 </section>
 
-<section id="how_it_works" class="hidden_phone">
+<section id="how_it_works" class="">
     <div class="main_container text-center">
         <h2 class="heading margin_60">How It Works</h2>
         <div class="row">
