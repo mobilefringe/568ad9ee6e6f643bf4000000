@@ -219,7 +219,7 @@
             <h2 class="its_true"> <b> Yes, it is true!</b></h2><br class="show-break-mobile"/>
             <a href="/better_than_google_ads" class="btn">Read More</a>
         </div>
-        <div class="center_align text-left its_true hidden_phone">
+        <div class="center_align text-left its_true hidden_phone text-center">
             <br/>
             <h2 class="its_true"> <b> Yes, it is true!</b></h2><br class="show-break-mobile"/>
             <a href="/better_than_google_ads" class="btn">Read More</a>
