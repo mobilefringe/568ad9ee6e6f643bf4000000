@@ -1,25 +1,25 @@
-<div class="popup_home hidden_now">
-    <div class="col-xs-12 col-sm-7 col-md-7">
-        <div id="popup_column1">
-            <img style="margin-bottom:10px" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495830680000/Rm Popup Logo.png" alt="pop up" />
-            <h3 id="popup_enjoy"> ENJOY THE FIRST MONTH <br/> OF RETAIL MAVERICK</h3>
-            <div id="popup_forfree">
-                <h3 style="font-weight:600;padding-top:4px">FOR FREE!</h3>
-            </div>
-            <a href="/registration" class="main_btn hidden_phone" id="popup_register">
-                REGISTER NOW
-            </a>
-            <p class="close_popup"><a href="#"><u>Close this box</u> </a></p>
-        </div>
-    </div>
-    <div class="col-xs-12 col-sm-5 col-md-5" id="popup_picture">
-        <div id="popup_column2">
+<!--<div class="popup_home hidden_now">-->
+<!--    <div class="col-xs-12 col-sm-7 col-md-7">-->
+<!--        <div id="popup_column1">-->
+<!--            <img style="margin-bottom:10px" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495830680000/Rm Popup Logo.png" alt="pop up" />-->
+<!--            <h3 id="popup_enjoy"> ENJOY THE FIRST MONTH <br/> OF RETAIL MAVERICK</h3>-->
+<!--            <div id="popup_forfree">-->
+<!--                <h3 style="font-weight:600;padding-top:4px">FOR FREE!</h3>-->
+<!--            </div>-->
+<!--            <a href="/registration" class="main_btn hidden_phone" id="popup_register">-->
+<!--                REGISTER NOW-->
+<!--            </a>-->
+<!--            <p class="close_popup"><a href="#"><u>Close this box</u> </a></p>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="col-xs-12 col-sm-5 col-md-5" id="popup_picture">-->
+<!--        <div id="popup_column2">-->
             <!--<img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496082247000/Store2017Logo1x.png" alt="pop up" />-->
             <!--<h1 id = "popup_RCC"> RCC STORE CONFERENCE <b>SPECIAL</b></h1><br/>-->
             <!--<h3 stlye="font-size:18px" id="popup_limit"> Limited Time Offer!</h3>-->
-        </div>
-    </div>
-</div>
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 
 <section id="video" class="position_relative ">
     <video loop autoplay id="bgvid" poster="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/jpeg/1491497572000/video_still.jpg">
