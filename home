@@ -275,7 +275,7 @@
         //     $.cookie("popup_viewed", "true", { expires: 1 });
         //     var popup = getPopups()[0];
         //     if (popup != undefined){
-        //         $('<div class="modal-backdrop custom_backdrop_popup"></div>').appendTo(document.body);
+        //         $('<div class="modal-backdrop cuspoptom_backdrop_popup"></div>').appendTo(document.body);
         //         $('.popup_home').show();
         //     }
         // }
