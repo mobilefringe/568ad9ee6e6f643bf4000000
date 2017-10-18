@@ -121,11 +121,6 @@
                 <p class="pull-left">
                      &copy;2017 Retail Maverick. All right reserved.
                 </p>
-                <div>
-                <a href="/registration" class="main_btn">TRY RETAIL MAVERICK FOR FREE</a>
-                <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
-                <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
-                </div>
                 <p class="pull-right">
                     Powered by <a href="//mobilefringe.com" target="_blank" class="mm_link">Mobile Fringe</a>
                 </p>
