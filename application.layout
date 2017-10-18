@@ -75,7 +75,7 @@
         </section>
         
         {{yield}}
-        <section id="newsletter" class="">
+        <section id="try_rm" class="">
         </section>
         <section id="newsletter" class="">
             <div class="main_container">
