@@ -75,7 +75,8 @@
         </section>
         
         {{yield}}
-        
+        <section id="newsletter" class="">
+        </section>
         <section id="newsletter" class="">
             <div class="main_container">
             <!--<div class="row margin_10">-->
