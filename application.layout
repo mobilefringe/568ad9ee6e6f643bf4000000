@@ -76,7 +76,8 @@
         
         {{yield}}
         <section id="try_rm" class="">
-        CLICK HERE TO TRY RETAIL MAVERICK FOR FREE
+        <a href="/registration" class="main_btn" style="    margin-top: 30px;text-align: center;">TRY RETAIL MAVERICK FOR FREE</a>
+        
         </section>
         <section id="newsletter" class="">
             <div class="main_container">
