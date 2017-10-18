@@ -105,11 +105,11 @@
                         </div>
                     </div>
                     
-                         <div  class="col-sm-4 col-md-4">
-                            <a href="/registration" class="main_btn" style="    margin-top: 30px;text-align: center;">TRY RETAIL MAVERICK FOR FREE</a>
+                        <!-- <div  class="col-sm-4 col-md-4">-->
+                        <!--    <a href="/registration" class="main_btn" style="    margin-top: 30px;text-align: center;">TRY RETAIL MAVERICK FOR FREE</a>-->
                             <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>-->
                             <!--<a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
-                        </div>
+                        <!--</div>-->
                     <div class="col-sm-4 col-md-4">
                         
                         <div class="newsletter_div">
