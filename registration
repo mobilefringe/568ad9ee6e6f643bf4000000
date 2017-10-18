@@ -69,6 +69,7 @@
 
 <script>
     $(document).ready(function(e){
+        $("#try_rm").hide();
         init();
         $.validate();
         $('#signup_form').submit(function(e){
