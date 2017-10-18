@@ -78,6 +78,13 @@
         
         <section id="newsletter" class="">
             <div class="main_container">
+            <div class="row margin_10">
+                <div>
+                            <a href="/registration" class="main_btn">TRY RETAIL MAVERICK FOR FREE</a>
+                            <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
+                            <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
+                        </div>
+            </div>
                 <div class="row margin_10">
                     <div class="col-sm-6 col-md-7">
                         <div class="hidden_phone">
