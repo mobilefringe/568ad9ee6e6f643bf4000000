@@ -97,11 +97,7 @@
                             <a href="https://www.linkedin.com/company/retail-maverick" target="_blank"><span class="social_linkedin hvr-grow"></span></a>
                         </div>
                     </div>
-                    <div>
-                            <a href="/registration" class="main_btn">TRY RETAIL MAVERICK FOR FREE</a>
-                            <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
-                            <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
-                        </div>
+                    
                         <!-- <div  class="col-sm-4 col-md-4">-->
                         <!--    <a href="/registration" class="main_btn">TRY RETAIL MAVERICK FOR FREE</a>-->
                             <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
