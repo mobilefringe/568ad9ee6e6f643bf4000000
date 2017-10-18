@@ -79,7 +79,7 @@
         <section id="newsletter" class="">
             <div class="main_container">
                 <div class="row margin_10">
-                    <div class="col-sm-4 col-md-4">
+                    <div class="col-sm-6 col-md-7">
                         <div class="hidden_phone">
                         <span><b style="font-weight:600">Contact Us:</b>&nbsp;1.888.854.5796 ext. 106</span>
                         </div>
@@ -97,12 +97,7 @@
                             <a href="https://www.linkedin.com/company/retail-maverick" target="_blank"><span class="social_linkedin hvr-grow"></span></a>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-md-4">
-                        <a href="/registration" class="main_btn">TRY RETAIL MAVERICK FOR FREE</a>
-                        <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
-                        <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
-                    </div>
-                    <div class="col-sm-4 col-md-4">
+                    <div class="col-sm-6 col-md-5">
                         <div class="newsletter_div">
                             <h5>Subscribe & Get Updates!</h5> 
                             <form action="//mobilefringe.createsend.com/t/d/s/huftl/" method="post" id="subForm">
