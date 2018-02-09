@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{{meta_title}}</title>
+        <link rel="shortcut icon" href="" />
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{meta_description}}">
+        <meta name="keywords" content="{{meta_keywords}}">
+        <meta name="author" content="">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/flexslider.css" rel="stylesheet">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link href="../application.css" rel="stylesheet">
+        <link href="../modal.css" rel="stylesheet">
+        
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/jquery.flexslider.js"></script>
+        <script src="//s3.amazonaws.com/kodekloud/sites/568ad9ee6e6f643bf4000000/application/x-javascript/1474999721000/bootbox.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.3.26/jquery.form-validator.min.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/text/javascript/1495729152000/jquery.cookie.js"></script>
+        
+        <!--MallMaverick SDK-->
+        <script src="//mallmaverick.codecloudapp.com/mallmaverick_v3.1.js"></script>
+        <script src="//mallmaverick.codecloudapp.com/mustache_mallmaverick.js?v=0.3"></script>
+    
+        <script src="../application.js"></script>
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+            ga('create', 'UA-69974835-3', 'auto');
+            ga('send', 'pageview');
+            
+        </script>
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <!-- Site data -->
+        <script>
+            setEndPoint('http://retailmaverick.mallmaverick.com//api/v3/retailmaverick/all.json');
+        </script>
+    
+    </head>
+    <body id="top" data-spy="scroll" data-target="#navigation">
+        <section id="header">
+            <div class="main_container">
+                <a href="/">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496949417000/RM-New-Logo.png" class="main_logo" alt="logo">
+                </a>
+                <div id="menu-icon">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </div>
+                <!--<img id="open_menu" src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1452023412000/menu_mobile.png" class="menu_icons" alt="Open Menu">-->
+                <!--<img id="close_menu" src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1452023426000/close_menu.png" class="menu_icons" alt="Close Menu">-->
+                <ul class="custom_nav" id="menu">
+                    <li><a href="/retailers">For Retailers</a></li>
+                    <li><a href="/shopping_centres">For Shopping Centres</a></li>
+                    <li><a href="/registration">Register</a></li>
+                    <li><a href="mailto:info@retailmaverick.com" class="sign_up">Contact Us</a></li>
+                </ul>
+            </div>
+        </section>
+        
+        {{yield}}
+        <section id="try_rm" class="">
+        <a href="/registration" style="">CLICK HERE TO TRY RETAIL MAVERICK FOR FREE</a>
+        
+        </section>
+        <section id="newsletter" class="">
+            <div class="main_container">
+            <!--<div class="row margin_10">-->
+            <!--    <div>-->
+            <!--                <a href="/registration" class="main_btn">TRY RETAIL MAVERICK FOR FREE</a>-->
+                            <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
+                            <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
+            <!--            </div>-->
+            <!--</div>-->
+                <div class="row margin_10">
+                    <div class="col-sm-6 col-md-6">
+                        <div class="hidden_phone">
+                        <span><b style="font-weight:600">Contact Us:</b>&nbsp;1.888.854.5796 ext. 106</span>
+                        </div>
+                        <div class="show_phone">
+                        
+                        <span><b style="font-weight:600">Contact Us:</b>&nbsp;<a href="tel: 1.888.854.5796" > 1.888.854.5796 ext. 106</a></span>
+                            
+                        </div>
+                        <div class="social_icons_container">
+                            <h5 style="text-align:left">Follow Us!</h5>
+                            <a href="https://www.facebook.com/Retail-Maverick-227060277704943/" target="_blank"><span class="social_fb hvr-grow"></span></a>
+                            <a href="https://twitter.com/RetailMaverick" target="_blank"><span class="social_twitter hvr-grow"></span></a>
+                            <a href="https://www.instagram.com/retailmaverick/" target="_blank"><span class="social_insta hvr-grow"></span></a>
+                            <a href="https://www.youtube.com/channel/UCOVt0QAmqDEz0zyvhCG2UBg" target="_blank"><span class="social_youtube hvr-grow"></span></a>
+                            <a href="https://www.linkedin.com/company/retail-maverick" target="_blank"><span class="social_linkedin hvr-grow"></span></a>
+                        </div>
+                    </div>
+                    
+                        <!-- <div  class="col-sm-4 col-md-4">-->
+                        <!--    <a href="/registration" class="main_btn" style="    margin-top: 30px;text-align: center;">TRY RETAIL MAVERICK FOR FREE</a>-->
+                            <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>-->
+                            <!--<a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
+                        <!--</div>-->
+                    <div class="col-sm-6 col-md-6">
+                        
+                        <div class="newsletter_div">
+                        
+                            <h5>Subscribe & Get Updates!</h5> 
+                            <form action="//mobilefringe.createsend.com/t/d/s/huftl/" method="post" id="subForm">
+                                <input type="text" name="cm-huftl-huftl" class="form-control custom_form_control" placeholder="Enter Email" required />
+                                <input type="submit" value="SUBMIT" class="submit_btn hidden_phone" />
+                                <input id="agree_terms" type="checkbox" value="true" class="checkbox-custom">
+                                <label for="agree_terms" class="confirm_label checkbox-custom-label">
+                                    I agree to receive email messaging from Retail Maverick
+                                </label>
+                                <input type="submit" value="SUBMIT" class="submit_btn show_phone" />
+                                <h5 id="subscription_confirmed">Thank you for subscribing!</h5>
+                            </form>
+                        </div>
+                    </div>
+                    <!--<div class="col-sm-4 col-md-4">-->
+                    <!--    <div class="hidden_phone">-->
+                    <!--    <span><b style="font-weight:600">Contact Us:</b>&nbsp;1.888.854.5796 ext. 106</span>-->
+                    <!--    </div>-->
+                    <!--    <div class="show_phone">-->
+                        
+                    <!--    <span><b style="font-weight:600">Contact Us:</b>&nbsp;<a href="tel: 1.888.854.5796" > 1.888.854.5796 ext. 106</a></span>-->
+                            
+                    <!--    </div>-->
+                    <!--    <div class="social_icons_container">-->
+                    <!--        <h5 style="text-align:left">Follow Us!</h5>-->
+                    <!--        <a href="https://www.facebook.com/Retail-Maverick-227060277704943/" target="_blank"><span class="social_fb hvr-grow"></span></a>-->
+                    <!--        <a href="https://twitter.com/RetailMaverick" target="_blank"><span class="social_twitter hvr-grow"></span></a>-->
+                    <!--        <a href="https://www.instagram.com/retailmaverick/" target="_blank"><span class="social_insta hvr-grow"></span></a>-->
+                    <!--        <a href="https://www.youtube.com/channel/UCOVt0QAmqDEz0zyvhCG2UBg" target="_blank"><span class="social_youtube hvr-grow"></span></a>-->
+                    <!--        <a href="https://www.linkedin.com/company/retail-maverick" target="_blank"><span class="social_linkedin hvr-grow"></span></a>-->
+                    <!--    </div>-->
+                    <!--</div>-->
+                    
+                    <!--     <div  class="col-sm-4 col-md-4">-->
+                    <!--        <a href="/registration" class="main_btn" style="    margin-top: 30px;text-align: center;">TRY RETAIL MAVERICK FOR FREE</a>-->
+                            <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>-->
+                            <!--<a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
+                    <!--    </div>-->
+                    <!--<div class="col-sm-4 col-md-4">-->
+                        
+                    <!--    <div class="newsletter_div">-->
+                        
+                    <!--        <h5>Subscribe & Get Updates!</h5> -->
+                    <!--        <form action="//mobilefringe.createsend.com/t/d/s/huftl/" method="post" id="subForm">-->
+                    <!--            <input type="text" name="cm-huftl-huftl" class="form-control custom_form_control" placeholder="Enter Email" required />-->
+                    <!--            <input type="submit" value="SUBMIT" class="submit_btn hidden_phone" />-->
+                    <!--            <input id="agree_terms" type="checkbox" value="true" class="checkbox-custom">-->
+                    <!--            <label for="agree_terms" class="confirm_label checkbox-custom-label">-->
+                    <!--                I agree to receive email messaging from Retail Maverick-->
+                    <!--            </label>-->
+                    <!--            <input type="submit" value="SUBMIT" class="submit_btn show_phone" />-->
+                    <!--            <h5 id="subscription_confirmed">Thank you for subscribing!</h5>-->
+                    <!--        </form>-->
+                    <!--    </div>-->
+                    <!--</div>-->
+                </div>
+            </div>
+        </section>
+        
+        <section id="footer">
+            <div class="main_container">
+                <p class="pull-left">
+                     &copy;2018 Retail Maverick. All right reserved.
+                </p>
+                <p class="pull-right">
+                    Powered by <a href="//mobilefringe.com" target="_blank" class="mm_link">Mobile Fringe</a>
+                </p>
+            </div>
+        </section>
+    </body>
+</html>
