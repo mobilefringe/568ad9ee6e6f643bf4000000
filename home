@@ -1,0 +1,296 @@
+<!--<div class="popup_home hidden_now">-->
+<!--    <div class="col-xs-12 col-sm-7 col-md-7">-->
+<!--        <div id="popup_column1">-->
+<!--            <img style="margin-bottom:10px" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495830680000/Rm Popup Logo.png" alt="pop up" />-->
+<!--            <h3 id="popup_enjoy"> ENJOY THE FIRST MONTH <br/> OF RETAIL MAVERICK</h3>-->
+<!--            <div id="popup_forfree">-->
+<!--                <h3 style="font-weight:600;padding-top:4px">FOR FREE!</h3>-->
+<!--            </div>-->
+<!--            <a href="/registration" class="main_btn hidden_phone" id="popup_register">-->
+<!--                REGISTER NOW-->
+<!--            </a>-->
+<!--            <p class="close_popup"><a href="#"><u>Close this box</u> </a></p>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="col-xs-12 col-sm-5 col-md-5" id="popup_picture">-->
+<!--        <div id="popup_column2">-->
+            <!--<img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496082247000/Store2017Logo1x.png" alt="pop up" />-->
+            <!--<h1 id = "popup_RCC"> RCC STORE CONFERENCE <b>SPECIAL</b></h1><br/>-->
+            <!--<h3 stlye="font-size:18px" id="popup_limit"> Limited Time Offer!</h3>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+
+<section id="video" class="position_relative ">
+    <video loop autoplay id="bgvid" poster="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/jpeg/1491497572000/video_still.jpg">
+      <source src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/video/mp4/1491486606000/[RM] Video1.mp4" type="video/mp4">
+      <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/jpeg/1491497572000/video_still.jpg" class="" alt="poster">
+    </video>
+    <div class="custom_backdrop"></div>
+    <div class="headline">
+        <div class="main_container text-center">
+            <h2 class="heading">The largest network of retailer promotions <br>to shopping centres</h2>
+            <p class="headline_desc">Developed for Retailers looking to easily publish their promotions, job postings and blogs. <br class="hidden_phone"/> We have over 1,000,000 views and 500,000 visitors waiting to shop at your store!</p>
+                <!--<p class="headline_desc show_phone">We have over 1,000,000! views and 450,000 visitors waiting to hear your message</p>-->
+            <div>
+                <a href="/registration" class="main_btn">TRY RETAIL MAVERICK FOR FREE</a>
+                <!--<a href="/retailers" class="main_btn hidden_phone"> For Retailers</a>
+                <a href="/shopping_centres" class="main_btn hidden_phone">For Shopping Centres</a> -->
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="testimony" class="">
+    <div class="main_container text-center">
+        <!--<h2 class="heading ">Success Stories</h2>-->
+        <div class="flexslider trim_screen" style="margin-bottom:0px;">
+            <ul  id="testimony_container" class="slides">
+                <script id="testimony_template" type="x-tmpl-mustache/text">
+                   <li style="float: left; display: block;">
+                        <div class="row hidden_phone">
+                            <div class="col-sm-3">
+                                <div class="testimonial_logo" >
+                                    <img class="resize" alt="logo" src="{{image_url}}">
+                                    <div class="testimony_by">
+                                        <b>Testimonial By:</b><br/>
+                                        <!--{{title}} <br/>-->
+                                       {{author}}
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-9">
+                                <div style="padding:20px">
+                                    <div class="testimonial_quote">
+                                        <img class="resizeQuote" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816048000/QuoteIcon.png">
+                                        <div class="testimony_content" >
+                                           {{{html_body}}}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>  
+                        </div>
+                        <div class="row show_phone">
+                            <div class="col-xs-12 col-sm-3 col-md-3">
+                                <div class="testimonial_logo" >
+                                    <img class="resize" alt="logo" src="{{image_url}}">
+                                    <div class="testimony_by">
+                                        <b>Testimonial By:</b><br/>
+                                        <!--{{title}} <br/>-->
+                                       {{author}}
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-9 col-md-9">
+                                <div style="padding:20px">
+                                    <div class="testimonial_quote">
+                                    <img class="resizeQuote" alt="logo" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1495816048000/QuoteIcon.png">
+                                        <div class="testimony_content" >
+                                           {{{html_body}}}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </li>
+                </script>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section id="features" class="">
+    <div class="main_container text-center">
+        <!--<h2 class="heading margin_60">Why Retail Maverick?</h2>-->
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491398399000/icon01.png" class="feature_image" alt="Your Brand">
+                <h3 class="sub_heading">Your Brand Matters</h3>
+                <p class="desc2">Have your retail brand and promotions consistent across all of your retail&nbsp;locations.</p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491398434000/icon03.png" class="feature_image" alt="Increase Exposure">
+                <h3 class="sub_heading">Increase Exposure</h3>
+                <p class="desc2">Our network includes every retail centre in North&nbsp;America.</p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491398416000/icon02.png" class="feature_image" alt="Results Matter">
+                <h3 class="sub_heading">Results Matter</h3>
+                <p class="desc2">Increase your reach by over&nbsp;500%!</p>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491398459000/icon04.png" class="feature_image" alt="Peace of Mind">
+                <h3 class="sub_heading">Peace of Mind</h3>
+                <p class="desc2">We work with you to get every promotion posted on&nbsp;time.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--<section id="visitors" class="">-->
+<!--    <div class="main_container text-center">-->
+<!--        <h1 class="visitors_title">Every Week Our Network Receives&nbsp;Over</h1>-->
+<!--        <h1 class="visitors_numbers cap_it"><span class="visitors_numbers">450,000</span> Visitors <br class="visible_phone"/>& <span class="visitors_numbers">1&nbsp;Million </span> Views</h1>-->
+<!--    </div>-->
+<!--</section>-->
+<!--<section id="visitors" class="">-->
+<!--    <div class="main_container text-center">-->
+<!--        <h1 class="visitors_title">Every Week Our Network Receives&nbsp;Over</h1>-->
+<!--        <h1 class="visitors_title"><span class="visitors_numbers">500,000</span> Visitors & <span class="visitors_numbers">1 Million</span> Views</h1>-->
+<!--    </div>-->
+<!--</section>-->
+<section id="visitors" class="homepage">
+    <div class="main_container text-center">
+        <div class="visitor_inner_container">
+             <h1 class="visitors_title">Retail Mavrick was featured on <br/>canada's top online retail <br class="show-break"/>news outlet</h1>
+             <div class="retail_insider_images">
+                <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">
+                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504120676000/RI_Logo.png" class="RI_logo" alt="">
+                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504120637000/RI_Mockup@2x.png" class="RI_desktop_image hidden_phone" alt="">
+                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504123281000/RI_Mockupmobile@2x.png" class="RI_desktop_image show_phone" alt="">
+                <span style="width:100%;padding:50px"></span>
+                </a>
+            </div>
+            <div class="ri_article hidden_phone ">
+                <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">CLICK HERE TO LEARN MORE</a>
+            </div>
+            
+        </div>
+        
+        <!--<div class="ri_article show_phone ">-->
+        <!--    <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">LEARN MORE</a>-->
+        <!--</div>-->
+    </div>
+</section>
+
+<section id="how_it_works" class="">
+    <div class="main_container text-center">
+        <h2 class="heading margin_60">How It Works</h2>
+        <div class="row">
+            <div class="works_icon_container">
+                <div class="works_icon">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491333918000/hiw-icon-04.png" class="works_image" alt="promotions">   
+                    <h3 class="sub_heading">Register</h3>
+                    <p class="desc2">
+                        Register to Retail Maverick
+                    </p>
+                </div>
+                <div class="arrow_icon">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491321960000/arrow-forward.png" class="arrow" alt="Right Arrow">
+                </div>
+                <div class="works_icon">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491333891000/hiw-icon-02.png" class="works_image" alt="social">
+                    <h3 class="sub_heading">Email Us</h3>
+                    <p class="desc2">
+                        Email us your promotion
+                    </p>
+                </div>
+                <div class="arrow_icon">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491321960000/arrow-forward.png" class="arrow" alt="Right Arrow">
+                </div>
+                <div class="works_icon">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496074555000/PublishIcon100x100.png" class="works_image" alt="locations">
+                    <h3 class="sub_heading">We Publish</h3>
+                    <p class="desc2">
+                        We upload your promotion into our retail network
+                    </p>
+                </div>
+                <div class="arrow_icon">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491321960000/arrow-forward.png" class="arrow" alt="Right Arrow">
+                </div>
+                <div class="works_icon">
+                    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491333873000/hiw-icon-01.png" class="works_image" alt="locations">
+                    <h3 class="sub_heading">We Report</h3>
+                    <p class="desc2">
+                        We report weekly <br>on the results!
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="business_case">
+    <div class="main_container ">
+        <h2 class="text-left"> Better than Google Adwords and <br class="show-break"/>Facebook Ads? </h2> 
+        <div class="center_align text-left its_true show_phone">
+            <br/>
+            <h2 class="its_true"> <b> Yes, it is true!</b></h2><br class="show-break-mobile"/>
+            <a href="/better_than_google_ads" class="btn">Read More</a>
+        </div>
+         <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1501597090000/Rachel_Maverick_2x.png" class="" alt="">
+    </div>
+</section>
+
+<script>
+    $(document).ready(function(){
+        init();
+        scroll();
+        // $('.flexslider').flexslider({
+        //     animation: "slide",
+        //     controlNav: false,
+        //     directionNav: false,        
+        //     prevText: "Previous",
+        //     nextText: "Next"
+        // });
+        $('#signup_form').submit(function(e){
+            $('.send_btn').prop('disabled', true);
+            e.preventDefault();
+            var post_data = {}
+            post_data.mailto = "info@retailmaverick.com, george@retailmaverick.com";
+            post_data.subject = "RM Sign up";
+            custom = {};
+            custom.name = $('#full_name').val();
+            custom.email = $('#email').val()
+            custom.phone = $('#phone').val();
+            custom.retailer = $('#retailer').val();
+            post_data.custom = custom;
+            $.post("//home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
+                if(status == "success"){
+                        var dialog = bootbox.dialog({
+                            title: 'Thank you for contacting Retail Maverick',
+                            message: 'We have received your information. A Retail Maverick representative will be in touch with you in the next 2 to 3 business days.'
+                        }); 
+                    $.getJSON("//home.mallmaverick.com/retailer_maverick_sign_up?mailto=" + $('#email').val() + "&text_body=Thank you for joining Retail Maverick. One of our representatives will be in contact with you shortly to book a demo appointment.");
+                    $('#signup_form').trigger('reset');
+                    $('.send_btn').prop('disabled', false);
+                }
+                else{
+                    alert("Unable to process your request. Please try again later.");
+                }
+            });
+            $.getJSON(
+                this.action + "?callback=?",
+                $(this).serialize()
+            );
+        });
+        
+        
+        loadMallDataCached(renderAll);
+    });
+    
+    function renderAll(){
+        // if($.cookie("popup_viewed") != "true"){
+        //     $.cookie("popup_viewed", "true", { expires: 1 });
+        //     var popup = getPopups()[0];
+        //     if (popup != undefined){
+        //         $('<div class="modal-backdrop cuspoptom_backdrop_popup"></div>').appendTo(document.body);
+        //         $('.popup_home').show();
+        //     }
+        // }
+        // $('.close_popup').click(function(){
+        //     $(".modal-backdrop").remove();
+	       // $(".popup_home").remove();
+        // });
+        
+        var testimony = getBlogList();
+        renderTestimony("#testimony_container", "#testimony_template", testimony);
+        
+        $('.flexslider').flexslider({
+            animation: "slide"
+        });
+        $('.flex-next').html("");
+    }
+    
+</script>
