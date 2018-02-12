@@ -169,10 +169,10 @@ function renderSingleTestimony(container, template, collection){
     var item_rendered = [];
     var template_html = $(template).html();
     Mustache.parse(template_html); 
-    $.each( collection , function( key, val ) {
-        var repo_rendered = Mustache.render(template_html,val);
+    // $.each( collection , function( key, val ) {
+        var repo_rendered = Mustache.render(template_html,collection);
         item_rendered.push(repo_rendered);
        
-    });
+    // });
     $(container).html(item_rendered.join(''));
 }
