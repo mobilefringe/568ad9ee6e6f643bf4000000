@@ -183,7 +183,7 @@ function renderSingleItem(container, template, val){
     Mustache.parse(template_html); 
     // $.each( collection , function( key, val ) {
         console.log("renderGeneral",val)
-        var repo_rendered = Mustache.render(template_html,val);
+        var repo_rendered = Mustache.render(template_html,val.posts);
         item_rendered.push(repo_rendered);
     // });
     $(container).html(item_rendered.join(''));
