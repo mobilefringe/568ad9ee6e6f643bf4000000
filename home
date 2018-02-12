@@ -285,7 +285,7 @@
         // });
         
         var testimony = getBlogDataBySlug("retailmaverick-sport-check-testimony");//getBlogList();
-        renderTestimony("#testimony_container", "#testimony_template", testimony);
+        renderSingleTestimony("#testimony_container", "#testimony_template", testimony);
         
         $('.flexslider').flexslider({
             animation: "slide"
