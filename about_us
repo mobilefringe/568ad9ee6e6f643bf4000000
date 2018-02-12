@@ -1,0 +1,270 @@
+<section id="page_banner">
+    <div class="main_container hero_container">
+        <div>
+            <h2 class="page_title text-center">For Retailers</h2>
+            <p class="headline_desc">Working with Retail Maverick will make your life so much easier!</p>
+        </div>
+    </div>
+</section>
+<div class="play_video hidden_now" style="z-index:50" id="play_retail_video">
+    <iframe class="hidden_phone" width="800px" height="600px" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen align="middle"></iframe>
+    <iframe class="show_phone" width="100%" height="100%" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen align="middle"></iframe>
+    <i class="fa fa-remove close_video" style="z-index:51"></i>
+</div>
+<section id="about_retailers">
+    <div class="main_container">
+        <div class="main_content" style="padding: initial;">
+            <div class="row">
+                <div class="col-xs-12 visible-xs-block video_container">
+                    <a role="button" id="video_player_mb">
+                        <img style="z-index:1; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497655607000/Group 80.png" class="" alt="">
+                    </a>
+                    <!--<iframe width="100%" height="250" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>-->
+                </div>
+                <div class="col-sm-6 why_retailM" >
+                <h2 class="heading">Why Retail Maverick?</h2>
+                    <ul>
+                        <li>Retail Maverick was created by Mobile Fringe and Mall Maverick to solve the retailer problem of getting their promotions published to all of their retail centres easily and consistently.</li>
+                        <li>We have been working with hundreds of shopping centres for ten years and now we have the opportunity to work with all of them on your behalf.</li>
+                        <li>This puts us in the unique position to offer a service truly no one else can.</li>
+                        <li>We are an extension of your brand and your team.</li>
+                        <li>Don’t be fooled by others in the market place. When you look at the competition compared to Retail Maverick there is no comparison.</li>
+                    </ul>
+                </div>
+                 <div class="col-sm-6 hidden-xs video_container">
+                    <a role="button" id="video_player_retailer"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497655578000/Group 77.png" class="" alt=""></a>
+                       
+                </div>
+                <!--<div class="col-md-6 col-sm-6 hidden-xs hidden-md visible-sm-block video_container">-->
+                <!--    <a role="button" id="video_player_retailer"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497291923000/For Retailers Tablet.png" class="" alt=""></a>-->
+                       
+                <!--</div>-->
+            </div>
+           
+            <!--<div class="row margin_40">
+                <div class="col-md-6">
+                    <ul>
+                        <li>Retail Maverick was created by Mobile Fringe and Mall Maverick to solve the retailer problem of getting their promotions published to all of their retail centres easily and consistently.</li>
+                        <li>We have been working with hundreds of shopping centres for ten years and now we have the opportunity to work with all of them on your behalf.</li>
+                        <li>This puts us in the unique position to offer a service truly no one else can.</li>
+                        <li>We are an extension of your brand and your team.</li>
+                        <li>Don’t be fooled by others in the market place. When you look at the competition compared to Retail Maverick there is no comparison.</li>
+                    </ul>
+                </div>
+                
+            </div>-->
+        </div>
+    </div>
+</section>
+<!--<section id="business_case">-->
+<!--    <div class="center_align text-left">-->
+<!--        <h2> Better than Google Adwords and Facebook Ads? </h2> -->
+<!--        <br/>-->
+<!--        <h2> <b> Yes, it is true!</b></h2>-->
+<!--        <a href="/pages/retailmaverick-business-case--2" class="btn">Read More</a>-->
+<!--        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1501597090000/Rachel_Maverick_2x.png" class="" alt="">-->
+<!--    </div>-->
+<!--</section>-->
+<section id="business_case">
+    <div class="main_container ">
+        <h2 class="text-left"> Better than Google Adwords and <br class="show-break"/>Facebook Ads? </h2> 
+        <div class="center_align text-left its_true show_phone">
+            <br/>
+            <h2 class="its_true"> <b> Yes, it is true!</b></h2><br class="show-break-mobile"/>
+            <a href="/better_than_google_ads" class="btn">Read More</a>
+        </div>
+         <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1501597090000/Rachel_Maverick_2x.png" class="" alt="">
+    </div>
+</section>
+
+<!--<section id="visitors" class="">-->
+<!--    <div class="main_container text-center">-->
+<!--        <h1 class="visitors_title">Every Week Our Network Receives&nbsp;Over</h1>-->
+<!--        <h1 class="visitors_title"><span class="visitors_numbers">500,000</span> Visitors & <span class="visitors_numbers">1&nbsp;Million</span> Views</h1>-->
+<!--    </div>-->
+<!--</section>-->
+<section id="visitors" class="retailers">
+    <div class="main_container text-center">
+        <div class="visitor_inner_container">
+             <h1 class="visitors_title">Retail Mavrick was featured on <br/>canada's top online retail news outlet</h1>
+             <div class="retail_insider_images">
+                <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">
+                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504120676000/RI_Logo.png" class="RI_logo" alt="">
+                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504120637000/RI_Mockup@2x.png" class="RI_desktop_image hidden_phone" alt="">
+                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504123281000/RI_Mockupmobile@2x.png" class="RI_desktop_image show_phone" alt="">
+                <span style="width:100%;padding:50px"></span>
+                </a>
+            </div>
+            <div class="ri_article hidden_phone ">
+                <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">CLICK HERE TO LEARN MORE</a>
+            </div>
+            
+        </div>
+        
+        <div class="ri_article show_phone ">
+            <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">LEARN MORE</a>
+        </div>
+    </div>
+</section>
+
+<section id="compare_section" class="">
+    <div class="main_container">
+        <div class="main_content">
+            <div class="row margin_10">
+                <div class="col-xs-5 col-md-6"></div>
+                <div class="col-xs-7 col-md-5">
+                    <div class="col-xs-6">
+                        <p class="compare_title mm">Retail Maverick</p>
+                    </div>
+                    <div class="col-xs-6">
+                        <p class="compare_title">Competition</p>
+                    </div>
+                </div>
+                <div class="col-md-1 hidden_phone"></div>
+            </div>
+            <div class="row margin_10">
+                <div class="col-xs-5 col-md-5 col-md-offset-1">
+                    <p class="compare">Best Price Guarantee</p>
+                </div>
+                <div class="col-xs-7 col-md-5">
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323324000/check_mark.png" class="check_mark" alt="">    
+                    </div>
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323337000/x.png" class="x_mark" alt="">   
+                    </div>
+                </div>
+                <div class="col-md-1 hidden_phone"></div>
+            </div>
+            <div class="row margin_10">
+                <div class="col-xs-5 col-md-5 col-md-offset-1">
+                    <p class="compare">Direct Integration with Shopping Centres</p>
+                </div>
+                <div class="col-xs-7 col-md-5">
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323324000/check_mark.png" class="check_mark" alt="">    
+                    </div>
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323337000/x.png" class="x_mark" alt="">   
+                    </div>
+                </div>
+                <div class="col-md-1 hidden_phone"></div>
+            </div>
+            <div class="row margin_10">
+                <div class="col-xs-5 col-md-5 col-md-offset-1">
+                    <p class="compare">More Relationships with Shopping Centres</p>
+                </div>
+                <div class="col-xs-7 col-md-5">
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323324000/check_mark.png" class="check_mark" alt="">    
+                    </div>
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323337000/x.png" class="x_mark" alt="">   
+                    </div>
+                </div>
+                <div class="col-md-1 hidden_phone"></div>
+            </div>
+            <div class="row margin_10">
+                <div class="col-xs-5 col-md-5 col-md-offset-1">
+                    <p class="compare">Weekly Status Reports</p>
+                </div>
+                <div class="col-xs-7 col-md-5">
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323324000/check_mark.png" class="check_mark" alt="">    
+                    </div>
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323337000/x.png" class="x_mark" alt="">   
+                    </div>
+                </div>
+                <div class="col-md-1 hidden_phone"></div>
+            </div>
+            <div class="row margin_10">
+                <div class="col-xs-5 col-md-5 col-md-offset-1">
+                    <p class="compare">Dedicated Digital Marketing Specialist</p>
+                </div>
+                <div class="col-xs-7 col-md-5">
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323324000/check_mark.png" class="check_mark" alt="">    
+                    </div>
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323337000/x.png" class="x_mark" alt="">   
+                    </div>
+                </div>
+                <div class="col-md-1 hidden_phone"></div>
+            </div>
+            <div class="row margin_10">
+                <div class="col-xs-5 col-md-5 col-md-offset-1">
+                    <p class="compare">#1&nbsp;Customer&nbsp;Service<span><img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491330249000/zendesk.png" class="zendesk" alt=""></span></p>
+                </div>
+                <div class="col-xs-7 col-md-5">
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323324000/check_mark.png" class="check_mark" alt="">    
+                    </div>
+                    <div class="col-xs-6">
+                        <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1491323337000/x.png" class="x_mark" alt="">   
+                    </div>
+                </div>
+                <div class="col-md-1 hidden_phone"></div>
+            </div>
+            <!--<div class="visible-md-block visible-lg-block hidden-xs hidden-sm">-->
+            <!--    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497024836000/desktop.png" class="" alt="">-->
+            <!--</div>-->
+            <!--<div class="visible-sm-block hidden-xs hidden-md">-->
+            <!--    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497024836000/tablet.png" class="" alt="">-->
+            <!--</div>-->
+            <!--<div class="visible-xs-block">-->
+            <!--    <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497024836000/Mobile.png" class="" alt="">-->
+            <!--</div>-->
+        </div>
+    </div>
+</section>
+
+<script>
+    $(document).ready(function(){
+        init();
+        scroll();
+        
+        $('#signup_form').submit(function(e){
+            $('.send_btn').prop('disabled', true);
+            e.preventDefault();
+            var post_data = {}
+            post_data.mailto = "info@retailmaverick.com, george@retailmaverick.com";
+            post_data.subject = "RM Sign up";
+            custom = {};
+            custom.name = $('#full_name').val();
+            custom.email = $('#email').val()
+            custom.phone = $('#phone').val();
+            custom.retailer = $('#retailer').val();
+            post_data.custom = custom;
+            $.post("//home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
+                if(status == "success"){
+                        var dialog = bootbox.dialog({
+                            title: 'Thank you for contacting Retail Maverick',
+                            message: 'We have received your information. A Retail Maverick representative will be in touch with you in the next 2 to 3 business days.'
+                        }); 
+                    $.getJSON("//home.mallmaverick.com/retailer_maverick_sign_up?mailto=" + $('#email').val() + "&text_body=Thank you for joining Retail Maverick. One of our representatives will be in contact with you shortly to book a demo appointment.");
+                    $('#signup_form').trigger('reset');
+                    $('.send_btn').prop('disabled', false);
+                }
+                else{
+                    alert("Unable to process your request. Please try again later.");
+                }
+            });
+            $.getJSON(
+                this.action + "?callback=?",
+                $(this).serialize()
+            );
+        });
+        
+        $('#video_player_retailer, #video_player_mb').click(function(){
+            $('#play_retail_video').show();
+            //$("#play_retail_video iframe").attr('src', $("#play_retail_video iframe").attr('src') + '?rel=0&autoplay=1'); 
+            $('<div class="modal-backdrop custom_backdrop custom_backdrop_video" style="z-index:4"></div>').appendTo(document.body);
+        });
+        $('.close_video, .custom_backdrop_video').click(function(){
+            $(".custom_backdrop_video").remove();
+	        $('#play_retail_video').hide();
+	        $('iframe').attr('src', $('iframe').attr('src'));
+        })
+    });
+</script>
