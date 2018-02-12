@@ -66,6 +66,7 @@
                 <!--<img id="open_menu" src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1452023412000/menu_mobile.png" class="menu_icons" alt="Open Menu">-->
                 <!--<img id="close_menu" src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1452023426000/close_menu.png" class="menu_icons" alt="Close Menu">-->
                 <ul class="custom_nav" id="menu">
+                    <li><a href="/about_us">About Us</a></li>
                     <li><a href="/retailers">For Retailers</a></li>
                     <li><a href="/shopping_centres">For Shopping Centres</a></li>
                     <li><a href="/registration">Register</a></li>
