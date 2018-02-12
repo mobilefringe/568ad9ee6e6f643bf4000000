@@ -2492,6 +2492,10 @@ a{
     .slide_taller {
          height:360px;
     }
+    #about_us {
+        padding-top: 30px;
+    padding-bottom: 0px;
+    }
 }
 
 /* Mobile (468px and under)*/
