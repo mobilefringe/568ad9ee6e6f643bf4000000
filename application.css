@@ -1280,6 +1280,10 @@ a{
         padding-top: 90px;
         padding-bottom: 80px;
     }
+    .who_we_are{
+    font-size: 16px;
+    line-height: 1.75;
+}
 }
 /* Small devices (tablets, 769px and up) */
 @media (min-width: 769px) {
