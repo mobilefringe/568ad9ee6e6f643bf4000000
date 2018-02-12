@@ -2493,8 +2493,10 @@ a{
          height:360px;
     }
     #about_us {
-        padding-top: 30px;
-        padding-bottom: 0px;
+        .why_retailM {
+            padding-top: 30px;
+            padding-bottom: 0px;
+        }
     }
 }
 
