@@ -140,29 +140,29 @@
 <!--        <h1 class="visitors_title"><span class="visitors_numbers">500,000</span> Visitors & <span class="visitors_numbers">1 Million</span> Views</h1>-->
 <!--    </div>-->
 <!--</section>-->
-<section id="visitors" class="homepage">
-    <div class="main_container text-center">
-        <div class="visitor_inner_container">
-             <h1 class="visitors_title">Retail Mavrick was featured on <br/>canada's top online retail <br class="show-break"/>news outlet</h1>
-             <div class="retail_insider_images">
-                <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">
-                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504120676000/RI_Logo.png" class="RI_logo" alt="">
-                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504120637000/RI_Mockup@2x.png" class="RI_desktop_image hidden_phone" alt="">
-                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504123281000/RI_Mockupmobile@2x.png" class="RI_desktop_image show_phone" alt="">
-                <span style="width:100%;padding:50px"></span>
-                </a>
-            </div>
-            <div class="ri_article hidden_phone ">
-                <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">CLICK HERE TO LEARN MORE</a>
-            </div>
+<!--<section id="visitors" class="homepage">-->
+<!--    <div class="main_container text-center">-->
+<!--        <div class="visitor_inner_container">-->
+<!--             <h1 class="visitors_title">Retail Mavrick was featured on <br/>canada's top online retail <br class="show-break"/>news outlet</h1>-->
+<!--             <div class="retail_insider_images">-->
+<!--                <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504120676000/RI_Logo.png" class="RI_logo" alt="">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504120637000/RI_Mockup@2x.png" class="RI_desktop_image hidden_phone" alt="">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504123281000/RI_Mockupmobile@2x.png" class="RI_desktop_image show_phone" alt="">-->
+<!--                <span style="width:100%;padding:50px"></span>-->
+<!--                </a>-->
+<!--            </div>-->
+<!--            <div class="ri_article hidden_phone ">-->
+<!--                <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">CLICK HERE TO LEARN MORE</a>-->
+<!--            </div>-->
             
-        </div>
+<!--        </div>-->
         
-        <div class="ri_article show_phone ">
-            <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">LEARN MORE</a>
-        </div>
-    </div>
-</section>
+<!--        <div class="ri_article show_phone ">-->
+<!--            <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">LEARN MORE</a>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 
 <section id="how_it_works" class="">
     <div class="main_container text-center">
