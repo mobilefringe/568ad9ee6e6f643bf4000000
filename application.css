@@ -1285,6 +1285,7 @@ a{
         line-height: 1.75;
     }
     .video_container {
+        padding: 69px 0px;
         img{
             max-width: 100%;
         }
