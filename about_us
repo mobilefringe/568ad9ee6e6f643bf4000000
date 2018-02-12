@@ -109,4 +109,14 @@
 	        $('iframe').attr('src', $('iframe').attr('src'));
         })
     });
+     function renderAll(){
+        
+        var testimony = getBlogList();
+        renderTestimony("#testimony_container", "#testimony_template", testimony);
+        
+        $('.flexslider').flexslider({
+            animation: "slide"
+        });
+        $('.flex-next').html("");
+    }
 </script>
