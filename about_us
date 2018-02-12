@@ -37,7 +37,7 @@
     </div>
 </section>
 
-<section id="visitors" class="retailers">
+<section id="visitors" class="retailers" style="margin-bottom:0">
     <div class="main_container text-center">
         <div class="visitor_inner_container">
              <h1 class="visitors_title">Retail Mavrick was featured on <br/>canada's top online retail news outlet</h1>
