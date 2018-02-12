@@ -164,7 +164,7 @@ function renderTestimony(container, template, collection){
     });
     $(container).html(item_rendered.join(''));
 }
-function renderSInglwTestimony(container, template, collection){
+function renderSinglwTestimony(container, template, collection){
     var item_list = [];
     var item_rendered = [];
     var template_html = $(template).html();
