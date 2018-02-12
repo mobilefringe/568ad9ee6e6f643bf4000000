@@ -1,0 +1,192 @@
+<section id="page_banner">
+    <div class="main_container hero_container">
+        <div>
+            <h2 class="page_title text-center">For Shopping Centres</h2>
+            <p class="headline_desc">Retail Maverick will post all of your promotions automatically!</p>
+        </div>
+    </div>
+</section>
+<div class="play_video hidden_now" style="z-index:50" id="play_shopping_video">
+    <iframe class="hidden_phone"  id="youtube_video" width="800px" height="600px" src="https://www.youtube.com/embed/OYfS6bS22mQ" frameborder="0" allowfullscreen></iframe>
+    <iframe class="show_phone" width="100%" height="100%" src="//www.youtube.com/embed/OYfS6bS22mQ" frameborder="0" allowfullscreen></iframe>
+    <!--<div class="custom_backdrop" style="z-index:3"></div>-->
+    <i class="fa fa-remove close_video" style="z-index:51"></i>
+</div>
+<section id="about_shopping">
+    <div class="main_container">
+        <div class="main_content" style="padding: initial;">
+            <div class="row ">
+                <div class="col-xs-12 visible-xs-block video_container">
+                    <a role="button" id="video_player"><img style="z-index:1; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497655610000/Group 79.png" class="" alt=""></a>
+                    <!--<iframe width="100%" height="250" src="//www.youtube.com/embed/nVqXz52bGZo" frameborder="0" allowfullscreen></iframe>-->
+                </div>
+                <div class="col-sm-6 why_retailM">
+                    <h2 class="heading">Marketing Made Easy</h2>
+                    <ul>
+                        <li>Tired of receiving hundreds of emails every week to post retail promotions?</li>
+                        <li>Always have engaged shoppers for your shopping centre and save over 8 hours a week for you and your team all at the same time.</li>
+                        <li>Retail Maverick will post all of your retailer promotions directly to your website automatically without you needing to do a thing!</li>
+                        <li>Digital Marketing has never been so easy. Let us show you how!</li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 hidden-xs video_container">
+                    <a role="button" id="video_player_shopping"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497655578000/Group 78.png" class="" alt=""></a>
+                </div>
+                <!--<div class="col-md-6 col-sm-6 hidden-xs hidden-md visible-sm-block video_container">-->
+                <!-- <a role="button" id="video_player_shopping"><img style="z-index:0; position:relative;" src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497291923000/For Shoppers Tablet.png" class="" alt=""></a>-->
+                <!--</div>-->
+                
+                <!--<div class="col-md-12 hidden-xs video_container">-->
+                <!--    <iframe width="600px" height="338" src="https://www.youtube.com/embed/OYfS6bS22mQ" frameborder="0" allowfullscreen></iframe>    -->
+                <!--</div>-->
+                <!--<div class="col-md-12 visible-xs-block">-->
+                <!--    <iframe width="100%" height="250" src="https://www.youtube.com/embed/OYfS6bS22mQ" frameborder="0" allowfullscreen></iframe>    -->
+                <!--</div>-->
+            <!--</div>   -->
+            <!--<div class="row extra_padding">-->
+            <!--    <div class="col-md-12">-->
+            <!--        <h2 class="heading">Tired of receiving hundreds of emails every week to post retail promotions?</h2>-->
+            <!--        <p class="desc">-->
+            <!--            Always have engaged shoppers for your shopping centre and save over 8 hours a week for you and your team all at the same time.-->
+            <!--        </p>-->
+            <!--        <p class="desc">-->
+            <!--            <span class="uppercase">Retail Maverick will post all of your retailer promotions</span> directly to your website automatically without you needing to do a                          thing!<br><br>-->
+            <!--            Digital Marketing has never been so easy. Let us show you how!<br><br>-->
+            <!--        </p>-->
+            <!--    </div>-->
+                
+            <!--</div>-->
+            <!--<div class="row extra_padding">-->
+            <!--    <div class="col-md-12">-->
+            <!--        <h2 class="heading text-center">Upgrade Your Website to Mall Maverick</h2>   -->
+            <!--        <p class="desc">-->
+            <!--            If you’re looking for a new website make sure you check out <a href="//www.mallmaverick.com" target="_blank">Mall Maverick</a>.-->
+            <!--        </p>-->
+            <!--        <p class="desc">-->
+            <!--            Mall Maverick is the best-in-class website solution used by over 150 shopping centres already and have all of your digital content posted automatically!    -->
+            <!--        </p>-->
+            <!--    </div>-->
+            </div> 
+        </div>
+    </div>
+</section>
+
+<!--<section id="centre_features" class="">-->
+<!--    <div class="main_container">-->
+<!--        <div class="row margin_40">-->
+<!--            <div class="col-sm-4 mm_icons">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486132412000/devices.png" alt="responsive website">-->
+<!--            </div>-->
+<!--            <div class="col-sm-4 mm_icons">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486132398000/cms.png" alt="apps for all devices">-->
+<!--            </div>-->
+<!--            <div class="col-sm-4 mm_icons">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1486132385000/zendesk.png" alt="digital directory">-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
+
+<!--<section id="visitors" class="">-->
+<!--    <div class="main_container text-center">-->
+<!--        <h1 class="visitors_title">Every Week Our Network Receives&nbsp;Over</h1>-->
+<!--        <h1 class="visitors_title"><span class="visitors_numbers">500,000</span> Visitors & <span class="visitors_numbers">1 Million</span> Views</h1>-->
+<!--    </div>-->
+<!--</section>-->
+
+<!--<section id="visitors" class="">-->
+<!--    <div class="main_container text-center">-->
+<!--        <div class="visitor_inner_container">-->
+<!--             <h1 class="visitors_title">Retail Mavrick was featured on <br/>canada's top online retail news outlet</h1>-->
+<!--             <div class="retail_insider_images">-->
+<!--                <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504120676000/RI_Logo.png" class="RI_logo" alt="">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504120637000/RI_Mockup@2x.png" class="RI_desktop_image hidden_phone" alt="">-->
+<!--                <img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1504123281000/RI_Mockupmobile@2x.png" class="RI_desktop_image show_phone" alt="">-->
+<!--                <span style="width:100%;padding:50px"></span>-->
+<!--                </a>-->
+<!--            </div>-->
+<!--            <div class="ri_article hidden_phone ">-->
+<!--                <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">CLICK HERE TO LEARN MORE</a>-->
+<!--            </div>-->
+            
+<!--        </div>-->
+        
+<!--        <div class="ri_article show_phone ">-->
+<!--            <a href="https://www.retail-insider.com/retail-insider/2017/8/retail-maverick" class="">LEARN MORE</a>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
+
+<section class="try_mallmaverick">
+    <div class="main_container">
+        <div class="main_content" style="padding: initial;">
+            <div class="row extra_padding">
+                <div class="col-sm-6">
+                    <h2 class="cap_it">Are you a Shopping Centre looking for a new website?</h2>   
+                    <p class="desc cap_it">
+                        Check out <a href="//www.mallmaverick.com" target="_blank">Mall Maverick</a> to&nbsp;learn&nbsp;More.
+                    </p>
+                </div>
+                <div class="col-sm-6 col-md-6">
+                    <div class="mm_images">
+                        <!--<a href="//www.mallmaverick.com" target="_blank"><img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496943733000/MM Logo-02.png" class="mallm_logo" alt=""></a>-->
+                        <!--<img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1496943783000/Fill 1.png" class="resize" alt="">-->
+                        <a href="//www.mallmaverick.com" target="_blank">
+                            <img src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/image/png/1497042079000/Mall Maverick Logo.png" class="" id="mm_images_img" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+    $(document).ready(function(){
+        init();
+        scroll();
+        
+        $('#signup_form').submit(function(e){
+            $('.send_btn').prop('disabled', true);
+            e.preventDefault();
+            var post_data = {}
+            post_data.mailto = "info@retailmaverick.com, george@retailmaverick.com";
+            post_data.subject = "RM Sign up";
+            custom = {};
+            custom.name = $('#full_name').val();
+            custom.email = $('#email').val()
+            custom.phone = $('#phone').val();
+            custom.retailer = $('#retailer').val();
+            post_data.custom = custom;
+            $.post("//home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
+                if(status == "success"){
+                        var dialog = bootbox.dialog({
+                            title: 'Thank you for contacting Retail Maverick',
+                            message: 'We have received your information. A Retail Maverick representative will be in touch with you in the next 2 to 3 business days.'
+                        }); 
+                    $.getJSON("//home.mallmaverick.com/retailer_maverick_sign_up?mailto=" + $('#email').val() + "&text_body=Thank you for joining Retail Maverick. One of our representatives will be in contact with you shortly to book a demo appointment.");
+                    $('#signup_form').trigger('reset');
+                    $('.send_btn').prop('disabled', false);
+                }
+                else{
+                    alert("Unable to process your request. Please try again later.");
+                }
+            });
+            $.getJSON(
+                this.action + "?callback=?",
+                $(this).serialize()
+            );
+        });
+        
+        $('#video_player_shopping, #video_player').click(function(){
+            $('#play_shopping_video').show();
+            //$("#play_shopping_video iframe").attr('src', $("#play_shopping_video iframe").attr('src') + '?rel=0&autoplay=1'); 
+            $('<div class="modal-backdrop custom_backdrop custom_backdrop_video" style="z-index:4"></div>').appendTo(document.body);
+        });
+        $('.close_video, .custom_backdrop_video').click(function(){
+            $(".custom_backdrop_video").remove();
+	        $("#play_shopping_video").hide();
+	        $('iframe').attr('src', $('iframe').attr('src'));
+        })
+    });
+</script>
