@@ -105,9 +105,7 @@ Our approach is simple....less is more. We are fanatical believers that the best
     <div class="main_container">
         <h2 class="heading text-center">Some Of Our Clients</h2>
         <div class="our_client_logos">
-            <div class="col-sm-1">
-                <!--<img src="//codecloud.cdn.speedyrails.net/sites/5a7ddc856e6f64616e3c0000/image/png/1517605639000/mfteamsmall.png" class="" alt="">-->
-            </div>
+            <div class="col-sm-1"></div>
             <div class="col-sm-2">
                 <img src="http://via.placeholder.com/600x600" class="image" alt="">
             </div>
