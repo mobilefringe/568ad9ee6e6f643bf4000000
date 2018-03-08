@@ -105,7 +105,9 @@ Our approach is simple....less is more. We are fanatical believers that the best
     <div class="main_container">
         <h2 class="heading text-center">Some Of Our Clients</h2>
         <div>
-            
+            <div class="col-sm-2">
+                
+            </div>
         </div>
     </div>
 </section>
