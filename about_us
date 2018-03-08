@@ -121,9 +121,7 @@ Our approach is simple....less is more. We are fanatical believers that the best
             <div class="col-sm-2">
                 <img src="http://via.placeholder.com/600x600" class="image" alt="">
             </div>
-            <div class="col-sm-1">
-                
-            </div>
+            <div class="col-sm-1"></div>
         </div>
     </div>
 </section>
