@@ -41,6 +41,7 @@
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
         prefix = get_prefix();
+        console.log(prefix)''
         var pages_json = prefix+"/pages/" + slug + ".json"
         
         if (slug.indexOf("retailmaverick-business-case--2") > -1) {
