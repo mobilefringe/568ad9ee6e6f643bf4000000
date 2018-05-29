@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/css/1502287490000/base.min.css"/>
         <link rel="stylesheet" href="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/css/1502287490000/fancy.min.css"/>
         <link rel="stylesheet" href="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/css/1502287490000/main.css"/>
-        <script src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/javascript/1502287490000/compatibility.min.js"></script>
+        <script src="//codecloud.cdn.speedyrails.net/sites/5807b9fc6e6f646246030000/text/javascript/1502287490000/compatibility.min.js"></script>
         <script src="http://assets.codecloudapp.com/sites/5807b9fc6e6f646246030000/text/javascript/1502287492000/theViewer.min.js"></script>
         <script>
             try{
