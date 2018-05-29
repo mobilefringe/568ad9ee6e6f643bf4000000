@@ -87,16 +87,16 @@
             custom.outlets = $('#num_outlets').val();
             post_data.custom = custom;
             $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
-                $.getJSON(
-                    "https://mobilefringe.createsend.com/t/d/s/maltd/?callback=?",
-                    "cm-maltd-maltd=" + $('#email').val(),
-                    function (data) {
-                        if (data.Status === 400) {
-                            alert("Unable to process your request. Please try again later.");
-                        } else { // 200
-                            window.location = "/registration_confirmed";
-                        }
-                });
+                // $.getJSON(
+                //     "https://mobilefringe.createsend.com/t/d/s/maltd/?callback=?",
+                //     "cm-maltd-maltd=" + $('#email').val(),
+                //     function (data) {
+                //         if (data.Status === 400) {
+                //             alert("Unable to process your request. Please try again later.");
+                //         } else { // 200
+                //             window.location = "/registration_confirmed";
+                //         }
+                // });
             });
         });
         
