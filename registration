@@ -86,7 +86,7 @@
             custom.position = $('#position').val();
             custom.outlets = $('#num_outlets').val();
             post_data.custom = custom;
-            $.post("https://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
+            $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 $.getJSON(
                     "https://mobilefringe.createsend.com/t/d/s/maltd/?callback=?",
                     "cm-maltd-maltd=" + $('#email').val(),
