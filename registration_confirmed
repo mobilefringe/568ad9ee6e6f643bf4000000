@@ -47,7 +47,7 @@
             custom.position = $('#position').val();
             custom.num_outlets = $('#num_outlets').val();
             post_data.custom = custom;
-            $.post("https://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
+            $.post("http://home.mallmaverick.com/custom_email", post_data, function(data, status, xhr){
                 if(status == "success"){
                     var dialog = bootbox.dialog({
                         title: "Congratulations!",
