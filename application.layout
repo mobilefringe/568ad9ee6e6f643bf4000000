@@ -47,7 +47,7 @@
         
         <!-- Site data -->
         <script>
-            setEndPoint('http://retailmaverick.mallmaverick.com//api/v3/retailmaverick/all.json');
+            setEndPoint('//retailmaverick.mallmaverick.com//api/v3/retailmaverick/all.json');
         </script>
     
     </head>
