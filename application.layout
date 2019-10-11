@@ -67,7 +67,7 @@
                 <!--<img id="close_menu" src="//codecloud.cdn.speedyrails.net/sites/57f51d926e6f6429bc000000/image/png/1452023426000/close_menu.png" class="menu_icons" alt="Close Menu">-->
                 <ul class="custom_nav" id="menu">
                     <li><a href="/retailers">For Retailers</a></li>
-                    <li><a href="/shopping_centres">For Shopping Centres</a></li>
+                    <li><a href="/shopping_centres">For Shopping Centers</a></li>
                     <li><a href="/registration">Register</a></li>
                     <li><a href="mailto:info@retailmaverick.com" class="sign_up">Contact Us</a></li>
                 </ul>
