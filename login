@@ -37,7 +37,7 @@
 
 
 
-		<p>Problem logging in? Contact Shopping Centre admin.</p>
+		<p>Problem logging in? Contact Shopping Center admin.</p>
 		<div class="terms-of-service">
 			By clicking on Log In you are agreeing to the <br><a href="https://www.mallmaverick.com/pages/home-terms-of-use" target="_blank">terms of use</a>
 		</div>
